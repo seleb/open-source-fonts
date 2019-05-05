@@ -25,7 +25,7 @@ function parsePb(string){
 				cur[key] = cur[key] || [];
 				cur[key].push(JSON.parse(val));
 			} else {
-				cur[key] = JSON.parse(val);
+				cur[key] = JSON.parse(val.replace(/\\'/g,"'"));
 			}
 		}
 	}
