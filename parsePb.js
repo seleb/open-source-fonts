@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 function getVal(val) {
-	return val.replace(/"(.*)"/, '$1').replace(/\\("|')g/, '"');
+	return val.replace(/^"(.*)"$/, '$1').replace(/\\("|')g/, '"');
 }
 
 function parsePb(string){
@@ -24,7 +24,7 @@ function parsePb(string){
 			cur = {};
 			result[group].push(cur);
 		} else {
-			const [key, val] = line.split(': ');
+			const [key, val] = line.split(/: (.*)/);
 			if (key.endsWith('s')) {
 				cur[key] = cur[key] || [];
 				cur[key].push(getVal(val));
