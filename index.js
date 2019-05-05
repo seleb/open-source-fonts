@@ -13,7 +13,7 @@ const results = {};
 
 async function saveFont(fontName) {
 	const metadataFile = await fsp.readFile(`./node_modules/fonts/ofl/${fontName}/METADATA.pb`, 'utf8');
-	const metadata = parsePb(metadataFile);
+	const { fonts, subsets } = parsePb(metadataFile);
 
 	async function saveFontVariant({
 		filename,
@@ -46,13 +46,13 @@ async function saveFont(fontName) {
 			ctx.fillText(text, w / 2, h * height);
 		}
 
-		const subsets = (await Promise.all(metadata.subsets
+		const subsetsString = (await Promise.all(subsets
 			.filter(s => s !== 'menu')
 			.map(s => fsp.readFile(`./subsets/${s}.txt`, 'utf8'))
 		)).map(s => s.trim()).join(' - ');
 
 		drawText(full_name, 100, 7 / 8, 1 / 2);
-		drawText(subsets, 50, 3 / 4, 3 / 5);
+		drawText(subsetsString, 50, 3 / 4, 3 / 5);
 		drawText(copyright, 50, 3 / 4, 4 / 5);
 
 		// save image
@@ -63,7 +63,7 @@ async function saveFont(fontName) {
 		results[full_name] = fontName;
 	}
 
-	return Promise.all(metadata.fonts.map(saveFontVariant));
+	return Promise.all(fonts.map(saveFontVariant));
 }
 
 async function main() {
