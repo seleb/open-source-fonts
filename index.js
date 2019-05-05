@@ -6,8 +6,8 @@ const fs = require('fs');
 const parsePb = require('./parsePb');
 const fsp = fs.promises;
 
-const w = 1920;
-const h = 1080;
+const w = 1280;
+const h = 720;
 
 const results = {};
 const errors = [];
