@@ -49,10 +49,10 @@ async function main() {
 				.filter(s => s !== 'menu')
 				.map(s => fs.readFileSync(`./subsets/${s}.txt`, 'utf8').trim())
 				.join(' - ');
+		drawText(full_name, 100, 7 / 8, 1 / 2);
+		drawText(subsets, 50, 3 / 4, 3 / 5);
+		drawText(copyright, 50, 3 / 4, 4 / 5);
 
-			drawText(full_name, 100, 8 / 7, 1 / 2);
-			drawText(subsets, 50, 4 / 3, 3 / 5);
-			drawText(copyright, 50, 4 / 3, 4 / 5);
 
 			// save image
 			const out = fs.createWriteStream(`./output/${fontName}_${full_name}.png`)
