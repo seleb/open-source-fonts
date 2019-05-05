@@ -10,9 +10,16 @@ const w = 1920;
 const h = 1080;
 
 const results = {};
+const errors = [];
 
 async function saveFont(fontName) {
-	const metadataFile = await fsp.readFile(`./node_modules/fonts/ofl/${fontName}/METADATA.pb`, 'utf8');
+	let metadataFile;
+	try {
+		metadataFile = await fsp.readFile(`./node_modules/fonts/ofl/${fontName}/METADATA.pb`, 'utf8');
+	} catch (err) {
+		errors.push({ fontName, err });
+		return;
+	}
 	const { fonts, subsets } = parsePb(metadataFile);
 
 	async function saveFontVariant({
@@ -68,10 +75,19 @@ async function saveFont(fontName) {
 
 async function main() {
 	const files = await fsp.readdir('./node_modules/fonts/ofl');
-	await Promise.all(files.slice(0,10).map(saveFont));
-	fsp.writeFile('./output/output.txt', JSON.stringify(results, undefined, 1), 'utf8');
+	await files.reduce(async (chain, file) => {
+		await chain;
+		await saveFont(file);
+	}, Promise.resolve());
+	if (errors.length > 0) {
+		console.warn('Skipped:', errors);
+	}
+	return fsp.writeFile('./output/output.txt', JSON.stringify(results, undefined, 1), 'utf8');
 }
 
 main()
 	.then(() => console.log('👍'))
-	.catch(err => console.error('👎', err));
+	.catch(err => {
+		console.log('👎');
+		console.error(err);
+	});
