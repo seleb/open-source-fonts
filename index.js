@@ -23,6 +23,7 @@ async function saveFont(fontName) {
 	const { fonts, subsets } = parsePb(metadataFile);
 
 	async function saveFontVariant({
+		name,
 		filename,
 		full_name,
 		copyright,
@@ -69,7 +70,7 @@ async function saveFont(fontName) {
 		const stream = canvas.createPNGStream();
 		stream.pipe(out);
 		console.log(full_name);
-		results[full_name] = fontName;
+		results[full_name] = name;
 	}
 
 	return Promise.all(fonts.map(saveFontVariant));
@@ -84,7 +85,21 @@ async function main() {
 	if (errors.length > 0) {
 		console.warn('Skipped:', errors);
 	}
-	return fsp.writeFile('./output/output.txt', JSON.stringify(results, undefined, 1), 'utf8');
+	return fsp.writeFile('./output/output.json', JSON.stringify({
+	origin: ["#[#setFont#]main#"],
+	main:["#name# - https://fonts.google.com/specimen/#name##SVGstart##SVGlayout##SVGend#"],
+
+	"wrapper for SVG (image) section":[],
+	SVGstart:["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"1280\" height=\"720\" viewBox=\"0 0 1280 720\"><rect width=\"1280\" height=\"720\" fill=\"black\"/>"],
+	SVGend:["</svg>}"],
+
+	SVGlayout:[
+		"<image xlink:href=\"https://seans.site/stuff/open-source-fonts/#file#.png\" width=\"1280\" height=\"720\"/>"
+	],
+	
+	"list of directories in Google fonts":[],
+	setFont: Object.entries(results).map(([file, name]) => `[file:${file}][name:${name}]`)
+}, undefined, 1), 'utf8');
 }
 
 main()
