@@ -1,5 +1,9 @@
 const fs = require('fs');
 
+function getVal(val) {
+	return val.replace(/"(.*)"/, '$1').replace(/\\("|')g/, '"');
+}
+
 function parsePb(string){
 	const result = {};
 	const stack = [];
@@ -23,9 +27,14 @@ function parsePb(string){
 			const [key, val] = line.split(': ');
 			if (key.endsWith('s')) {
 				cur[key] = cur[key] || [];
-				cur[key].push(JSON.parse(val));
+				cur[key].push(getVal(val));
 			} else {
-				cur[key] = JSON.parse(val.replace(/\\'/g,"'"));
+				try {
+					cur[key] = getVal(val);
+				} catch (err) {
+					console.error(key, val, err);
+					throw err;
+				}
 			}
 		}
 	}
