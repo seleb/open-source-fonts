@@ -41,11 +41,13 @@ async function saveFont(fontName) {
 		ctx.fillStyle = 'white';
 		ctx.textAlign = 'center';
 
-		function drawText(text, startSize, maxWidth, height) {
+		const includesLatin = subsets.includes('latin');
+
+		function drawText(text, startSize, maxWidth, height, forceSans = false) {
 			let fontSize = startSize;
 			let width;
 			do {
-				ctx.font = `${weight} ${style} ${fontSize}pt '${full_name}'`;
+				ctx.font = `${weight} ${style} ${fontSize}pt '${forceSans ? 'sans' : full_name}'`;
 				fontSize -= 2;
 				const metrics = ctx.measureText(text);
 				width = metrics.width;
@@ -58,9 +60,9 @@ async function saveFont(fontName) {
 			.map(s => fsp.readFile(`./subsets/${s}.txt`, 'utf8'))
 		)).map(s => s.trim()).join(' - ');
 
-		drawText(full_name, 100, 7 / 8, 1 / 2);
+		drawText(full_name, 100, 7 / 8, 1 / 2, !includesLatin);
 		drawText(subsetsString, 50, 3 / 4, 3 / 5);
-		drawText(copyright, 50, 3 / 4, 4 / 5);
+		drawText(copyright, 50, 3 / 4, 4 / 5, !includesLatin);
 
 		// save image
 		const out = fs.createWriteStream(`./output/${full_name}.png`)
