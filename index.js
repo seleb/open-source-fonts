@@ -42,7 +42,7 @@ async function saveFont(fontName) {
 		ctx.fillStyle = 'white';
 		ctx.textAlign = 'center';
 
-		const includesLatin = subsets.includes('latin');
+		const includesLatin = subsets.includes('latin') || subsets.includes('latin-ext');
 
 		function drawText(text, startSize, maxWidth, height, forceSans = false) {
 			let fontSize = startSize;
