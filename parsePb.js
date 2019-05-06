@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 function getVal(val) {
-	return val.replace(/^"(.*)"$/, '$1').replace(/\\("|')g/, '"');
+	return val.replace(/^"(.*)"$/, '$1').replace(/\\("|')/g, '"');
 }
 
 function parsePb(string){
