@@ -79,7 +79,7 @@ async function main() {
 	}
 	return fsp.writeFile('./output/output.json', JSON.stringify({
 		origin: ["#[#setFont#]main#"],
-		main: ["#name# - https://fonts.google.com/specimen/#name##SVGstart##SVGlayout##SVGend#"],
+		main: ["#name# - https://fonts.google.com/specimen/#name.replace( ,%20)##SVGstart##SVGlayout##SVGend#"],
 
 		"wrapper for SVG (image) section": [],
 		SVGstart: ["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"1280\" height=\"720\" viewBox=\"0 0 1280 720\"><rect width=\"1280\" height=\"720\" fill=\"black\"/>"],
