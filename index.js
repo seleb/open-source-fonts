@@ -1,105 +1,100 @@
-const {
-	createCanvas,
-	registerFont
-} = require('canvas');
 const fs = require('fs');
+const {
+	execSync
+} = require('child_process');
 const parsePb = require('./parsePb');
 const fsp = fs.promises;
 
-const w = 1280;
-const h = 720;
-
-const results = {};
 const errors = [];
 
-async function saveFont(fontName) {
-	let metadataFile;
-	try {
-		metadataFile = await fsp.readFile(`./node_modules/fonts/ofl/${fontName}/METADATA.pb`, 'utf8');
-	} catch (err) {
-		errors.push({ fontName, err });
-		return;
-	}
-	const { fonts, subsets } = parsePb(metadataFile);
+const badFonts = fs.readFileSync('./badFonts.txt', 'utf8')
+	.split(/\n/)
+	.map(f => f.trim())
+	.reduce((result, font) => ({
+		...result,
+		[font]: true,
+	}), {});
 
-	async function saveFontVariant({
-		name,
-		filename,
-		full_name,
-		copyright,
-		weight,
-		style,
-	}) {
-		registerFont(`./node_modules/fonts/ofl/${fontName}/${filename}`, {
-			family: full_name,
-			weight,
-			style,
-		});
-		const canvas = createCanvas(w, h);
-		const ctx = canvas.getContext('2d');
-		ctx.fillStyle = 'black';
-		ctx.fillRect(0, 0, w, h);
-		ctx.fillStyle = 'white';
-		ctx.textAlign = 'center';
+async function getVariants(fontName) {
+	const metadataFile = await fsp.readFile(`./node_modules/fonts/ofl/${fontName}/METADATA.pb`, 'utf8');
+	const {
+		fonts,
+		subsets
+	} = parsePb(metadataFile);
 
-		const includesLatin = subsets.includes('latin') || subsets.includes('latin-ext');
+	const subsetsString = (await Promise.all(subsets
+		.filter(s => s !== 'menu')
+		.map(s => fsp.readFile(`./subsets/${s}.txt`, 'utf8'))
+	)).map(s => s.trim()).join(' - ');
 
-		function drawText(text, startSize, maxWidth, height, forceSans = false) {
-			let fontSize = startSize;
-			let width;
-			do {
-				ctx.font = `${weight} ${style} ${fontSize}pt '${forceSans ? 'sans' : full_name}'`;
-				fontSize -= 2;
-				const metrics = ctx.measureText(text);
-				width = metrics.width;
-			} while (width > w * maxWidth && fontSize > 0);
-			ctx.fillText(text, w / 2, h * height);
-		}
-
-		const subsetsString = (await Promise.all(subsets
-			.filter(s => s !== 'menu')
-			.map(s => fsp.readFile(`./subsets/${s}.txt`, 'utf8'))
-		)).map(s => s.trim()).join(' - ');
-
-		drawText(full_name, 100, 7 / 8, 1 / 2, !includesLatin);
-		drawText(subsetsString, 50, 3 / 4, 3 / 5);
-		drawText(copyright, 50, 3 / 4, 4 / 5, !includesLatin);
-
-		// save image
-		const out = fs.createWriteStream(`./output/${full_name}.png`)
-		const stream = canvas.createPNGStream();
-		stream.pipe(out);
-		console.log(full_name);
-		results[full_name] = name;
-	}
-
-	return Promise.all(fonts.map(saveFontVariant));
+	return fonts.map(font => ({
+		...font,
+		fontName,
+		subsets: subsetsString
+	}));
 }
 
 async function main() {
+	// get font list
 	const files = await fsp.readdir('./node_modules/fonts/ofl');
-	await files.reduce(async (chain, file) => {
-		await chain;
-		await saveFont(file);
-	}, Promise.resolve());
+	// read metadata from font list
+	const fontVariants = await Promise.all(files.map(f => getVariants(f).catch(error => {
+		errors.push({
+			font: f,
+			error
+		});
+	})));
+	// flatten sets
+	const fonts = fontVariants
+		.filter(f => f)
+		.reduce((result, sets) => result.concat(sets), []);
+
+	// filter out bad fonts
+	const validFonts = fonts.filter(({
+		fontName,
+		full_name
+	}) => {
+		if (badFonts[full_name]) {
+			errors.push({
+				font: fontName,
+				error: 'manually excluded',
+			});
+			return false;
+		} else {
+			return true;
+		}
+	});
+
+	// save previews
+	validFonts.forEach(font => {
+		fs.writeFileSync('./temp.json', JSON.stringify(font), 'utf8');
+		execSync(`node "./saveFontPreview" --file="./temp.json"`);
+		console.log(font.full_name);
+	});
+
+	// finalize output
 	if (errors.length > 0) {
-		console.warn('Skipped:', errors);
+		await fsp.writeFile('./output/errors.json', JSON.stringify(errors, undefined, 1), 'utf8');
+		console.warn(`Skipped ${errors.length} fonts due to errors; see ./output/errors.json for details`);
 	}
 	return fsp.writeFile('./output/output.json', JSON.stringify({
-	origin: ["#[#setFont#]main#"],
-	main:["#name# - https://fonts.google.com/specimen/#name##SVGstart##SVGlayout##SVGend#"],
+		origin: ["#[#setFont#]main#"],
+		main: ["#name# - https://fonts.google.com/specimen/#name##SVGstart##SVGlayout##SVGend#"],
 
-	"wrapper for SVG (image) section":[],
-	SVGstart:["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"1280\" height=\"720\" viewBox=\"0 0 1280 720\"><rect width=\"1280\" height=\"720\" fill=\"black\"/>"],
-	SVGend:["</svg>}"],
+		"wrapper for SVG (image) section": [],
+		SVGstart: ["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"1280\" height=\"720\" viewBox=\"0 0 1280 720\"><rect width=\"1280\" height=\"720\" fill=\"black\"/>"],
+		SVGend: ["</svg>}"],
 
-	SVGlayout:[
-		"<image xlink:href=\"https://seans.site/stuff/open-source-fonts/#file#.png\" width=\"1280\" height=\"720\"/>"
-	],
-	
-	"list of directories in Google fonts":[],
-	setFont: Object.entries(results).map(([file, name]) => `[file:${file}][name:${name}]`)
-}, undefined, 1), 'utf8');
+		SVGlayout: [
+			"<image xlink:href=\"https://seans.site/stuff/open-source-fonts/#file#.png\" width=\"1280\" height=\"720\"/>"
+		],
+
+		"list of directories in Google fonts": [],
+		setFont: fonts.map(({
+			full_name,
+			name
+		}) => `[file:${full_name}][name:${name}]`)
+	}, undefined, 1), 'utf8');
 }
 
 main()
