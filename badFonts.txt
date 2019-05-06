@@ -1,0 +1,985 @@
+ABeeZee Regular
+Advent Pro ExtraLight
+Advent Pro Light
+Advent Pro Medium
+Advent Pro SemiBold
+Advent Pro Thin
+Alegreya Black
+Alegreya Black Italic
+Alegreya ExtraBold
+Alegreya ExtraBold Italic
+Alegreya Medium
+Alegreya Medium Italic
+Alegreya SC Black
+Alegreya SC Black Italic
+Alegreya SC ExtraBold
+Alegreya SC ExtraBold Italic
+Alegreya SC Medium
+Alegreya SC Medium Italic
+Alegreya Sans Black
+Alegreya Sans Black Italic
+Alegreya Sans ExtraBold
+Alegreya Sans ExtraBold Italic
+Alegreya Sans Italic
+Alegreya Sans Light
+Alegreya Sans Light Italic
+Alegreya Sans Medium
+Alegreya Sans Medium Italic
+Alegreya Sans SC Black
+Alegreya Sans SC Black Italic
+Alegreya Sans SC ExtraBold
+Alegreya Sans SC ExtraBold Italic
+Alegreya Sans SC Light
+Alegreya Sans SC Light Italic
+Alegreya Sans SC Medium
+Alegreya Sans SC Medium Italic
+Alegreya Sans SC Thin
+Alegreya Sans SC Thin Italic
+Alegreya Sans Thin
+Alegreya Sans Thin Italic
+Aleo Light
+Aleo Light Italic
+Amiko SemiBold
+Antonio Bold
+Antonio Light
+Antonio Regular
+Archivo Medium
+Archivo Medium Italic
+Archivo Narrow Medium
+Archivo Narrow Medium Italic
+Archivo Narrow SemiBold
+Archivo Narrow SemiBold Italic
+Archivo SemiBold
+Archivo SemiBold Italic
+Arima Madurai Black
+Arima Madurai ExtraBold
+Arima Madurai ExtraLight
+Arima Madurai Light
+Arima Madurai Medium
+Arima Madurai Thin
+Asap Condensed Medium
+Asap Condensed Medium Italic
+Asap Condensed SemiBold
+Asap Condensed SemiBold Italic
+Asap Medium
+Asap Medium Italic
+Asap SemiBold
+Asap SemiBold Italic
+Assistant ExtraBold
+Assistant ExtraLight
+Assistant Light
+Assistant SemiBold
+Athiti ExtraLight
+Athiti Light
+Athiti Medium
+Athiti SemiBold
+Atma Light
+Atma Medium
+Atma SemiBold
+Averia Libre Light
+Averia Libre Light Italic
+Averia Sans Libre Light
+Averia Sans Libre Light Italic
+Averia Serif Libre Light
+Averia Serif Libre Light Italic
+Bai Jamjuree ExtraLight
+Bai Jamjuree ExtraLight Italic
+Bai Jamjuree Light
+Bai Jamjuree Light Italic
+Bai Jamjuree Medium
+Bai Jamjuree Medium Italic
+Bai Jamjuree SemiBold
+Bai Jamjuree SemiBold Italic
+Barlow Black
+Barlow Black Italic
+Barlow Condensed Black
+Barlow Condensed Black Italic
+Barlow Condensed Bold
+Barlow Condensed Bold Italic
+Barlow Condensed ExtraBold
+Barlow Condensed ExtraBold Italic
+Barlow Condensed ExtraLight
+Barlow Condensed ExtraLight Italic
+Barlow Condensed Italic
+Barlow Condensed Light
+Barlow Condensed Light Italic
+Barlow Condensed Medium
+Barlow Condensed Medium Italic
+Barlow Condensed Regular
+Barlow Condensed SemiBold
+Barlow Condensed SemiBold Italic
+Barlow Condensed Thin
+Barlow Condensed Thin Italic
+Barlow ExtraBold
+Barlow ExtraBold Italic
+Barlow ExtraLight
+Barlow ExtraLight Italic
+Barlow Light
+Barlow Light Italic
+Barlow Medium
+Barlow Medium Italic
+Barlow Semi Condensed Black
+Barlow Semi Condensed Black Italic
+Barlow Semi Condensed Bold
+Barlow Semi Condensed Bold Italic
+Barlow Semi Condensed ExtraBold
+Barlow Semi Condensed ExtraBold Italic
+Barlow Semi Condensed ExtraLight
+Barlow Semi Condensed ExtraLight Italic
+Barlow Semi Condensed Italic
+Barlow Semi Condensed Light
+Barlow Semi Condensed Light Italic
+Barlow Semi Condensed Medium
+Barlow Semi Condensed Medium Italic
+Barlow Semi Condensed Regular
+Barlow Semi Condensed SemiBold
+Barlow Semi Condensed SemiBold Italic
+Barlow Semi Condensed Thin
+Barlow Semi Condensed Thin Italic
+Barlow SemiBold
+Barlow SemiBold Italic
+Barlow Thin
+Barlow Thin Italic
+BenchNine Light
+BioRhyme Expanded Bold
+BioRhyme Expanded ExtraBold
+BioRhyme Expanded ExtraLight
+BioRhyme Expanded Light
+BioRhyme Expanded Regular
+BioRhyme ExtraBold
+BioRhyme ExtraLight
+BioRhyme Light
+Biryani Black
+Biryani ExtraBold
+Biryani ExtraLight
+Biryani Light
+Biryani SemiBold
+Black Han Sans Regular
+Bowlby One SC Regular
+Buda Light
+Cabin Condensed
+Cabin Condensed Bold
+Cabin Condensed Medium
+Cabin Condensed SemiBold
+Cairo Black
+Cairo ExtraLight
+Cairo Light
+Cairo SemiBold
+Catamaran Black
+Catamaran ExtraBold
+Catamaran ExtraLight
+Catamaran Light
+Catamaran Medium
+Catamaran SemiBold
+Catamaran Thin
+Chakra Petch Light
+Chakra Petch Light Italic
+Chakra Petch Medium
+Chakra Petch Medium Italic
+Chakra Petch SemiBold
+Chakra Petch SemiBold Italic
+Changa ExtraBold
+Changa ExtraLight
+Changa Light
+Changa Medium
+Changa SemiBold
+Chathura ExtraBold
+Chathura Light
+Chathura Thin
+Chivo Black
+Chivo Black Italic
+Chivo Bold
+Chivo Bold Italic
+Chivo Light
+Chivo Light Italic
+Cinzel Black
+Cinzel Decorative Black
+Coda Caption ExtraBold
+Coda ExtraBold
+Cormorant Garamond Light
+Cormorant Garamond Light Italic
+Cormorant Garamond Medium
+Cormorant Garamond Medium Italic
+Cormorant Garamond SemiBold
+Cormorant Garamond SemiBold Italic
+Cormorant Infant Light
+Cormorant Infant Light Italic
+Cormorant Infant Medium
+Cormorant Infant Medium Italic
+Cormorant Infant SemiBold
+Cormorant Infant SemiBold Italic
+Cormorant Light
+Cormorant Light Italic
+Cormorant Medium
+Cormorant Medium Italic
+Cormorant SC Light
+Cormorant SC Medium
+Cormorant SC SemiBold
+Cormorant SemiBold
+Cormorant SemiBold Italic
+Cormorant Unicase Light
+Cormorant Unicase Medium
+Cormorant Unicase SemiBold
+Cormorant Upright Light
+Cormorant Upright Medium
+Cormorant Upright SemiBold
+Coustard Black
+Crimson Text SemiBold
+Crimson Text SemiBold Italic
+Diplomata
+Diplomata SC
+EB Garamond ExtraBold
+EB Garamond ExtraBold Italic
+EB Garamond Medium
+EB Garamond Medium Italic
+EB Garamond SemiBold
+EB Garamond SemiBold Italic
+Eczar ExtraBold
+Eczar Medium
+Eczar SemiBold
+Ek Mukta ExtraBold
+Ek Mukta ExtraLight
+Ek Mukta Light
+Ek Mukta Medium
+Ek Mukta SemiBold
+El Messiri Medium
+El Messiri SemiBold
+Elsie Black
+Elsie Swash Caps Black
+Encode Sans Black
+Encode Sans Condensed Black
+Encode Sans Condensed Bold
+Encode Sans Condensed ExtraBold
+Encode Sans Condensed ExtraLight
+Encode Sans Condensed Light
+Encode Sans Condensed Medium
+Encode Sans Condensed Regular
+Encode Sans Condensed SemiBold
+Encode Sans Condensed Thin
+Encode Sans Expanded Black
+Encode Sans Expanded Bold
+Encode Sans Expanded ExtraBold
+Encode Sans Expanded ExtraLight
+Encode Sans Expanded Light
+Encode Sans Expanded Medium
+Encode Sans Expanded Regular
+Encode Sans Expanded SemiBold
+Encode Sans Expanded Thin
+Encode Sans ExtraBold
+Encode Sans ExtraLight
+Encode Sans Light
+Encode Sans Medium
+Encode Sans Semi Condensed Black
+Encode Sans Semi Condensed Bold
+Encode Sans Semi Condensed ExtraBold
+Encode Sans Semi Condensed ExtraLight
+Encode Sans Semi Condensed Light
+Encode Sans Semi Condensed Medium
+Encode Sans Semi Condensed Regular
+Encode Sans Semi Condensed SemiBold
+Encode Sans Semi Condensed Thin
+Encode Sans Semi Expanded Black
+Encode Sans Semi Expanded Bold
+Encode Sans Semi Expanded ExtraBold
+Encode Sans Semi Expanded ExtraLight
+Encode Sans Semi Expanded Light
+Encode Sans Semi Expanded Medium
+Encode Sans Semi Expanded Regular
+Encode Sans Semi Expanded SemiBold
+Encode Sans Semi Expanded Thin
+Encode Sans SemiBold
+Encode Sans Thin
+Exo 2 Black
+Exo 2 Black Italic
+Exo 2 Extra Bold
+Exo 2 Extra Bold Italic
+Exo 2 Extra Light
+Exo 2 Extra Light Italic
+Exo 2 Light
+Exo 2 Light Italic
+Exo 2 Medium
+Exo 2 Medium Italic
+Exo 2 Semi Bold
+Exo 2 Semi Bold Italic
+Exo 2 Thin
+Exo 2 Thin Italic
+Exo Black
+Exo Black Italic
+Exo ExtraBold
+Exo ExtraBold Italic
+Exo ExtraLight
+Exo ExtraLight Italic
+Exo Light
+Exo Light Italic
+Exo Medium
+Exo Medium Italic
+Exo SemiBold
+Exo SemiBold Italic
+Exo Thin
+Exo Thin Italic
+Fahkwang ExtraLight
+Fahkwang ExtraLight Italic
+Fahkwang Light
+Fahkwang Light Italic
+Fahkwang Medium
+Fahkwang Medium Italic
+Fahkwang SemiBold
+Fahkwang SemiBold Italic
+Faustina Medium
+Faustina Medium Italic
+Faustina SemiBold
+Faustina SemiBold Italic
+Fira Mono Medium
+Fira Sans Black
+Fira Sans Black Italic
+Fira Sans Condensed Black
+Fira Sans Condensed Black Italic
+Fira Sans Condensed Bold
+Fira Sans Condensed Bold Italic
+Fira Sans Condensed ExtraBold
+Fira Sans Condensed ExtraBold Italic
+Fira Sans Condensed ExtraLight
+Fira Sans Condensed ExtraLight Italic
+Fira Sans Condensed Italic
+Fira Sans Condensed Light
+Fira Sans Condensed Light Italic
+Fira Sans Condensed Medium
+Fira Sans Condensed Medium Italic
+Fira Sans Condensed Regular
+Fira Sans Condensed SemiBold
+Fira Sans Condensed SemiBold Italic
+Fira Sans Condensed Thin
+Fira Sans Condensed Thin Italic
+Fira Sans Extra Condensed Black
+Fira Sans Extra Condensed Black Italic
+Fira Sans Extra Condensed Bold
+Fira Sans Extra Condensed Bold Italic
+Fira Sans Extra Condensed ExtraBold
+Fira Sans Extra Condensed ExtraBold Italic
+Fira Sans Extra Condensed ExtraLight
+Fira Sans Extra Condensed ExtraLight Italic
+Fira Sans Extra Condensed Italic
+Fira Sans Extra Condensed Light
+Fira Sans Extra Condensed Light Italic
+Fira Sans Extra Condensed Medium
+Fira Sans Extra Condensed Medium Italic
+Fira Sans Extra Condensed Regular
+Fira Sans Extra Condensed SemiBold
+Fira Sans Extra Condensed SemiBold Italic
+Fira Sans Extra Condensed Thin
+Fira Sans Extra Condensed Thin Italic
+Fira Sans ExtraBold
+Fira Sans ExtraBold Italic
+Fira Sans ExtraLight
+Fira Sans ExtraLight Italic
+Fira Sans Light
+Fira Sans Light Italic
+Fira Sans Medium
+Fira Sans Medium Italic
+Fira Sans SemiBold
+Fira Sans SemiBold Italic
+Fira Sans Thin
+Fira Sans Thin Italic
+Flamenco Light
+Frank Ruhl Libre Black
+Frank Ruhl Libre Light
+Frank Ruhl Libre Medium
+Gaegu Light
+Gothic A1 Black
+Gothic A1 ExtraBold
+Gothic A1 ExtraLight
+Gothic A1 Light
+Gothic A1 Medium
+Gothic A1 SemiBold
+Gothic A1 Thin
+Halant Light
+Halant Medium
+Halant SemiBold
+Heebo Black
+Heebo ExtraBold
+Heebo Light
+Heebo Medium
+Heebo Thin
+Hind Colombo Light
+Hind Colombo Medium
+Hind Colombo SemiBold
+Hind Guntur Light
+Hind Guntur Medium
+Hind Guntur SemiBold
+Hind Jalandhar Light
+Hind Jalandhar Medium
+Hind Jalandhar SemiBold
+Hind Kochi Light
+Hind Kochi Medium
+Hind Kochi SemiBold
+Hind Light
+Hind Madurai Light
+Hind Madurai Medium
+Hind Madurai SemiBold
+Hind Medium
+Hind Mysuru Light
+Hind Mysuru Medium
+Hind Mysuru SemiBold
+Hind SemiBold
+Hind Siliguri Light
+Hind Siliguri Medium
+Hind Siliguri SemiBold
+Hind Vadodara Light
+Hind Vadodara Medium
+Hind Vadodara SemiBold
+IBM Plex Mono ExtraLight
+IBM Plex Mono ExtraLight Italic
+IBM Plex Mono Light
+IBM Plex Mono Light Italic
+IBM Plex Mono Medium
+IBM Plex Mono Medium Italic
+IBM Plex Mono SemiBold
+IBM Plex Mono SemiBold Italic
+IBM Plex Mono Thin
+IBM Plex Mono Thin Italic
+IBM Plex Sans Condensed
+IBM Plex Sans Condensed Bold
+IBM Plex Sans Condensed Bold Italic
+IBM Plex Sans Condensed ExtraLight
+IBM Plex Sans Condensed ExtraLight Italic
+IBM Plex Sans Condensed Italic
+IBM Plex Sans Condensed Light
+IBM Plex Sans Condensed Light Italic
+IBM Plex Sans Condensed Medium
+IBM Plex Sans Condensed Medium Italic
+IBM Plex Sans Condensed SemiBold
+IBM Plex Sans Condensed SemiBold Italic
+IBM Plex Sans Condensed Thin
+IBM Plex Sans Condensed Thin Italic
+IBM Plex Sans ExtraLight
+IBM Plex Sans ExtraLight Italic
+IBM Plex Sans Light
+IBM Plex Sans Light Italic
+IBM Plex Sans Medium
+IBM Plex Sans Medium Italic
+IBM Plex Sans SemiBold
+IBM Plex Sans SemiBold Italic
+IBM Plex Sans Thin
+IBM Plex Sans Thin Italic
+IBM Plex Serif ExtraLight
+IBM Plex Serif ExtraLight Italic
+IBM Plex Serif Light
+IBM Plex Serif Light Italic
+IBM Plex Serif Medium
+IBM Plex Serif Medium Italic
+IBM Plex Serif SemiBold
+IBM Plex Serif SemiBold Italic
+IBM Plex Serif Thin
+IBM Plex Serif Thin Italic
+Inknut Antiqua Black
+Inknut Antiqua ExtraBold
+Inknut Antiqua Light
+Inknut Antiqua Medium
+Inknut Antiqua SemiBold
+Josefin Slab Light
+Josefin Slab Light Italic
+Josefin Slab SemiBold
+Josefin Slab SemiBold Italic
+Josefin Slab Thin
+Josefin Slab Thin Italic
+Jura Light
+Jura Medium
+Jura SemiBold
+K2D ExtraBold
+K2D ExtraBold Italic
+K2D ExtraLight
+K2D ExtraLight Italic
+K2D Light
+K2D Light Italic
+K2D Medium
+K2D Medium Italic
+K2D SemiBold
+K2D SemiBold Italic
+K2D Thin
+K2D Thin Italic
+Kalam Light
+Kanit Black
+Kanit Black Italic
+Kanit ExtraBold
+Kanit ExtraBold Italic
+Kanit ExtraLight
+Kanit ExtraLight Italic
+Kanit Light
+Kanit Light Italic
+Kanit Medium
+Kanit Medium Italic
+Kanit SemiBold
+Kanit SemiBold Italic
+Kanit Thin
+Kanit Thin Italic
+Kantumruy
+Kantumruy Bold
+Kantumruy Light
+Karma Light
+Karma Medium
+Karma SemiBold
+Khand Light
+Khand Medium
+Khand SemiBold
+Khula ExtraBold
+Khula Light
+Khula SemiBold
+KoHo ExtraLight
+KoHo ExtraLight Italic
+KoHo Light
+KoHo Light Italic
+KoHo Medium
+KoHo Medium Italic
+KoHo SemiBold
+KoHo SemiBold Italic
+Kodchasan ExtraLight
+Kodchasan ExtraLight Italic
+Kodchasan Light
+Kodchasan Light Italic
+Kodchasan Medium
+Kodchasan Medium Italic
+Kodchasan SemiBold
+Kodchasan SemiBold Italic
+Kreon Light
+Krub ExtraLight
+Krub ExtraLight Italic
+Krub Light
+Krub Light Italic
+Krub Medium
+Krub Medium Italic
+Krub SemiBold
+Krub SemiBold Italic
+Laila Light
+Laila Medium
+Laila SemiBold
+Lato Black
+Lato Black Italic
+Lato ExtraBold
+Lato ExtraBold Italic
+Lato ExtraLight
+Lato ExtraLight Italic
+Lato Light
+Lato Light Italic
+Lato Medium
+Lato Medium Italic
+Lato SemiBold
+Lato SemiBold Italic
+Lato Thin
+Lato Thin Italic
+Lemonada Light
+Lemonada SemiBold
+Libre Franklin Black
+Libre Franklin Black Italic
+Libre Franklin ExtraBold
+Libre Franklin ExtraBold Italic
+Libre Franklin ExtraLight
+Libre Franklin ExtraLight Italic
+Libre Franklin Light
+Libre Franklin Light Italic
+Libre Franklin Medium
+Libre Franklin Medium Italic
+Libre Franklin SemiBold
+Libre Franklin SemiBold Italic
+Libre Franklin Thin
+Libre Franklin Thin Italic
+Londrina Solid Black
+Londrina Solid Light
+Londrina Solid Thin
+Mada Black
+Mada ExtraLight
+Mada Light
+Mada Medium
+Mada SemiBold
+Maitree ExtraLight
+Maitree Light
+Maitree Medium
+Maitree SemiBold
+Mali ExtraLight
+Mali ExtraLight Italic
+Mali Light
+Mali Light Italic
+Mali Medium
+Mali Medium Italic
+Mali SemiBold
+Mali SemiBold Italic
+Manuale Medium
+Manuale Medium Italic
+Manuale SemiBold
+Manuale SemiBold Italic
+Martel DemiBold
+Martel ExtraBold
+Martel Heavy
+Martel Light
+Martel Sans Black
+Martel Sans ExtraBold
+Martel Sans ExtraLight
+Martel Sans Light
+Martel Sans SemiBold
+Martel UltraLight
+Merriweather Black
+Merriweather Black Italic
+Merriweather Light
+Merriweather Light Italic
+Merriweather Sans ExtraBold
+Merriweather Sans ExtraBold Italic
+Merriweather Sans Light
+Merriweather Sans Light Italic
+Mirza Medium
+Mirza SemiBold
+Mitr ExtraLight
+Mitr Light
+Mitr Medium
+Mitr SemiBold
+Montserrat Black Italic
+Montserrat ExtraBold Italic
+Montserrat ExtraLight Italic
+Montserrat Light Italic
+Montserrat Medium Italic
+Montserrat SemiBold Italic
+Montserrat Thin Italic
+Mukta ExtraBold
+Mukta ExtraLight
+Mukta Light
+Mukta Mahee ExtraBold
+Mukta Mahee ExtraLight
+Mukta Mahee Light
+Mukta Mahee Medium
+Mukta Mahee SemiBold
+Mukta Malar ExtraBold
+Mukta Malar ExtraLight
+Mukta Malar Light
+Mukta Malar Medium
+Mukta Malar SemiBold
+Mukta Medium
+Mukta SemiBold
+Mukta Vaani ExtraBold
+Mukta Vaani ExtraLight
+Mukta Vaani Light
+Mukta Vaani Medium
+Mukta Vaani SemiBold
+NanumGothicExtraBold
+NanumMyeongjoExtraBold
+Neuton ExtraBold
+Neuton ExtraLight
+Neuton Light
+Niramit ExtraLight
+Niramit ExtraLight Italic
+Niramit Light
+Niramit Light Italic
+Niramit Medium
+Niramit Medium Italic
+Niramit SemiBold
+Niramit SemiBold Italic
+Nobile Medium
+Nobile Medium Italic
+Nunito Black
+Nunito Black Italic
+Nunito ExtraBold
+Nunito ExtraBold Italic
+Nunito ExtraLight
+Nunito ExtraLight Italic
+Nunito Light
+Nunito Light Italic
+Nunito Sans Black
+Nunito Sans Black Italic
+Nunito Sans ExtraBold
+Nunito Sans ExtraBold Italic
+Nunito Sans ExtraLight
+Nunito Sans ExtraLight Italic
+Nunito Sans Light
+Nunito Sans Light Italic
+Nunito Sans SemiBold
+Nunito Sans SemiBold Italic
+Nunito SemiBold
+Nunito SemiBold Italic
+Orbitron Black
+Orbitron Medium
+Overlock Black
+Overlock Black Italic
+Overpass Black
+Overpass Black Italic
+Overpass ExtraBold
+Overpass ExtraBold Italic
+Overpass ExtraLight
+Overpass ExtraLight Italic
+Overpass Light
+Overpass Light Italic
+Overpass Mono Light
+Overpass Mono SemiBold
+Overpass SemiBold
+Overpass SemiBold Italic
+Overpass Thin
+Overpass Thin Italic
+PT Sans Narrow
+PT Sans Narrow Bold
+Palanquin Dark Medium
+Palanquin Dark SemiBold
+Palanquin ExtraLight
+Palanquin Light
+Palanquin Medium
+Palanquin SemiBold
+Palanquin Thin
+Passion One Black
+Pecita
+Playfair Display Black
+Playfair Display Black Italic
+Playfair Display SC Black
+Playfair Display SC Black Italic
+Podkova ExtraBold
+Podkova Medium
+Podkova SemiBold
+Poppins Black
+Poppins Black Italic
+Poppins ExtraBold
+Poppins ExtraBold Italic
+Poppins ExtraLight
+Poppins ExtraLight Italic
+Poppins Light
+Poppins Light Italic
+Poppins Medium
+Poppins Medium Italic
+Poppins SemiBold
+Poppins SemiBold Italic
+Poppins Thin
+Poppins Thin Italic
+Pridi ExtraLight
+Pridi Light
+Pridi Medium
+Pridi SemiBold
+Prompt Black
+Prompt Black Italic
+Prompt ExtraBold
+Prompt ExtraBold Italic
+Prompt ExtraLight
+Prompt ExtraLight Italic
+Prompt Light
+Prompt Light Italic
+Prompt Medium
+Prompt Medium Italic
+Prompt SemiBold
+Prompt SemiBold Italic
+Prompt Thin
+Prompt Thin Italic
+Proza Libre ExtraBold
+Proza Libre ExtraBold Italic
+Proza Libre Medium
+Proza Libre Medium Italic
+Proza Libre SemiBold
+Proza Libre SemiBold Italic
+Quicksand Light
+Quicksand Medium
+Rajdhani Light
+Rajdhani Medium
+Rajdhani SemiBold
+Raleway Black
+Raleway Black Italic
+Raleway ExtraBold
+Raleway ExtraBold Italic
+Raleway ExtraLight
+Raleway ExtraLight Italic
+Raleway Light
+Raleway Light Italic
+Raleway Medium
+Raleway Medium Italic
+Raleway SemiBold
+Raleway SemiBold Italic
+Raleway Thin
+Raleway Thin Italic
+Rasa Light
+Rasa Medium
+Rasa SemiBold
+Rokkitt Black
+Rokkitt ExtraBold
+Rokkitt ExtraLight
+Rokkitt Light
+Rokkitt Medium
+Rokkitt SemiBold
+Rokkitt Thin
+Rubik Black
+Rubik Black Italic
+Rubik Bold Italic
+Rubik Light
+Rubik Light Italic
+Rubik Medium
+Rubik Medium Italic
+Ruda Black
+Saira Black
+Saira Condensed Black
+Saira Condensed Bold
+Saira Condensed ExtraBold
+Saira Condensed ExtraLight
+Saira Condensed Light
+Saira Condensed Medium
+Saira Condensed Regular
+Saira Condensed SemiBold
+Saira Condensed Thin
+Saira ExtraBold
+Saira ExtraCondensed Black
+Saira ExtraCondensed Bold
+Saira ExtraCondensed ExtraBold
+Saira ExtraCondensed ExtraLight
+Saira ExtraCondensed Light
+Saira ExtraCondensed Medium
+Saira ExtraCondensed Regular
+Saira ExtraCondensed SemiBold
+Saira ExtraCondensed Thin
+Saira ExtraLight
+Saira Light
+Saira Medium
+Saira SemiBold
+Saira SemiCondensed Black
+Saira SemiCondensed Bold
+Saira SemiCondensed ExtraBold
+Saira SemiCondensed ExtraLight
+Saira SemiCondensed Light
+Saira SemiCondensed Medium
+Saira SemiCondensed Regular
+Saira SemiCondensed SemiBold
+Saira SemiCondensed Thin
+Saira Thin
+Sansita Black
+Sansita Black Italic
+Sansita ExtraBold
+Sansita ExtraBold Italic
+Sarabun ExtraBold
+Sarabun ExtraBold Italic
+Sarabun ExtraLight
+Sarabun ExtraLight Italic
+Sarabun Light
+Sarabun Light Italic
+Sarabun Medium
+Sarabun Medium Italic
+Sarabun SemiBold
+Sarabun SemiBold Italic
+Sarabun Thin
+Sarabun Thin Italic
+Sarpanch Black
+Sarpanch ExtraBold
+Sarpanch Medium
+Sarpanch SemiBold
+Signika Light
+Signika Negative Light
+Signika Negative SemiBold
+Signika SemiBold
+Simonetta Black
+Simonetta Black Italic
+Source Code Pro Black
+Source Code Pro ExtraLight
+Source Code Pro Light
+Source Code Pro Medium
+Source Code Pro SemiBold
+Source Sans Pro Black
+Source Sans Pro Black Italic
+Source Sans Pro ExtraLight
+Source Sans Pro ExtraLight Italic
+Source Sans Pro Light
+Source Sans Pro Light Italic
+Source Sans Pro SemiBold
+Source Sans Pro SemiBold Italic
+Source Serif Pro Black
+Source Serif Pro ExtraLight
+Source Serif Pro Light
+Source Serif Pro SemiBold
+Spectral ExtraBold
+Spectral ExtraBold Italic
+Spectral ExtraLight
+Spectral ExtraLight Italic
+Spectral Light
+Spectral Light Italic
+Spectral Medium
+Spectral Medium Italic
+Spectral SC ExtraBold
+Spectral SC ExtraBold Italic
+Spectral SC ExtraLight
+Spectral SC ExtraLight Italic
+Spectral SC Light
+Spectral SC Light Italic
+Spectral SC Medium
+Spectral SC Medium Italic
+Spectral SC SemiBold
+Spectral SC SemiBold Italic
+Spectral SemiBold
+Spectral SemiBold Italic
+Stint Ultra Condensed
+Stint Ultra Expanded
+Strait
+Sunflower Light
+Sunflower Medium
+Tajawal Black
+Tajawal ExtraBold
+Tajawal ExtraLight
+Tajawal Light
+Tajawal Medium
+Taviraj Black
+Taviraj Black Italic
+Taviraj ExtraBold
+Taviraj ExtraBold Italic
+Taviraj ExtraLight
+Taviraj ExtraLight Italic
+Taviraj Light
+Taviraj Light Italic
+Taviraj Medium
+Taviraj Medium Italic
+Taviraj SemiBold
+Taviraj SemiBold Italic
+Taviraj Thin
+Taviraj Thin Italic
+Teko Light
+Teko Medium
+Teko SemiBold
+Thabit-Bold Bold
+Thabit-Bold-Oblique Bold Oblique
+Thabit-Oblique Oblique
+Tienne Black
+Tillana ExtraBold
+Tillana Medium
+Tillana SemiBold
+Titillium Web Black
+Titillium Web ExtraLight
+Titillium Web ExtraLight Italic
+Titillium Web Light
+Titillium Web Light Italic
+Titillium Web SemiBold
+Titillium Web SemiBold Italic
+Trirong Black
+Trirong Black Italic
+Trirong ExtraBold
+Trirong ExtraBold Italic
+Trirong ExtraLight
+Trirong ExtraLight Italic
+Trirong Light
+Trirong Light Italic
+Trirong Medium
+Trirong Medium Italic
+Trirong SemiBold
+Trirong SemiBold Italic
+Trirong Thin
+Trirong Thin Italic
+Varta SemiBold
+Vesper Libre Heavy
+Vesper Libre Medium
+Vollkorn SC Black
+Vollkorn SC SemiBold
+Work Sans Black
+Work Sans ExtraBold
+Work Sans ExtraLight
+Work Sans Light
+Work Sans Medium
+Work Sans SemiBold
+Work Sans Thin
+Yanone Kaffeesatz ExtraLight
+Yanone Kaffeesatz Light
+Yantramanav Black
+Yantramanav Light
+Yantramanav Medium
+Yantramanav Thin
+Yrsa Light
+Yrsa Medium
+Yrsa SemiBold
+ZCOOL XiaoWei Regular
+Zilla Slab Light
+Zilla Slab Light Italic
+Zilla Slab Medium
+Zilla Slab Medium Italic
+Zilla Slab SemiBold
+Zilla Slab SemiBold Italic
