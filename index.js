@@ -63,6 +63,17 @@ async function main() {
 		} else {
 			return true;
 		}
+	}).filter(font => {
+		fs.writeFileSync('./temp.json', JSON.stringify(font), 'utf8');
+		const valid = execSync(`node "./testFont" --file="./temp.json"`).length === 0;
+		if (!valid) {
+			errors.push({
+				font: font.full_name,
+				error: 'failed to load',
+			});
+		}
+		console.log(font.full_name, 'test');
+		return valid;
 	});
 
 	// save previews
