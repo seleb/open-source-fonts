@@ -1,4 +1,3 @@
-ABeeZee Regular
 Advent Pro ExtraLight
 Advent Pro Light
 Advent Pro Medium
@@ -10,17 +9,10 @@ Alegreya ExtraBold
 Alegreya ExtraBold Italic
 Alegreya Medium
 Alegreya Medium Italic
-Alegreya SC Black
-Alegreya SC Black Italic
-Alegreya SC ExtraBold
-Alegreya SC ExtraBold Italic
-Alegreya SC Medium
-Alegreya SC Medium Italic
 Alegreya Sans Black
 Alegreya Sans Black Italic
 Alegreya Sans ExtraBold
 Alegreya Sans ExtraBold Italic
-Alegreya Sans Italic
 Alegreya Sans Light
 Alegreya Sans Light Italic
 Alegreya Sans Medium
@@ -37,6 +29,12 @@ Alegreya Sans SC Thin
 Alegreya Sans SC Thin Italic
 Alegreya Sans Thin
 Alegreya Sans Thin Italic
+Alegreya SC Black
+Alegreya SC Black Italic
+Alegreya SC ExtraBold
+Alegreya SC ExtraBold Italic
+Alegreya SC Medium
+Alegreya SC Medium Italic
 Aleo Light
 Aleo Light Italic
 Amiko SemiBold
@@ -188,8 +186,6 @@ Chathura Light
 Chathura Thin
 Chivo Black
 Chivo Black Italic
-Chivo Bold
-Chivo Bold Italic
 Chivo Light
 Chivo Light Italic
 Cinzel Black
@@ -524,14 +520,6 @@ Khand SemiBold
 Khula ExtraBold
 Khula Light
 Khula SemiBold
-KoHo ExtraLight
-KoHo ExtraLight Italic
-KoHo Light
-KoHo Light Italic
-KoHo Medium
-KoHo Medium Italic
-KoHo SemiBold
-KoHo SemiBold Italic
 Kodchasan ExtraLight
 Kodchasan ExtraLight Italic
 Kodchasan Light
@@ -540,6 +528,14 @@ Kodchasan Medium
 Kodchasan Medium Italic
 Kodchasan SemiBold
 Kodchasan SemiBold Italic
+KoHo ExtraLight
+KoHo ExtraLight Italic
+KoHo Light
+KoHo Light Italic
+KoHo Medium
+KoHo Medium Italic
+KoHo SemiBold
+KoHo SemiBold Italic
 Kreon Light
 Krub ExtraLight
 Krub ExtraLight Italic
@@ -710,8 +706,6 @@ Overpass SemiBold
 Overpass SemiBold Italic
 Overpass Thin
 Overpass Thin Italic
-PT Sans Narrow
-PT Sans Narrow Bold
 Palanquin Dark Medium
 Palanquin Dark SemiBold
 Palanquin ExtraLight
@@ -766,6 +760,8 @@ Proza Libre Medium
 Proza Libre Medium Italic
 Proza Libre SemiBold
 Proza Libre SemiBold Italic
+PT Sans Narrow
+PT Sans Narrow Bold
 Quicksand Light
 Quicksand Medium
 Rajdhani Light
