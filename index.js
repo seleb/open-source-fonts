@@ -90,7 +90,7 @@ async function main() {
 		],
 
 		"list of directories in Google fonts": [],
-		setFont: fonts.map(({
+		setFont: validFonts.map(({
 			full_name,
 			name
 		}) => `[file:${full_name}][name:${name}]`)
