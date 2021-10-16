@@ -1,0 +1,4299 @@
+[
+ {
+  "font": "aksarabaligalang",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\aksarabaligalang\\METADATA.pb"
+  }
+ },
+ {
+  "font": "alefhebrew",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\alefhebrew\\METADATA.pb"
+  }
+ },
+ {
+  "font": "amstelvaralpha",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\amstelvaralpha\\METADATA.pb"
+  }
+ },
+ {
+  "font": "archivovfbeta",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\archivovfbeta\\METADATA.pb"
+  }
+ },
+ {
+  "font": "asapvfbeta",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\asapvfbeta\\METADATA.pb"
+  }
+ },
+ {
+  "font": "cabinvfbeta",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\cabinvfbeta\\METADATA.pb"
+  }
+ },
+ {
+  "font": "decovaralpha",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\decovaralpha\\METADATA.pb"
+  }
+ },
+ {
+  "font": "faustinavfbeta",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\faustinavfbeta\\METADATA.pb"
+  }
+ },
+ {
+  "font": "hanna",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\hanna\\METADATA.pb"
+  }
+ },
+ {
+  "font": "hannari",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\hannari\\METADATA.pb"
+  }
+ },
+ {
+  "font": "jejugothic",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\jejugothic\\METADATA.pb"
+  }
+ },
+ {
+  "font": "jejuhallasan",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\jejuhallasan\\METADATA.pb"
+  }
+ },
+ {
+  "font": "jejumyeongjo",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\jejumyeongjo\\METADATA.pb"
+  }
+ },
+ {
+  "font": "jomolhari",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\jomolhari\\METADATA.pb"
+  }
+ },
+ {
+  "font": "khyay",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\khyay\\METADATA.pb"
+  }
+ },
+ {
+  "font": "kokoro",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\kokoro\\METADATA.pb"
+  }
+ },
+ {
+  "font": "kopubbatang",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\kopubbatang\\METADATA.pb"
+  }
+ },
+ {
+  "font": "laomuangdon",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\laomuangdon\\METADATA.pb"
+  }
+ },
+ {
+  "font": "laomuangkhong",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\laomuangkhong\\METADATA.pb"
+  }
+ },
+ {
+  "font": "laosanspro",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\laosanspro\\METADATA.pb"
+  }
+ },
+ {
+  "font": "lemonadavfbeta",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\lemonadavfbeta\\METADATA.pb"
+  }
+ },
+ {
+  "font": "lohitdevanagari",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\lohitdevanagari\\METADATA.pb"
+  }
+ },
+ {
+  "font": "markazitextvfbeta",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\markazitextvfbeta\\METADATA.pb"
+  }
+ },
+ {
+  "font": "mavenprovfbeta",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\mavenprovfbeta\\METADATA.pb"
+  }
+ },
+ {
+  "font": "mplus1p",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\mplus1p\\METADATA.pb"
+  }
+ },
+ {
+  "font": "myanmarsanspro",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\myanmarsanspro\\METADATA.pb"
+  }
+ },
+ {
+  "font": "nicomoji",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\nicomoji\\METADATA.pb"
+  }
+ },
+ {
+  "font": "nikukyu",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\nikukyu\\METADATA.pb"
+  }
+ },
+ {
+  "font": "notosanstamil",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\notosanstamil\\METADATA.pb"
+  }
+ },
+ {
+  "font": "podkovavfbeta",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\podkovavfbeta\\METADATA.pb"
+  }
+ },
+ {
+  "font": "rokkittvfbeta",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\rokkittvfbeta\\METADATA.pb"
+  }
+ },
+ {
+  "font": "roundedmplus1c",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\roundedmplus1c\\METADATA.pb"
+  }
+ },
+ {
+  "font": "sawarabigothic",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\sawarabigothic\\METADATA.pb"
+  }
+ },
+ {
+  "font": "sawarabimincho",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\sawarabimincho\\METADATA.pb"
+  }
+ },
+ {
+  "font": "seoulhangang",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\seoulhangang\\METADATA.pb"
+  }
+ },
+ {
+  "font": "seoulhangangcondensed",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\seoulhangangcondensed\\METADATA.pb"
+  }
+ },
+ {
+  "font": "seoulnamsan",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\seoulnamsan\\METADATA.pb"
+  }
+ },
+ {
+  "font": "seoulnamsancondensed",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\seoulnamsancondensed\\METADATA.pb"
+  }
+ },
+ {
+  "font": "seoulnamsanvertical",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\seoulnamsanvertical\\METADATA.pb"
+  }
+ },
+ {
+  "font": "souliyo",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\souliyo\\METADATA.pb"
+  }
+ },
+ {
+  "font": "tharlon",
+  "error": {
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\tharlon\\METADATA.pb"
+  }
+ },
+ {
+  "font": "adventpro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "adventpro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "adventpro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "adventpro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "adventpro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreya",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreya",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreya",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreya",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreya",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreya",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasanssc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasanssc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasanssc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasanssc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasanssc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasanssc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasanssc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasanssc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasanssc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasanssc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "alegreyasc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "aleo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "aleo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "amiko",
+  "error": "manually excluded"
+ },
+ {
+  "font": "antonio",
+  "error": "manually excluded"
+ },
+ {
+  "font": "antonio",
+  "error": "manually excluded"
+ },
+ {
+  "font": "antonio",
+  "error": "manually excluded"
+ },
+ {
+  "font": "archivo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "archivo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "archivo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "archivo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "archivonarrow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "archivonarrow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "archivonarrow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "archivonarrow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "arimamadurai",
+  "error": "manually excluded"
+ },
+ {
+  "font": "arimamadurai",
+  "error": "manually excluded"
+ },
+ {
+  "font": "arimamadurai",
+  "error": "manually excluded"
+ },
+ {
+  "font": "arimamadurai",
+  "error": "manually excluded"
+ },
+ {
+  "font": "arimamadurai",
+  "error": "manually excluded"
+ },
+ {
+  "font": "arimamadurai",
+  "error": "manually excluded"
+ },
+ {
+  "font": "asap",
+  "error": "manually excluded"
+ },
+ {
+  "font": "asap",
+  "error": "manually excluded"
+ },
+ {
+  "font": "asap",
+  "error": "manually excluded"
+ },
+ {
+  "font": "asap",
+  "error": "manually excluded"
+ },
+ {
+  "font": "asapcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "asapcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "asapcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "asapcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "assistant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "assistant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "assistant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "assistant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "athiti",
+  "error": "manually excluded"
+ },
+ {
+  "font": "athiti",
+  "error": "manually excluded"
+ },
+ {
+  "font": "athiti",
+  "error": "manually excluded"
+ },
+ {
+  "font": "athiti",
+  "error": "manually excluded"
+ },
+ {
+  "font": "atma",
+  "error": "manually excluded"
+ },
+ {
+  "font": "atma",
+  "error": "manually excluded"
+ },
+ {
+  "font": "atma",
+  "error": "manually excluded"
+ },
+ {
+  "font": "averialibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "averialibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "averiasanslibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "averiasanslibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "averiaseriflibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "averiaseriflibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "baijamjuree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "baijamjuree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "baijamjuree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "baijamjuree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "baijamjuree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "baijamjuree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "baijamjuree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "baijamjuree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowcondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "barlowsemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "benchnine",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biorhyme",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biorhyme",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biorhyme",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biorhymeexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biorhymeexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biorhymeexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biorhymeexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biorhymeexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biryani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biryani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biryani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biryani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "biryani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "blackhansans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "bowlbyonesc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "buda",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cabincondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cabincondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cabincondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cabincondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cairo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cairo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cairo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cairo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "catamaran",
+  "error": "manually excluded"
+ },
+ {
+  "font": "catamaran",
+  "error": "manually excluded"
+ },
+ {
+  "font": "catamaran",
+  "error": "manually excluded"
+ },
+ {
+  "font": "catamaran",
+  "error": "manually excluded"
+ },
+ {
+  "font": "catamaran",
+  "error": "manually excluded"
+ },
+ {
+  "font": "catamaran",
+  "error": "manually excluded"
+ },
+ {
+  "font": "catamaran",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chakrapetch",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chakrapetch",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chakrapetch",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chakrapetch",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chakrapetch",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chakrapetch",
+  "error": "manually excluded"
+ },
+ {
+  "font": "changa",
+  "error": "manually excluded"
+ },
+ {
+  "font": "changa",
+  "error": "manually excluded"
+ },
+ {
+  "font": "changa",
+  "error": "manually excluded"
+ },
+ {
+  "font": "changa",
+  "error": "manually excluded"
+ },
+ {
+  "font": "changa",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chathura",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chathura",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chathura",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chivo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chivo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chivo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "chivo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cinzel",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cinzeldecorative",
+  "error": "manually excluded"
+ },
+ {
+  "font": "coda",
+  "error": "manually excluded"
+ },
+ {
+  "font": "codacaption",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantinfant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantinfant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantinfant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantinfant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantinfant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantinfant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantunicase",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantunicase",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantunicase",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantupright",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantupright",
+  "error": "manually excluded"
+ },
+ {
+  "font": "cormorantupright",
+  "error": "manually excluded"
+ },
+ {
+  "font": "coustard",
+  "error": "manually excluded"
+ },
+ {
+  "font": "crimsontext",
+  "error": "manually excluded"
+ },
+ {
+  "font": "crimsontext",
+  "error": "manually excluded"
+ },
+ {
+  "font": "diplomata",
+  "error": "manually excluded"
+ },
+ {
+  "font": "diplomatasc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ebgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ebgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ebgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ebgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ebgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ebgaramond",
+  "error": "manually excluded"
+ },
+ {
+  "font": "eczar",
+  "error": "manually excluded"
+ },
+ {
+  "font": "eczar",
+  "error": "manually excluded"
+ },
+ {
+  "font": "eczar",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ekmukta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ekmukta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ekmukta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ekmukta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ekmukta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "elmessiri",
+  "error": "manually excluded"
+ },
+ {
+  "font": "elmessiri",
+  "error": "manually excluded"
+ },
+ {
+  "font": "elsie",
+  "error": "manually excluded"
+ },
+ {
+  "font": "elsieswashcaps",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesansexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesansexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesansexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesansexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesansexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesansexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesansexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesansexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesansexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemiexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemiexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemiexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemiexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemiexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemiexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemiexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemiexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "encodesanssemiexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "exo2",
+  "error": "manually excluded"
+ },
+ {
+  "font": "fahkwang",
+  "error": "manually excluded"
+ },
+ {
+  "font": "fahkwang",
+  "error": "manually excluded"
+ },
+ {
+  "font": "fahkwang",
+  "error": "manually excluded"
+ },
+ {
+  "font": "fahkwang",
+  "error": "manually excluded"
+ },
+ {
+  "font": "fahkwang",
+  "error": "manually excluded"
+ },
+ {
+  "font": "fahkwang",
+  "error": "manually excluded"
+ },
+ {
+  "font": "fahkwang",
+  "error": "manually excluded"
+ },
+ {
+  "font": "fahkwang",
+  "error": "manually excluded"
+ },
+ {
+  "font": "faustina",
+  "error": "manually excluded"
+ },
+ {
+  "font": "faustina",
+  "error": "manually excluded"
+ },
+ {
+  "font": "faustina",
+  "error": "manually excluded"
+ },
+ {
+  "font": "faustina",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firamono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "firasansextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "flamenco",
+  "error": "manually excluded"
+ },
+ {
+  "font": "frankruhllibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "frankruhllibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "frankruhllibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "gaegu",
+  "error": "manually excluded"
+ },
+ {
+  "font": "gothica1",
+  "error": "manually excluded"
+ },
+ {
+  "font": "gothica1",
+  "error": "manually excluded"
+ },
+ {
+  "font": "gothica1",
+  "error": "manually excluded"
+ },
+ {
+  "font": "gothica1",
+  "error": "manually excluded"
+ },
+ {
+  "font": "gothica1",
+  "error": "manually excluded"
+ },
+ {
+  "font": "gothica1",
+  "error": "manually excluded"
+ },
+ {
+  "font": "gothica1",
+  "error": "manually excluded"
+ },
+ {
+  "font": "halant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "halant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "halant",
+  "error": "manually excluded"
+ },
+ {
+  "font": "heebo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "heebo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "heebo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "heebo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "heebo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hind",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hind",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hind",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindcolombo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindcolombo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindcolombo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindguntur",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindguntur",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindguntur",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindjalandhar",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindjalandhar",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindjalandhar",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindkochi",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindkochi",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindkochi",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindmadurai",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindmadurai",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindmadurai",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindmysuru",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindmysuru",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindmysuru",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindsiliguri",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindsiliguri",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindsiliguri",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindvadodara",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindvadodara",
+  "error": "manually excluded"
+ },
+ {
+  "font": "hindvadodara",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexsanscondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexserif",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexserif",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexserif",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexserif",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexserif",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexserif",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexserif",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexserif",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexserif",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ibmplexserif",
+  "error": "manually excluded"
+ },
+ {
+  "font": "inknutantiqua",
+  "error": "manually excluded"
+ },
+ {
+  "font": "inknutantiqua",
+  "error": "manually excluded"
+ },
+ {
+  "font": "inknutantiqua",
+  "error": "manually excluded"
+ },
+ {
+  "font": "inknutantiqua",
+  "error": "manually excluded"
+ },
+ {
+  "font": "inknutantiqua",
+  "error": "manually excluded"
+ },
+ {
+  "font": "josefinslab",
+  "error": "manually excluded"
+ },
+ {
+  "font": "josefinslab",
+  "error": "manually excluded"
+ },
+ {
+  "font": "josefinslab",
+  "error": "manually excluded"
+ },
+ {
+  "font": "josefinslab",
+  "error": "manually excluded"
+ },
+ {
+  "font": "josefinslab",
+  "error": "manually excluded"
+ },
+ {
+  "font": "josefinslab",
+  "error": "manually excluded"
+ },
+ {
+  "font": "jura",
+  "error": "manually excluded"
+ },
+ {
+  "font": "jura",
+  "error": "manually excluded"
+ },
+ {
+  "font": "jura",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "k2d",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kalam",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kanit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kantumruy",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kantumruy",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kantumruy",
+  "error": "manually excluded"
+ },
+ {
+  "font": "karma",
+  "error": "manually excluded"
+ },
+ {
+  "font": "karma",
+  "error": "manually excluded"
+ },
+ {
+  "font": "karma",
+  "error": "manually excluded"
+ },
+ {
+  "font": "khand",
+  "error": "manually excluded"
+ },
+ {
+  "font": "khand",
+  "error": "manually excluded"
+ },
+ {
+  "font": "khand",
+  "error": "manually excluded"
+ },
+ {
+  "font": "khula",
+  "error": "manually excluded"
+ },
+ {
+  "font": "khula",
+  "error": "manually excluded"
+ },
+ {
+  "font": "khula",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kodchasan",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kodchasan",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kodchasan",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kodchasan",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kodchasan",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kodchasan",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kodchasan",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kodchasan",
+  "error": "manually excluded"
+ },
+ {
+  "font": "koho",
+  "error": "manually excluded"
+ },
+ {
+  "font": "koho",
+  "error": "manually excluded"
+ },
+ {
+  "font": "koho",
+  "error": "manually excluded"
+ },
+ {
+  "font": "koho",
+  "error": "manually excluded"
+ },
+ {
+  "font": "koho",
+  "error": "manually excluded"
+ },
+ {
+  "font": "koho",
+  "error": "manually excluded"
+ },
+ {
+  "font": "koho",
+  "error": "manually excluded"
+ },
+ {
+  "font": "koho",
+  "error": "manually excluded"
+ },
+ {
+  "font": "kreon",
+  "error": "manually excluded"
+ },
+ {
+  "font": "krub",
+  "error": "manually excluded"
+ },
+ {
+  "font": "krub",
+  "error": "manually excluded"
+ },
+ {
+  "font": "krub",
+  "error": "manually excluded"
+ },
+ {
+  "font": "krub",
+  "error": "manually excluded"
+ },
+ {
+  "font": "krub",
+  "error": "manually excluded"
+ },
+ {
+  "font": "krub",
+  "error": "manually excluded"
+ },
+ {
+  "font": "krub",
+  "error": "manually excluded"
+ },
+ {
+  "font": "krub",
+  "error": "manually excluded"
+ },
+ {
+  "font": "laila",
+  "error": "manually excluded"
+ },
+ {
+  "font": "laila",
+  "error": "manually excluded"
+ },
+ {
+  "font": "laila",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lato",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lemonada",
+  "error": "manually excluded"
+ },
+ {
+  "font": "lemonada",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "librefranklin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "londrinasolid",
+  "error": "manually excluded"
+ },
+ {
+  "font": "londrinasolid",
+  "error": "manually excluded"
+ },
+ {
+  "font": "londrinasolid",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mada",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mada",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mada",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mada",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mada",
+  "error": "manually excluded"
+ },
+ {
+  "font": "maitree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "maitree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "maitree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "maitree",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mali",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mali",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mali",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mali",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mali",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mali",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mali",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mali",
+  "error": "manually excluded"
+ },
+ {
+  "font": "manuale",
+  "error": "manually excluded"
+ },
+ {
+  "font": "manuale",
+  "error": "manually excluded"
+ },
+ {
+  "font": "manuale",
+  "error": "manually excluded"
+ },
+ {
+  "font": "manuale",
+  "error": "manually excluded"
+ },
+ {
+  "font": "martel",
+  "error": "manually excluded"
+ },
+ {
+  "font": "martel",
+  "error": "manually excluded"
+ },
+ {
+  "font": "martel",
+  "error": "manually excluded"
+ },
+ {
+  "font": "martel",
+  "error": "manually excluded"
+ },
+ {
+  "font": "martel",
+  "error": "manually excluded"
+ },
+ {
+  "font": "martelsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "martelsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "martelsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "martelsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "martelsans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "merriweather",
+  "error": "manually excluded"
+ },
+ {
+  "font": "merriweather",
+  "error": "manually excluded"
+ },
+ {
+  "font": "merriweather",
+  "error": "manually excluded"
+ },
+ {
+  "font": "merriweather",
+  "error": "manually excluded"
+ },
+ {
+  "font": "merriweathersans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "merriweathersans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "merriweathersans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "merriweathersans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mirza",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mirza",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mitr",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mitr",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mitr",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mitr",
+  "error": "manually excluded"
+ },
+ {
+  "font": "montserrat",
+  "error": "manually excluded"
+ },
+ {
+  "font": "montserrat",
+  "error": "manually excluded"
+ },
+ {
+  "font": "montserrat",
+  "error": "manually excluded"
+ },
+ {
+  "font": "montserrat",
+  "error": "manually excluded"
+ },
+ {
+  "font": "montserrat",
+  "error": "manually excluded"
+ },
+ {
+  "font": "montserrat",
+  "error": "manually excluded"
+ },
+ {
+  "font": "montserrat",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mukta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mukta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mukta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mukta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "mukta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktamahee",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktamahee",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktamahee",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktamahee",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktamahee",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktamalar",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktamalar",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktamalar",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktamalar",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktamalar",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktavaani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktavaani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktavaani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktavaani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "muktavaani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nanumgothic",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nanummyeongjo",
+  "error": "manually excluded"
+ },
+ {
+  "font": "neuton",
+  "error": "manually excluded"
+ },
+ {
+  "font": "neuton",
+  "error": "manually excluded"
+ },
+ {
+  "font": "neuton",
+  "error": "manually excluded"
+ },
+ {
+  "font": "niramit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "niramit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "niramit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "niramit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "niramit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "niramit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "niramit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "niramit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nobile",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nobile",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunito",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunito",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunito",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunito",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunito",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunito",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunito",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunito",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunito",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunito",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunitosans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunitosans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunitosans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunitosans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunitosans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunitosans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunitosans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunitosans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunitosans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "nunitosans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "orbitron",
+  "error": "manually excluded"
+ },
+ {
+  "font": "orbitron",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overlock",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overlock",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpass",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpassmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "overpassmono",
+  "error": "manually excluded"
+ },
+ {
+  "font": "padauk",
+  "error": "manually excluded"
+ },
+ {
+  "font": "palanquin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "palanquin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "palanquin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "palanquin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "palanquin",
+  "error": "manually excluded"
+ },
+ {
+  "font": "palanquindark",
+  "error": "manually excluded"
+ },
+ {
+  "font": "palanquindark",
+  "error": "manually excluded"
+ },
+ {
+  "font": "passionone",
+  "error": "manually excluded"
+ },
+ {
+  "font": "pecita",
+  "error": "manually excluded"
+ },
+ {
+  "font": "playfairdisplay",
+  "error": "manually excluded"
+ },
+ {
+  "font": "playfairdisplay",
+  "error": "manually excluded"
+ },
+ {
+  "font": "playfairdisplaysc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "playfairdisplaysc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "podkova",
+  "error": "manually excluded"
+ },
+ {
+  "font": "podkova",
+  "error": "manually excluded"
+ },
+ {
+  "font": "podkova",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "poppins",
+  "error": "manually excluded"
+ },
+ {
+  "font": "pridi",
+  "error": "manually excluded"
+ },
+ {
+  "font": "pridi",
+  "error": "manually excluded"
+ },
+ {
+  "font": "pridi",
+  "error": "manually excluded"
+ },
+ {
+  "font": "pridi",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prompt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prozalibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prozalibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prozalibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prozalibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prozalibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "prozalibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ptsansnarrow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ptsansnarrow",
+  "error": "manually excluded"
+ },
+ {
+  "font": "quicksand",
+  "error": "manually excluded"
+ },
+ {
+  "font": "quicksand",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rajdhani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rajdhani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rajdhani",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "raleway",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rasa",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rasa",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rasa",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rokkitt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rokkitt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rokkitt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rokkitt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rokkitt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rokkitt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rokkitt",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rubik",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rubik",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rubik",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rubik",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rubik",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rubik",
+  "error": "manually excluded"
+ },
+ {
+  "font": "rubik",
+  "error": "manually excluded"
+ },
+ {
+  "font": "ruda",
+  "error": "manually excluded"
+ },
+ {
+  "font": "saira",
+  "error": "manually excluded"
+ },
+ {
+  "font": "saira",
+  "error": "manually excluded"
+ },
+ {
+  "font": "saira",
+  "error": "manually excluded"
+ },
+ {
+  "font": "saira",
+  "error": "manually excluded"
+ },
+ {
+  "font": "saira",
+  "error": "manually excluded"
+ },
+ {
+  "font": "saira",
+  "error": "manually excluded"
+ },
+ {
+  "font": "saira",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairacondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairacondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairacondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairacondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairacondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairacondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairacondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairacondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairacondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairaextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairaextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairaextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairaextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairaextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairaextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairaextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairaextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairaextracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairasemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairasemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairasemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairasemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairasemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairasemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairasemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairasemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sairasemicondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sansita",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sansita",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sansita",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sansita",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarabun",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarpanch",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarpanch",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarpanch",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sarpanch",
+  "error": "manually excluded"
+ },
+ {
+  "font": "signika",
+  "error": "manually excluded"
+ },
+ {
+  "font": "signika",
+  "error": "manually excluded"
+ },
+ {
+  "font": "signikanegative",
+  "error": "manually excluded"
+ },
+ {
+  "font": "signikanegative",
+  "error": "manually excluded"
+ },
+ {
+  "font": "simonetta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "simonetta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcecodepro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcecodepro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcecodepro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcecodepro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcecodepro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcesanspro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcesanspro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcesanspro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcesanspro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcesanspro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcesanspro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcesanspro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourcesanspro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourceserifpro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourceserifpro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourceserifpro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sourceserifpro",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectral",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectral",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectral",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectral",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectral",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectral",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectral",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectral",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectral",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectral",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectralsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectralsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectralsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectralsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectralsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectralsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectralsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectralsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectralsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "spectralsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "stintultracondensed",
+  "error": "manually excluded"
+ },
+ {
+  "font": "stintultraexpanded",
+  "error": "manually excluded"
+ },
+ {
+  "font": "strait",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sunflower",
+  "error": "manually excluded"
+ },
+ {
+  "font": "sunflower",
+  "error": "manually excluded"
+ },
+ {
+  "font": "tajawal",
+  "error": "manually excluded"
+ },
+ {
+  "font": "tajawal",
+  "error": "manually excluded"
+ },
+ {
+  "font": "tajawal",
+  "error": "manually excluded"
+ },
+ {
+  "font": "tajawal",
+  "error": "manually excluded"
+ },
+ {
+  "font": "tajawal",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "taviraj",
+  "error": "manually excluded"
+ },
+ {
+  "font": "teko",
+  "error": "manually excluded"
+ },
+ {
+  "font": "teko",
+  "error": "manually excluded"
+ },
+ {
+  "font": "teko",
+  "error": "manually excluded"
+ },
+ {
+  "font": "thabit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "thabit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "thabit",
+  "error": "manually excluded"
+ },
+ {
+  "font": "tienne",
+  "error": "manually excluded"
+ },
+ {
+  "font": "tillana",
+  "error": "manually excluded"
+ },
+ {
+  "font": "tillana",
+  "error": "manually excluded"
+ },
+ {
+  "font": "tillana",
+  "error": "manually excluded"
+ },
+ {
+  "font": "titilliumweb",
+  "error": "manually excluded"
+ },
+ {
+  "font": "titilliumweb",
+  "error": "manually excluded"
+ },
+ {
+  "font": "titilliumweb",
+  "error": "manually excluded"
+ },
+ {
+  "font": "titilliumweb",
+  "error": "manually excluded"
+ },
+ {
+  "font": "titilliumweb",
+  "error": "manually excluded"
+ },
+ {
+  "font": "titilliumweb",
+  "error": "manually excluded"
+ },
+ {
+  "font": "titilliumweb",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "trirong",
+  "error": "manually excluded"
+ },
+ {
+  "font": "varta",
+  "error": "manually excluded"
+ },
+ {
+  "font": "vesperlibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "vesperlibre",
+  "error": "manually excluded"
+ },
+ {
+  "font": "vollkornsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "vollkornsc",
+  "error": "manually excluded"
+ },
+ {
+  "font": "worksans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "worksans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "worksans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "worksans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "worksans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "worksans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "worksans",
+  "error": "manually excluded"
+ },
+ {
+  "font": "yanonekaffeesatz",
+  "error": "manually excluded"
+ },
+ {
+  "font": "yanonekaffeesatz",
+  "error": "manually excluded"
+ },
+ {
+  "font": "yantramanav",
+  "error": "manually excluded"
+ },
+ {
+  "font": "yantramanav",
+  "error": "manually excluded"
+ },
+ {
+  "font": "yantramanav",
+  "error": "manually excluded"
+ },
+ {
+  "font": "yantramanav",
+  "error": "manually excluded"
+ },
+ {
+  "font": "yrsa",
+  "error": "manually excluded"
+ },
+ {
+  "font": "yrsa",
+  "error": "manually excluded"
+ },
+ {
+  "font": "yrsa",
+  "error": "manually excluded"
+ },
+ {
+  "font": "zcoolxiaowei",
+  "error": "manually excluded"
+ },
+ {
+  "font": "zillaslab",
+  "error": "manually excluded"
+ },
+ {
+  "font": "zillaslab",
+  "error": "manually excluded"
+ },
+ {
+  "font": "zillaslab",
+  "error": "manually excluded"
+ },
+ {
+  "font": "zillaslab",
+  "error": "manually excluded"
+ },
+ {
+  "font": "zillaslab",
+  "error": "manually excluded"
+ },
+ {
+  "font": "zillaslab",
+  "error": "manually excluded"
+ }
+]
