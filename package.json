@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "pangoError": "node pangoErrorUtil.js",
     "install": "napa google/fonts"
   },
   "author": "Sean S. LeBlanc <sean.s.leblanc@gmail.com>",
