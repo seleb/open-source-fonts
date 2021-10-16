@@ -2,370 +2,388 @@
  {
   "font": "aksarabaligalang",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\aksarabaligalang\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/aksarabaligalang/METADATA.pb"
   }
  },
  {
   "font": "alefhebrew",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\alefhebrew\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/alefhebrew/METADATA.pb"
   }
  },
  {
   "font": "amstelvaralpha",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\amstelvaralpha\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/amstelvaralpha/METADATA.pb"
   }
  },
  {
   "font": "archivovfbeta",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\archivovfbeta\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/archivovfbeta/METADATA.pb"
   }
  },
  {
   "font": "asapvfbeta",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\asapvfbeta\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/asapvfbeta/METADATA.pb"
   }
  },
  {
   "font": "cabinvfbeta",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\cabinvfbeta\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/cabinvfbeta/METADATA.pb"
   }
  },
  {
   "font": "decovaralpha",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\decovaralpha\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/decovaralpha/METADATA.pb"
   }
  },
  {
   "font": "faustinavfbeta",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\faustinavfbeta\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/faustinavfbeta/METADATA.pb"
   }
  },
  {
   "font": "hanna",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\hanna\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/hanna/METADATA.pb"
   }
  },
  {
   "font": "hannari",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\hannari\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/hannari/METADATA.pb"
   }
  },
  {
   "font": "jejugothic",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\jejugothic\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/jejugothic/METADATA.pb"
   }
  },
  {
   "font": "jejuhallasan",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\jejuhallasan\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/jejuhallasan/METADATA.pb"
   }
  },
  {
   "font": "jejumyeongjo",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\jejumyeongjo\\METADATA.pb"
-  }
- },
- {
-  "font": "jomolhari",
-  "error": {
-   "errno": -4058,
-   "code": "ENOENT",
-   "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\jomolhari\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/jejumyeongjo/METADATA.pb"
   }
  },
  {
   "font": "khyay",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\khyay\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/khyay/METADATA.pb"
   }
  },
  {
   "font": "kokoro",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\kokoro\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/kokoro/METADATA.pb"
   }
  },
  {
   "font": "kopubbatang",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\kopubbatang\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/kopubbatang/METADATA.pb"
   }
  },
  {
   "font": "laomuangdon",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\laomuangdon\\METADATA.pb"
-  }
- },
- {
-  "font": "laomuangkhong",
-  "error": {
-   "errno": -4058,
-   "code": "ENOENT",
-   "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\laomuangkhong\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/laomuangdon/METADATA.pb"
   }
  },
  {
   "font": "laosanspro",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\laosanspro\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/laosanspro/METADATA.pb"
+  }
+ },
+ {
+  "font": "laomuangkhong",
+  "error": {
+   "errno": -2,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "./node_modules/fonts/ofl/laomuangkhong/METADATA.pb"
   }
  },
  {
   "font": "lemonadavfbeta",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\lemonadavfbeta\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/lemonadavfbeta/METADATA.pb"
   }
  },
  {
   "font": "lohitdevanagari",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\lohitdevanagari\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/lohitdevanagari/METADATA.pb"
   }
  },
  {
   "font": "markazitextvfbeta",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\markazitextvfbeta\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/markazitextvfbeta/METADATA.pb"
   }
  },
  {
   "font": "mavenprovfbeta",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\mavenprovfbeta\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/mavenprovfbeta/METADATA.pb"
   }
  },
  {
   "font": "mplus1p",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\mplus1p\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/mplus1p/METADATA.pb"
   }
  },
  {
   "font": "myanmarsanspro",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\myanmarsanspro\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/myanmarsanspro/METADATA.pb"
   }
  },
  {
   "font": "nicomoji",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\nicomoji\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/nicomoji/METADATA.pb"
   }
  },
  {
   "font": "nikukyu",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\nikukyu\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/nikukyu/METADATA.pb"
   }
  },
  {
   "font": "notosanstamil",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\notosanstamil\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/notosanstamil/METADATA.pb"
   }
  },
  {
   "font": "podkovavfbeta",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\podkovavfbeta\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/podkovavfbeta/METADATA.pb"
   }
  },
  {
   "font": "rokkittvfbeta",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\rokkittvfbeta\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/rokkittvfbeta/METADATA.pb"
   }
  },
  {
   "font": "roundedmplus1c",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\roundedmplus1c\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/roundedmplus1c/METADATA.pb"
   }
  },
  {
   "font": "sawarabigothic",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\sawarabigothic\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/sawarabigothic/METADATA.pb"
   }
  },
  {
   "font": "sawarabimincho",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\sawarabimincho\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/sawarabimincho/METADATA.pb"
   }
  },
  {
   "font": "seoulhangang",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\seoulhangang\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/seoulhangang/METADATA.pb"
   }
  },
  {
   "font": "seoulhangangcondensed",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\seoulhangangcondensed\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/seoulhangangcondensed/METADATA.pb"
   }
  },
  {
   "font": "seoulnamsan",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\seoulnamsan\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/seoulnamsan/METADATA.pb"
   }
  },
  {
   "font": "seoulnamsancondensed",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\seoulnamsancondensed\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/seoulnamsancondensed/METADATA.pb"
   }
  },
  {
   "font": "seoulnamsanvertical",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\seoulnamsanvertical\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/seoulnamsanvertical/METADATA.pb"
   }
  },
  {
   "font": "souliyo",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\souliyo\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/souliyo/METADATA.pb"
   }
  },
  {
   "font": "tharlon",
   "error": {
-   "errno": -4058,
+   "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "D:\\Work\\open-source-fonts\\node_modules\\fonts\\ofl\\tharlon\\METADATA.pb"
+   "path": "./node_modules/fonts/ofl/tharlon/METADATA.pb"
+  }
+ },
+ {
+  "font": "cherrybomb",
+  "error": {
+   "errno": -2,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "./subsets/japanese.txt"
+  }
+ },
+ {
+  "font": "jomolhari",
+  "error": {
+   "errno": -2,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "./subsets/tibetan.txt"
+  }
+ },
+ {
+  "font": "uchen",
+  "error": {
+   "errno": -2,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "./subsets/tibetan.txt"
   }
  },
  {
@@ -554,22 +572,6 @@
  },
  {
   "font": "archivo",
-  "error": "manually excluded"
- },
- {
-  "font": "archivonarrow",
-  "error": "manually excluded"
- },
- {
-  "font": "archivonarrow",
-  "error": "manually excluded"
- },
- {
-  "font": "archivonarrow",
-  "error": "manually excluded"
- },
- {
-  "font": "archivonarrow",
   "error": "manually excluded"
  },
  {
@@ -1085,22 +1087,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "changa",
-  "error": "manually excluded"
- },
- {
-  "font": "changa",
-  "error": "manually excluded"
- },
- {
-  "font": "changa",
-  "error": "manually excluded"
- },
- {
-  "font": "changa",
-  "error": "manually excluded"
- },
- {
   "font": "chathura",
   "error": "manually excluded"
  },
@@ -1273,30 +1259,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "ebgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "ebgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "ebgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "ebgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "ebgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "ebgaramond",
-  "error": "manually excluded"
- },
- {
   "font": "eczar",
   "error": "manually excluded"
  },
@@ -1326,14 +1288,6 @@
  },
  {
   "font": "ekmukta",
-  "error": "manually excluded"
- },
- {
-  "font": "elmessiri",
-  "error": "manually excluded"
- },
- {
-  "font": "elmessiri",
   "error": "manually excluded"
  },
  {
@@ -1349,30 +1303,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "encodesans",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesans",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesans",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesans",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesans",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesans",
-  "error": "manually excluded"
- },
- {
   "font": "encodesanscondensed",
   "error": "manually excluded"
  },
@@ -1522,110 +1452,6 @@
  },
  {
   "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
-  "error": "manually excluded"
- },
- {
-  "font": "exo2",
   "error": "manually excluded"
  },
  {
@@ -1658,22 +1484,6 @@
  },
  {
   "font": "fahkwang",
-  "error": "manually excluded"
- },
- {
-  "font": "faustina",
-  "error": "manually excluded"
- },
- {
-  "font": "faustina",
-  "error": "manually excluded"
- },
- {
-  "font": "faustina",
-  "error": "manually excluded"
- },
- {
-  "font": "faustina",
   "error": "manually excluded"
  },
  {
@@ -1941,26 +1751,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "heebo",
-  "error": "manually excluded"
- },
- {
-  "font": "heebo",
-  "error": "manually excluded"
- },
- {
-  "font": "heebo",
-  "error": "manually excluded"
- },
- {
-  "font": "heebo",
-  "error": "manually excluded"
- },
- {
-  "font": "heebo",
-  "error": "manually excluded"
- },
- {
   "font": "hind",
   "error": "manually excluded"
  },
@@ -2286,14 +2076,6 @@
  },
  {
   "font": "josefinslab",
-  "error": "manually excluded"
- },
- {
-  "font": "jura",
-  "error": "manually excluded"
- },
- {
-  "font": "jura",
   "error": "manually excluded"
  },
  {
@@ -2625,14 +2407,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "lemonada",
-  "error": "manually excluded"
- },
- {
-  "font": "lemonada",
-  "error": "manually excluded"
- },
- {
   "font": "librefranklin",
   "error": "manually excluded"
  },
@@ -2766,22 +2540,6 @@
  },
  {
   "font": "mali",
-  "error": "manually excluded"
- },
- {
-  "font": "manuale",
-  "error": "manually excluded"
- },
- {
-  "font": "manuale",
-  "error": "manually excluded"
- },
- {
-  "font": "manuale",
-  "error": "manually excluded"
- },
- {
-  "font": "manuale",
   "error": "manually excluded"
  },
  {
@@ -3129,14 +2887,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "orbitron",
-  "error": "manually excluded"
- },
- {
-  "font": "orbitron",
-  "error": "manually excluded"
- },
- {
   "font": "overlock",
   "error": "manually excluded"
  },
@@ -3198,10 +2948,6 @@
  },
  {
   "font": "overpassmono",
-  "error": "manually excluded"
- },
- {
-  "font": "padauk",
   "error": "manually excluded"
  },
  {
@@ -3241,31 +2987,11 @@
   "error": "manually excluded"
  },
  {
-  "font": "playfairdisplay",
-  "error": "manually excluded"
- },
- {
-  "font": "playfairdisplay",
-  "error": "manually excluded"
- },
- {
   "font": "playfairdisplaysc",
   "error": "manually excluded"
  },
  {
   "font": "playfairdisplaysc",
-  "error": "manually excluded"
- },
- {
-  "font": "podkova",
-  "error": "manually excluded"
- },
- {
-  "font": "podkova",
-  "error": "manually excluded"
- },
- {
-  "font": "podkova",
   "error": "manually excluded"
  },
  {
@@ -3433,10 +3159,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "quicksand",
-  "error": "manually excluded"
- },
- {
   "font": "rajdhani",
   "error": "manually excluded"
  },
@@ -3446,54 +3168,6 @@
  },
  {
   "font": "rajdhani",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
   "error": "manually excluded"
  },
  {
@@ -3517,34 +3191,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "rokkitt",
-  "error": "manually excluded"
- },
- {
-  "font": "rokkitt",
-  "error": "manually excluded"
- },
- {
-  "font": "rokkitt",
-  "error": "manually excluded"
- },
- {
-  "font": "rokkitt",
-  "error": "manually excluded"
- },
- {
-  "font": "rokkitt",
-  "error": "manually excluded"
- },
- {
-  "font": "rokkitt",
-  "error": "manually excluded"
- },
- {
-  "font": "rokkitt",
-  "error": "manually excluded"
- },
- {
   "font": "rubik",
   "error": "manually excluded"
  },
@@ -3570,10 +3216,6 @@
  },
  {
   "font": "rubik",
-  "error": "manually excluded"
- },
- {
-  "font": "ruda",
   "error": "manually excluded"
  },
  {
@@ -3790,14 +3432,6 @@
  },
  {
   "font": "sarpanch",
-  "error": "manually excluded"
- },
- {
-  "font": "signika",
-  "error": "manually excluded"
- },
- {
-  "font": "signika",
   "error": "manually excluded"
  },
  {
@@ -4185,10 +3819,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "varta",
-  "error": "manually excluded"
- },
- {
   "font": "vesperlibre",
   "error": "manually excluded"
  },
@@ -4202,38 +3832,6 @@
  },
  {
   "font": "vollkornsc",
-  "error": "manually excluded"
- },
- {
-  "font": "worksans",
-  "error": "manually excluded"
- },
- {
-  "font": "worksans",
-  "error": "manually excluded"
- },
- {
-  "font": "worksans",
-  "error": "manually excluded"
- },
- {
-  "font": "worksans",
-  "error": "manually excluded"
- },
- {
-  "font": "worksans",
-  "error": "manually excluded"
- },
- {
-  "font": "worksans",
-  "error": "manually excluded"
- },
- {
-  "font": "worksans",
-  "error": "manually excluded"
- },
- {
-  "font": "yanonekaffeesatz",
   "error": "manually excluded"
  },
  {
@@ -4295,5 +3893,145 @@
  {
   "font": "zillaslab",
   "error": "manually excluded"
+ },
+ {
+  "font": "Angkor Regular",
+  "error": "failed to load"
+ },
+ {
+  "font": "Battambang Regular",
+  "error": "failed to load"
+ },
+ {
+  "font": "Battambang Bold",
+  "error": "failed to load"
+ },
+ {
+  "font": "Bayon Regular",
+  "error": "failed to load"
+ },
+ {
+  "font": "Bokor Regular",
+  "error": "failed to load"
+ },
+ {
+  "font": "Chenla",
+  "error": "failed to load"
+ },
+ {
+  "font": "Content",
+  "error": "failed to load"
+ },
+ {
+  "font": "Content Bold",
+  "error": "failed to load"
+ },
+ {
+  "font": "Dangrek",
+  "error": "failed to load"
+ },
+ {
+  "font": "Fasthand",
+  "error": "failed to load"
+ },
+ {
+  "font": "Freehand",
+  "error": "failed to load"
+ },
+ {
+  "font": "Karla Tamil Upright",
+  "error": "failed to load"
+ },
+ {
+  "font": "Karla Tamil Upright Bold",
+  "error": "failed to load"
+ },
+ {
+  "font": "Kdam Thmor",
+  "error": "failed to load"
+ },
+ {
+  "font": "Khmer",
+  "error": "failed to load"
+ },
+ {
+  "font": "Koulen",
+  "error": "failed to load"
+ },
+ {
+  "font": "Lohit Bengali",
+  "error": "failed to load"
+ },
+ {
+  "font": "Lohit Tamil",
+  "error": "failed to load"
+ },
+ {
+  "font": "Metal",
+  "error": "failed to load"
+ },
+ {
+  "font": "Moul",
+  "error": "failed to load"
+ },
+ {
+  "font": "Moul Pali",
+  "error": "failed to load"
+ },
+ {
+  "font": "OdorMeanChey",
+  "error": "failed to load"
+ },
+ {
+  "font": "Phetsarath Regular",
+  "error": "failed to load"
+ },
+ {
+  "font": "Phetsarath Bold",
+  "error": "failed to load"
+ },
+ {
+  "font": "Ponnala",
+  "error": "failed to load"
+ },
+ {
+  "font": "Preah Vihear",
+  "error": "failed to load"
+ },
+ {
+  "font": "Siemreap",
+  "error": "failed to load"
+ },
+ {
+  "font": "Siemreap",
+  "error": "failed to load"
+ },
+ {
+  "font": "Sitara",
+  "error": "failed to load"
+ },
+ {
+  "font": "Sitara Italic",
+  "error": "failed to load"
+ },
+ {
+  "font": "Sitara Bold",
+  "error": "failed to load"
+ },
+ {
+  "font": "Sitara Bold Italic",
+  "error": "failed to load"
+ },
+ {
+  "font": "Suwannaphum Regular",
+  "error": "failed to load"
+ },
+ {
+  "font": "Taprom",
+  "error": "failed to load"
+ },
+ {
+  "font": "Yinmar",
+  "error": "failed to load"
  }
 ]
