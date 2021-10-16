@@ -2,31 +2,18 @@ const w = 100;
 const h = 50;
 
 const fs = require('fs');
+const fetch = require('node-fetch');
 
-const {
-	file,
-} = require('minimist')(process.argv.slice(2));
-const {
-	fontName,
-	filename,
-	full_name,
-	copyright,
-	weight,
-	style,
-	subsets,
-} = JSON.parse(fs.readFileSync(file, 'utf8'));
+const { file } = require('minimist')(process.argv.slice(2));
+const { fontName, filename, full_name, copyright, weight, style, subsets } = JSON.parse(fs.readFileSync(file, 'utf8'));
 
-const {
-	createCanvas,
-	registerFont
-} = require('canvas');
+const { createCanvas, registerFont } = require('canvas');
 
 registerFont(`./node_modules/fonts/ofl/${fontName}/${filename}`, {
 	family: full_name,
 	weight,
 	style,
 });
-
 
 const canvas = createCanvas(w, h);
 const ctx = canvas.getContext('2d');
@@ -59,8 +46,19 @@ ctx.fillStyle = 'white';
 drawText(testStr, 25, 4 / 5, 1 / 2, true);
 const b = canvas.toBuffer();
 
-if (a.compare(b)) {
-	return;
+if (!a.compare(b)) {
+	console.log('Failed canvas draw test');
+	process.exit(1);
 }
 
-console.log('failed');
+fetch(`https://fonts.google.com/specimen/${fontName.replace(/\s/g, '%20')}`)
+	.then(response => {
+		if (!response.ok) throw 'Failed to load specimen page';
+	})
+	.then(() => {
+		process.exit(0);
+	})
+	.catch((err) => {
+		console.log(err);
+		process.exit(1);
+	});

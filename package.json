@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "install": "napa google/fonts"
+    "install": "napa google/fonts",
+    "bake-errors": "node bakeErrors.js"
   },
   "author": "Sean S. LeBlanc <sean.s.leblanc@gmail.com>",
   "license": "MIT",
