@@ -11,7 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.8.0",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.5",
+    "node-fetch": "^2.0.0"
   },
   "devDependencies": {
     "napa": "^3.0.0"
