@@ -11,8 +11,8 @@
   "author": "Sean S. LeBlanc <sean.s.leblanc@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "canvas": "^2.4.1",
-    "minimist": "^1.2.3"
+    "canvas": "^2.8.0",
+    "minimist": "^1.2.5"
   },
   "devDependencies": {
     "napa": "^3.0.0"
