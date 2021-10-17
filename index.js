@@ -4,7 +4,7 @@ const fsp = fs.promises;
 const util = require('util');
 const exec = util.promisify(require('child_process').exec);
 
-const errors = [];
+let errors = [];
 
 const badFonts = fs
 	.readFileSync('./badFonts.txt', 'utf8')
@@ -91,6 +91,7 @@ async function main() {
 	}));
 
 	// finalize output
+	errors = Array.from(new Set(errors.map(i => JSON.stringify(i)))).map(i => JSON.parse(i));
 	errors.sort(({ font: a }, { font: b }) => a.localeCompare(b, undefined, { sensitivity: 'base', ignorePunctuation: true }));
 	if (errors.length > 0) {
 		await fsp.writeFile('./output/_errors.json', JSON.stringify(errors, undefined, 1), 'utf8');
