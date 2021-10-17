@@ -36,7 +36,7 @@ function drawText(text, startSize, maxWidth, height, forceSans = false) {
 	ctx.fillText(text, w / 2, h * height);
 }
 
-const testStr = 'the quick brown\nfox jumps over\nthe lazy dog';
+const testStr = includesLatin ? 'the quick brown\nfox jumps over\nthe lazy dog' : subsets;
 drawText(testStr, 25, 4 / 5, 1 / 2);
 const a = canvas.toBuffer();
 
