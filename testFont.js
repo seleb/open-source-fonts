@@ -22,8 +22,6 @@ ctx.fillRect(0, 0, w, h);
 ctx.fillStyle = 'white';
 ctx.textAlign = 'center';
 
-const includesLatin = subsets.includes('latin') || subsets.includes('latin-ext');
-
 function drawText(text, startSize, maxWidth, height, forceSans = false) {
 	let fontSize = startSize;
 	let width;
@@ -36,7 +34,7 @@ function drawText(text, startSize, maxWidth, height, forceSans = false) {
 	ctx.fillText(text, w / 2, h * height);
 }
 
-const testStr = includesLatin ? 'the quick brown\nfox jumps over\nthe lazy dog' : subsets;
+const testStr = subsets.replace(/ - /g,'\n');
 drawText(testStr, 25, 4 / 5, 1 / 2);
 const a = canvas.toBuffer();
 
