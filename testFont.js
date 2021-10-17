@@ -5,7 +5,7 @@ const fs = require('fs');
 const fetch = require('node-fetch');
 
 const { file } = require('minimist')(process.argv.slice(2));
-const { fontName, filename, full_name, copyright, weight, style, subsets } = JSON.parse(fs.readFileSync(file, 'utf8'));
+const { name, fontName, filename, full_name, copyright, weight, style, subsets } = JSON.parse(fs.readFileSync(file, 'utf8'));
 
 const { createCanvas, registerFont } = require('canvas');
 
@@ -51,9 +51,10 @@ if (!a.compare(b)) {
 	process.exit(1);
 }
 
-fetch(`https://fonts.google.com/specimen/${fontName.replace(/\s/g, '%20')}`)
+const url = `https://fonts.google.com/metadata/fonts/${name.replace(/\s/g, '%20')}`;
+fetch(url)
 	.then(response => {
-		if (!response.ok) throw 'Failed to load specimen page';
+		if (!response.ok) throw `Failed to load specimen metadata from ${url}`;
 	})
 	.then(() => {
 		process.exit(0);
