@@ -12,22 +12,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "adventpro",
-  "error": "manually excluded"
- },
- {
-  "font": "adventpro",
-  "error": "manually excluded"
- },
- {
-  "font": "adventpro",
-  "error": "manually excluded"
- },
- {
-  "font": "adventpro",
-  "error": "manually excluded"
- },
- {
   "font": "aksarabaligalang",
   "error": {
    "errno": -2,
@@ -41,107 +25,11 @@
   "error": "manually excluded"
  },
  {
-  "font": "alegreyasans",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasans",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasans",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasans",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasans",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasans",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasans",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasans",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasans",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasanssc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasanssc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasanssc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasanssc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasanssc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasanssc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasanssc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasanssc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasanssc",
-  "error": "manually excluded"
- },
- {
   "font": "alegreyasanssc",
   "error": "manually excluded"
  },
  {
   "font": "alegreyasc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasc",
-  "error": "manually excluded"
- },
- {
-  "font": "aleo",
   "error": "manually excluded"
  },
  {
@@ -174,43 +62,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "archivo",
-  "error": "manually excluded"
- },
- {
   "font": "arimamadurai",
-  "error": "manually excluded"
- },
- {
-  "font": "arimamadurai",
-  "error": "manually excluded"
- },
- {
-  "font": "arimamadurai",
-  "error": "manually excluded"
- },
- {
-  "font": "arimamadurai",
-  "error": "manually excluded"
- },
- {
-  "font": "arimamadurai",
-  "error": "manually excluded"
- },
- {
-  "font": "arimamadurai",
-  "error": "manually excluded"
- },
- {
-  "font": "asapcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "asapcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "asapcondensed",
   "error": "manually excluded"
  },
  {
@@ -235,31 +87,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "athiti",
-  "error": "manually excluded"
- },
- {
-  "font": "athiti",
-  "error": "manually excluded"
- },
- {
-  "font": "athiti",
-  "error": "manually excluded"
- },
- {
   "font": "atma",
-  "error": "manually excluded"
- },
- {
-  "font": "atma",
-  "error": "manually excluded"
- },
- {
-  "font": "atma",
-  "error": "manually excluded"
- },
- {
-  "font": "averialibre",
   "error": "manually excluded"
  },
  {
@@ -271,43 +99,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "averiasanslibre",
-  "error": "manually excluded"
- },
- {
   "font": "averiaseriflibre",
-  "error": "manually excluded"
- },
- {
-  "font": "averiaseriflibre",
-  "error": "manually excluded"
- },
- {
-  "font": "baijamjuree",
-  "error": "manually excluded"
- },
- {
-  "font": "baijamjuree",
-  "error": "manually excluded"
- },
- {
-  "font": "baijamjuree",
-  "error": "manually excluded"
- },
- {
-  "font": "baijamjuree",
-  "error": "manually excluded"
- },
- {
-  "font": "baijamjuree",
-  "error": "manually excluded"
- },
- {
-  "font": "baijamjuree",
-  "error": "manually excluded"
- },
- {
-  "font": "baijamjuree",
   "error": "manually excluded"
  },
  {
@@ -323,195 +115,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
   "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
   "error": "manually excluded"
  },
  {
@@ -531,14 +135,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "biorhyme",
-  "error": "manually excluded"
- },
- {
-  "font": "biorhyme",
-  "error": "manually excluded"
- },
- {
   "font": "BioRhyme Bold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
  },
@@ -547,40 +143,8 @@
   "error": "manually excluded"
  },
  {
-  "font": "biorhymeexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "biorhymeexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "biorhymeexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "biorhymeexpanded",
-  "error": "manually excluded"
- },
- {
   "font": "BioRhyme Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
- },
- {
-  "font": "biryani",
-  "error": "manually excluded"
- },
- {
-  "font": "biryani",
-  "error": "manually excluded"
- },
- {
-  "font": "biryani",
-  "error": "manually excluded"
- },
- {
-  "font": "biryani",
-  "error": "manually excluded"
  },
  {
   "font": "biryani",
@@ -611,51 +175,11 @@
   "error": "manually excluded"
  },
  {
-  "font": "cabincondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "cabincondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "cabincondensed",
-  "error": "manually excluded"
- },
- {
   "font": "catamaran",
   "error": "manually excluded"
  },
  {
   "font": "chakrapetch",
-  "error": "manually excluded"
- },
- {
-  "font": "chakrapetch",
-  "error": "manually excluded"
- },
- {
-  "font": "chakrapetch",
-  "error": "manually excluded"
- },
- {
-  "font": "chakrapetch",
-  "error": "manually excluded"
- },
- {
-  "font": "chakrapetch",
-  "error": "manually excluded"
- },
- {
-  "font": "chakrapetch",
-  "error": "manually excluded"
- },
- {
-  "font": "chathura",
-  "error": "manually excluded"
- },
- {
-  "font": "chathura",
   "error": "manually excluded"
  },
  {
@@ -669,18 +193,6 @@
  {
   "font": "Cherry Bomb One Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Cherry%20Bomb%20One\n"
- },
- {
-  "font": "chivo",
-  "error": "manually excluded"
- },
- {
-  "font": "chivo",
-  "error": "manually excluded"
- },
- {
-  "font": "chivo",
-  "error": "manually excluded"
  },
  {
   "font": "chivo",
@@ -731,67 +243,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "cormorant",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorant",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorant",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorant",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorant",
-  "error": "manually excluded"
- },
- {
   "font": "cormorantgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantinfant",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantinfant",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantinfant",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantinfant",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantinfant",
   "error": "manually excluded"
  },
  {
@@ -803,31 +255,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "cormorantsc",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantsc",
-  "error": "manually excluded"
- },
- {
   "font": "cormorantunicase",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantunicase",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantunicase",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantupright",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantupright",
   "error": "manually excluded"
  },
  {
@@ -836,10 +264,6 @@
  },
  {
   "font": "coustard",
-  "error": "manually excluded"
- },
- {
-  "font": "crimsontext",
   "error": "manually excluded"
  },
  {
@@ -896,30 +320,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "eczar",
-  "error": "manually excluded"
- },
- {
-  "font": "eczar",
-  "error": "manually excluded"
- },
- {
-  "font": "ekmukta",
-  "error": "manually excluded"
- },
- {
-  "font": "ekmukta",
-  "error": "manually excluded"
- },
- {
-  "font": "ekmukta",
-  "error": "manually excluded"
- },
- {
-  "font": "ekmukta",
-  "error": "manually excluded"
- },
- {
   "font": "ekmukta",
   "error": "manually excluded"
  },
@@ -948,139 +348,11 @@
   "error": "manually excluded"
  },
  {
-  "font": "encodesanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesansexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesansexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesansexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesansexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesansexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesansexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesansexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesansexpanded",
-  "error": "manually excluded"
- },
- {
   "font": "encodesansexpanded",
   "error": "manually excluded"
  },
  {
   "font": "encodesanssemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemiexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemiexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemiexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemiexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemiexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemiexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemiexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemiexpanded",
   "error": "manually excluded"
  },
  {
@@ -1096,34 +368,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "fahkwang",
-  "error": "manually excluded"
- },
- {
-  "font": "fahkwang",
-  "error": "manually excluded"
- },
- {
-  "font": "fahkwang",
-  "error": "manually excluded"
- },
- {
-  "font": "fahkwang",
-  "error": "manually excluded"
- },
- {
-  "font": "fahkwang",
-  "error": "manually excluded"
- },
- {
-  "font": "fahkwang",
-  "error": "manually excluded"
- },
- {
-  "font": "fahkwang",
-  "error": "manually excluded"
- },
- {
   "font": "firamono",
   "error": "manually excluded"
  },
@@ -1132,195 +376,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
   "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
   "error": "manually excluded"
  },
  {
@@ -1329,14 +385,6 @@
  },
  {
   "font": "flamenco",
-  "error": "manually excluded"
- },
- {
-  "font": "frankruhllibre",
-  "error": "manually excluded"
- },
- {
-  "font": "frankruhllibre",
   "error": "manually excluded"
  },
  {
@@ -1357,38 +405,6 @@
  },
  {
   "font": "gothica1",
-  "error": "manually excluded"
- },
- {
-  "font": "gothica1",
-  "error": "manually excluded"
- },
- {
-  "font": "gothica1",
-  "error": "manually excluded"
- },
- {
-  "font": "gothica1",
-  "error": "manually excluded"
- },
- {
-  "font": "gothica1",
-  "error": "manually excluded"
- },
- {
-  "font": "gothica1",
-  "error": "manually excluded"
- },
- {
-  "font": "gothica1",
-  "error": "manually excluded"
- },
- {
-  "font": "halant",
-  "error": "manually excluded"
- },
- {
-  "font": "halant",
   "error": "manually excluded"
  },
  {
@@ -1426,22 +442,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "hind",
-  "error": "manually excluded"
- },
- {
-  "font": "hind",
-  "error": "manually excluded"
- },
- {
-  "font": "hindcolombo",
-  "error": "manually excluded"
- },
- {
-  "font": "hindcolombo",
-  "error": "manually excluded"
- },
- {
   "font": "hindcolombo",
   "error": "manually excluded"
  },
@@ -1458,22 +458,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "hindguntur",
-  "error": "manually excluded"
- },
- {
-  "font": "hindguntur",
-  "error": "manually excluded"
- },
- {
-  "font": "hindjalandhar",
-  "error": "manually excluded"
- },
- {
-  "font": "hindjalandhar",
-  "error": "manually excluded"
- },
- {
   "font": "hindjalandhar",
   "error": "manually excluded"
  },
@@ -1486,20 +470,12 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Jalandhar\n"
  },
  {
+  "font": "hindkochi",
+  "error": "manually excluded"
+ },
+ {
   "font": "Hind Kochi",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Kochi\n"
- },
- {
-  "font": "hindkochi",
-  "error": "manually excluded"
- },
- {
-  "font": "hindkochi",
-  "error": "manually excluded"
- },
- {
-  "font": "hindkochi",
-  "error": "manually excluded"
  },
  {
   "font": "Hind Kochi Bold",
@@ -1507,18 +483,6 @@
  },
  {
   "font": "hindmadurai",
-  "error": "manually excluded"
- },
- {
-  "font": "hindmadurai",
-  "error": "manually excluded"
- },
- {
-  "font": "hindmadurai",
-  "error": "manually excluded"
- },
- {
-  "font": "hindmysuru",
   "error": "manually excluded"
  },
  {
@@ -1530,31 +494,11 @@
   "error": "manually excluded"
  },
  {
-  "font": "hindmysuru",
-  "error": "manually excluded"
- },
- {
   "font": "Hind Mysuru Bold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
  },
  {
   "font": "hindsiliguri",
-  "error": "manually excluded"
- },
- {
-  "font": "hindsiliguri",
-  "error": "manually excluded"
- },
- {
-  "font": "hindsiliguri",
-  "error": "manually excluded"
- },
- {
-  "font": "hindvadodara",
-  "error": "manually excluded"
- },
- {
-  "font": "hindvadodara",
   "error": "manually excluded"
  },
  {
@@ -1570,78 +514,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "ibmplexmono",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexmono",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexmono",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexmono",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexmono",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexmono",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexmono",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexmono",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexmono",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsans",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsans",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsans",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsans",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsans",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsans",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsans",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsans",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsans",
-  "error": "manually excluded"
- },
- {
   "font": "ibmplexsans",
   "error": "manually excluded"
  },
@@ -1650,107 +522,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
   "font": "ibmplexserif",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexserif",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexserif",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexserif",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexserif",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexserif",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexserif",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexserif",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexserif",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexserif",
-  "error": "manually excluded"
- },
- {
-  "font": "inknutantiqua",
-  "error": "manually excluded"
- },
- {
-  "font": "inknutantiqua",
-  "error": "manually excluded"
- },
- {
-  "font": "inknutantiqua",
-  "error": "manually excluded"
- },
- {
-  "font": "inknutantiqua",
   "error": "manually excluded"
  },
  {
@@ -1789,55 +561,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "josefinslab",
-  "error": "manually excluded"
- },
- {
   "font": "jura",
-  "error": "manually excluded"
- },
- {
-  "font": "k2d",
-  "error": "manually excluded"
- },
- {
-  "font": "k2d",
-  "error": "manually excluded"
- },
- {
-  "font": "k2d",
-  "error": "manually excluded"
- },
- {
-  "font": "k2d",
-  "error": "manually excluded"
- },
- {
-  "font": "k2d",
-  "error": "manually excluded"
- },
- {
-  "font": "k2d",
-  "error": "manually excluded"
- },
- {
-  "font": "k2d",
-  "error": "manually excluded"
- },
- {
-  "font": "k2d",
-  "error": "manually excluded"
- },
- {
-  "font": "k2d",
-  "error": "manually excluded"
- },
- {
-  "font": "k2d",
-  "error": "manually excluded"
- },
- {
-  "font": "k2d",
   "error": "manually excluded"
  },
  {
@@ -1850,66 +574,6 @@
  },
  {
   "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kantumruy",
-  "error": "manually excluded"
- },
- {
-  "font": "kantumruy",
   "error": "manually excluded"
  },
  {
@@ -1941,14 +605,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "karma",
-  "error": "manually excluded"
- },
- {
-  "font": "karma",
-  "error": "manually excluded"
- },
- {
   "font": "Kdam Thmor",
   "error": "Failed canvas draw test\n"
  },
@@ -1957,24 +613,8 @@
   "error": "manually excluded"
  },
  {
-  "font": "khand",
-  "error": "manually excluded"
- },
- {
-  "font": "khand",
-  "error": "manually excluded"
- },
- {
   "font": "Khmer",
   "error": "Failed canvas draw test\n"
- },
- {
-  "font": "khula",
-  "error": "manually excluded"
- },
- {
-  "font": "khula",
-  "error": "manually excluded"
  },
  {
   "font": "khula",
@@ -1991,62 +631,6 @@
  },
  {
   "font": "kodchasan",
-  "error": "manually excluded"
- },
- {
-  "font": "kodchasan",
-  "error": "manually excluded"
- },
- {
-  "font": "kodchasan",
-  "error": "manually excluded"
- },
- {
-  "font": "kodchasan",
-  "error": "manually excluded"
- },
- {
-  "font": "kodchasan",
-  "error": "manually excluded"
- },
- {
-  "font": "kodchasan",
-  "error": "manually excluded"
- },
- {
-  "font": "kodchasan",
-  "error": "manually excluded"
- },
- {
-  "font": "kodchasan",
-  "error": "manually excluded"
- },
- {
-  "font": "koho",
-  "error": "manually excluded"
- },
- {
-  "font": "koho",
-  "error": "manually excluded"
- },
- {
-  "font": "koho",
-  "error": "manually excluded"
- },
- {
-  "font": "koho",
-  "error": "manually excluded"
- },
- {
-  "font": "koho",
-  "error": "manually excluded"
- },
- {
-  "font": "koho",
-  "error": "manually excluded"
- },
- {
-  "font": "koho",
   "error": "manually excluded"
  },
  {
@@ -2077,42 +661,6 @@
  },
  {
   "font": "krub",
-  "error": "manually excluded"
- },
- {
-  "font": "krub",
-  "error": "manually excluded"
- },
- {
-  "font": "krub",
-  "error": "manually excluded"
- },
- {
-  "font": "krub",
-  "error": "manually excluded"
- },
- {
-  "font": "krub",
-  "error": "manually excluded"
- },
- {
-  "font": "krub",
-  "error": "manually excluded"
- },
- {
-  "font": "krub",
-  "error": "manually excluded"
- },
- {
-  "font": "krub",
-  "error": "manually excluded"
- },
- {
-  "font": "laila",
-  "error": "manually excluded"
- },
- {
-  "font": "laila",
   "error": "manually excluded"
  },
  {
@@ -2151,58 +699,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
   "font": "League Gothic Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/League%20Gothic\n"
  },
@@ -2214,10 +710,6 @@
    "syscall": "open",
    "path": "./node_modules/fonts/ofl/lemonadavfbeta/METADATA.pb"
   }
- },
- {
-  "font": "librefranklin",
-  "error": "manually excluded"
  },
  {
   "font": "librefranklin",
@@ -2245,75 +737,11 @@
   "error": "manually excluded"
  },
  {
-  "font": "londrinasolid",
-  "error": "manually excluded"
- },
- {
-  "font": "londrinasolid",
-  "error": "manually excluded"
- },
- {
-  "font": "mada",
-  "error": "manually excluded"
- },
- {
-  "font": "mada",
-  "error": "manually excluded"
- },
- {
-  "font": "mada",
-  "error": "manually excluded"
- },
- {
-  "font": "mada",
-  "error": "manually excluded"
- },
- {
   "font": "mada",
   "error": "manually excluded"
  },
  {
   "font": "maitree",
-  "error": "manually excluded"
- },
- {
-  "font": "maitree",
-  "error": "manually excluded"
- },
- {
-  "font": "maitree",
-  "error": "manually excluded"
- },
- {
-  "font": "maitree",
-  "error": "manually excluded"
- },
- {
-  "font": "mali",
-  "error": "manually excluded"
- },
- {
-  "font": "mali",
-  "error": "manually excluded"
- },
- {
-  "font": "mali",
-  "error": "manually excluded"
- },
- {
-  "font": "mali",
-  "error": "manually excluded"
- },
- {
-  "font": "mali",
-  "error": "manually excluded"
- },
- {
-  "font": "mali",
-  "error": "manually excluded"
- },
- {
-  "font": "mali",
   "error": "manually excluded"
  },
  {
@@ -2331,38 +759,6 @@
  },
  {
   "font": "martel",
-  "error": "manually excluded"
- },
- {
-  "font": "martel",
-  "error": "manually excluded"
- },
- {
-  "font": "martel",
-  "error": "manually excluded"
- },
- {
-  "font": "martel",
-  "error": "manually excluded"
- },
- {
-  "font": "martel",
-  "error": "manually excluded"
- },
- {
-  "font": "martelsans",
-  "error": "manually excluded"
- },
- {
-  "font": "martelsans",
-  "error": "manually excluded"
- },
- {
-  "font": "martelsans",
-  "error": "manually excluded"
- },
- {
-  "font": "martelsans",
   "error": "manually excluded"
  },
  {
@@ -2387,18 +783,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "merriweather",
-  "error": "manually excluded"
- },
- {
-  "font": "merriweather",
-  "error": "manually excluded"
- },
- {
-  "font": "merriweather",
-  "error": "manually excluded"
- },
- {
   "font": "Mervale Script",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Mervale%20Script\n"
  },
@@ -2408,22 +792,6 @@
  },
  {
   "font": "mirza",
-  "error": "manually excluded"
- },
- {
-  "font": "mirza",
-  "error": "manually excluded"
- },
- {
-  "font": "mitr",
-  "error": "manually excluded"
- },
- {
-  "font": "mitr",
-  "error": "manually excluded"
- },
- {
-  "font": "mitr",
   "error": "manually excluded"
  },
  {
@@ -2459,30 +827,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "montserrat",
-  "error": "manually excluded"
- },
- {
-  "font": "montserrat",
-  "error": "manually excluded"
- },
- {
-  "font": "montserrat",
-  "error": "manually excluded"
- },
- {
-  "font": "montserrat",
-  "error": "manually excluded"
- },
- {
-  "font": "montserrat",
-  "error": "manually excluded"
- },
- {
-  "font": "montserrat",
-  "error": "manually excluded"
- },
- {
   "font": "M PLUS 1 Code Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/M%20PLUS%201%20Code\n"
  },
@@ -2512,75 +856,11 @@
   "error": "manually excluded"
  },
  {
-  "font": "mukta",
-  "error": "manually excluded"
- },
- {
-  "font": "mukta",
-  "error": "manually excluded"
- },
- {
-  "font": "mukta",
-  "error": "manually excluded"
- },
- {
-  "font": "mukta",
-  "error": "manually excluded"
- },
- {
-  "font": "muktamahee",
-  "error": "manually excluded"
- },
- {
-  "font": "muktamahee",
-  "error": "manually excluded"
- },
- {
-  "font": "muktamahee",
-  "error": "manually excluded"
- },
- {
-  "font": "muktamahee",
-  "error": "manually excluded"
- },
- {
   "font": "muktamahee",
   "error": "manually excluded"
  },
  {
   "font": "muktamalar",
-  "error": "manually excluded"
- },
- {
-  "font": "muktamalar",
-  "error": "manually excluded"
- },
- {
-  "font": "muktamalar",
-  "error": "manually excluded"
- },
- {
-  "font": "muktamalar",
-  "error": "manually excluded"
- },
- {
-  "font": "muktamalar",
-  "error": "manually excluded"
- },
- {
-  "font": "muktavaani",
-  "error": "manually excluded"
- },
- {
-  "font": "muktavaani",
-  "error": "manually excluded"
- },
- {
-  "font": "muktavaani",
-  "error": "manually excluded"
- },
- {
-  "font": "muktavaani",
   "error": "manually excluded"
  },
  {
@@ -2613,14 +893,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "neuton",
-  "error": "manually excluded"
- },
- {
-  "font": "neuton",
-  "error": "manually excluded"
- },
- {
   "font": "nicomoji",
   "error": {
    "errno": -2,
@@ -2640,38 +912,6 @@
  },
  {
   "font": "niramit",
-  "error": "manually excluded"
- },
- {
-  "font": "niramit",
-  "error": "manually excluded"
- },
- {
-  "font": "niramit",
-  "error": "manually excluded"
- },
- {
-  "font": "niramit",
-  "error": "manually excluded"
- },
- {
-  "font": "niramit",
-  "error": "manually excluded"
- },
- {
-  "font": "niramit",
-  "error": "manually excluded"
- },
- {
-  "font": "niramit",
-  "error": "manually excluded"
- },
- {
-  "font": "niramit",
-  "error": "manually excluded"
- },
- {
-  "font": "nobile",
   "error": "manually excluded"
  },
  {
@@ -3728,78 +1968,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "nunito",
-  "error": "manually excluded"
- },
- {
-  "font": "nunito",
-  "error": "manually excluded"
- },
- {
-  "font": "nunito",
-  "error": "manually excluded"
- },
- {
-  "font": "nunito",
-  "error": "manually excluded"
- },
- {
-  "font": "nunito",
-  "error": "manually excluded"
- },
- {
-  "font": "nunito",
-  "error": "manually excluded"
- },
- {
-  "font": "nunito",
-  "error": "manually excluded"
- },
- {
-  "font": "nunito",
-  "error": "manually excluded"
- },
- {
-  "font": "nunito",
-  "error": "manually excluded"
- },
- {
-  "font": "nunitosans",
-  "error": "manually excluded"
- },
- {
-  "font": "nunitosans",
-  "error": "manually excluded"
- },
- {
-  "font": "nunitosans",
-  "error": "manually excluded"
- },
- {
-  "font": "nunitosans",
-  "error": "manually excluded"
- },
- {
-  "font": "nunitosans",
-  "error": "manually excluded"
- },
- {
-  "font": "nunitosans",
-  "error": "manually excluded"
- },
- {
-  "font": "nunitosans",
-  "error": "manually excluded"
- },
- {
-  "font": "nunitosans",
-  "error": "manually excluded"
- },
- {
-  "font": "nunitosans",
-  "error": "manually excluded"
- },
- {
   "font": "nunitosans",
   "error": "manually excluded"
  },
@@ -3820,35 +1988,11 @@
   "error": "manually excluded"
  },
  {
-  "font": "overlock",
-  "error": "manually excluded"
- },
- {
   "font": "overpassmono",
   "error": "manually excluded"
  },
  {
   "font": "palanquin",
-  "error": "manually excluded"
- },
- {
-  "font": "palanquin",
-  "error": "manually excluded"
- },
- {
-  "font": "palanquin",
-  "error": "manually excluded"
- },
- {
-  "font": "palanquin",
-  "error": "manually excluded"
- },
- {
-  "font": "palanquin",
-  "error": "manually excluded"
- },
- {
-  "font": "palanquindark",
   "error": "manually excluded"
  },
  {
@@ -3884,10 +2028,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "playfairdisplaysc",
-  "error": "manually excluded"
- },
- {
   "font": "podkovavfbeta",
   "error": {
    "errno": -2,
@@ -3903,58 +2043,6 @@
  {
   "font": "Ponnala",
   "error": "Failed canvas draw test\n"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
  },
  {
   "font": "poppins",
@@ -4021,99 +2109,11 @@
   "error": "manually excluded"
  },
  {
-  "font": "pridi",
-  "error": "manually excluded"
- },
- {
-  "font": "pridi",
-  "error": "manually excluded"
- },
- {
-  "font": "pridi",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
   "font": "prompt",
   "error": "manually excluded"
  },
  {
   "font": "prozalibre",
-  "error": "manually excluded"
- },
- {
-  "font": "prozalibre",
-  "error": "manually excluded"
- },
- {
-  "font": "prozalibre",
-  "error": "manually excluded"
- },
- {
-  "font": "prozalibre",
-  "error": "manually excluded"
- },
- {
-  "font": "prozalibre",
-  "error": "manually excluded"
- },
- {
-  "font": "prozalibre",
-  "error": "manually excluded"
- },
- {
-  "font": "ptsansnarrow",
   "error": "manually excluded"
  },
  {
@@ -4134,18 +2134,6 @@
  },
  {
   "font": "rajdhani",
-  "error": "manually excluded"
- },
- {
-  "font": "rajdhani",
-  "error": "manually excluded"
- },
- {
-  "font": "rajdhani",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
   "error": "manually excluded"
  },
  {
@@ -4207,10 +2195,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "rubik",
-  "error": "manually excluded"
- },
- {
   "font": "Rubik One Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Rubik%20One\n"
  },
@@ -4227,103 +2211,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "sairacondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairacondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairacondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairacondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairacondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairacondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairacondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairacondensed",
-  "error": "manually excluded"
- },
- {
   "font": "sairaextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairaextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairaextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairaextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairaextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairaextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairaextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairaextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairaextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairasemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairasemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairasemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairasemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairasemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairasemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairasemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairasemicondensed",
   "error": "manually excluded"
  },
  {
@@ -4359,79 +2247,11 @@
   "error": "manually excluded"
  },
  {
-  "font": "sansita",
-  "error": "manually excluded"
- },
- {
-  "font": "sansita",
-  "error": "manually excluded"
- },
- {
-  "font": "sansita",
-  "error": "manually excluded"
- },
- {
   "font": "Sansita One Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sansita%20One\n"
  },
  {
   "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarpanch",
-  "error": "manually excluded"
- },
- {
-  "font": "sarpanch",
-  "error": "manually excluded"
- },
- {
-  "font": "sarpanch",
   "error": "manually excluded"
  },
  {
@@ -4557,10 +2377,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "simonetta",
-  "error": "manually excluded"
- },
- {
   "font": "Sitara",
   "error": "Failed canvas draw test\n"
  },
@@ -4626,22 +2442,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "sourcecodepro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourcecodepro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourcecodepro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourcecodepro",
-  "error": "manually excluded"
- },
- {
   "font": "Source Sans 3",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Source%20Sans%203\n"
  },
@@ -4654,123 +2454,11 @@
   "error": "manually excluded"
  },
  {
-  "font": "sourcesanspro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourcesanspro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourcesanspro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourcesanspro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourcesanspro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourcesanspro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourcesanspro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourceserifpro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourceserifpro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourceserifpro",
-  "error": "manually excluded"
- },
- {
   "font": "sourceserifpro",
   "error": "manually excluded"
  },
  {
   "font": "spectral",
-  "error": "manually excluded"
- },
- {
-  "font": "spectral",
-  "error": "manually excluded"
- },
- {
-  "font": "spectral",
-  "error": "manually excluded"
- },
- {
-  "font": "spectral",
-  "error": "manually excluded"
- },
- {
-  "font": "spectral",
-  "error": "manually excluded"
- },
- {
-  "font": "spectral",
-  "error": "manually excluded"
- },
- {
-  "font": "spectral",
-  "error": "manually excluded"
- },
- {
-  "font": "spectral",
-  "error": "manually excluded"
- },
- {
-  "font": "spectral",
-  "error": "manually excluded"
- },
- {
-  "font": "spectral",
-  "error": "manually excluded"
- },
- {
-  "font": "spectralsc",
-  "error": "manually excluded"
- },
- {
-  "font": "spectralsc",
-  "error": "manually excluded"
- },
- {
-  "font": "spectralsc",
-  "error": "manually excluded"
- },
- {
-  "font": "spectralsc",
-  "error": "manually excluded"
- },
- {
-  "font": "spectralsc",
-  "error": "manually excluded"
- },
- {
-  "font": "spectralsc",
-  "error": "manually excluded"
- },
- {
-  "font": "spectralsc",
-  "error": "manually excluded"
- },
- {
-  "font": "spectralsc",
-  "error": "manually excluded"
- },
- {
-  "font": "spectralsc",
   "error": "manually excluded"
  },
  {
@@ -4802,79 +2490,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "sunflower",
-  "error": "manually excluded"
- },
- {
   "font": "tajawal",
-  "error": "manually excluded"
- },
- {
-  "font": "tajawal",
-  "error": "manually excluded"
- },
- {
-  "font": "tajawal",
-  "error": "manually excluded"
- },
- {
-  "font": "tajawal",
-  "error": "manually excluded"
- },
- {
-  "font": "tajawal",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
   "error": "manually excluded"
  },
  {
@@ -4883,18 +2499,6 @@
  },
  {
   "font": "teko",
-  "error": "manually excluded"
- },
- {
-  "font": "teko",
-  "error": "manually excluded"
- },
- {
-  "font": "teko",
-  "error": "manually excluded"
- },
- {
-  "font": "thabit",
   "error": "manually excluded"
  },
  {
@@ -4904,10 +2508,6 @@
  {
   "font": "Thabit",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Thabit\n"
- },
- {
-  "font": "thabit",
-  "error": "manually excluded"
  },
  {
   "font": "tharlon",
@@ -4927,91 +2527,7 @@
   "error": "manually excluded"
  },
  {
-  "font": "tillana",
-  "error": "manually excluded"
- },
- {
-  "font": "tillana",
-  "error": "manually excluded"
- },
- {
   "font": "titilliumweb",
-  "error": "manually excluded"
- },
- {
-  "font": "titilliumweb",
-  "error": "manually excluded"
- },
- {
-  "font": "titilliumweb",
-  "error": "manually excluded"
- },
- {
-  "font": "titilliumweb",
-  "error": "manually excluded"
- },
- {
-  "font": "titilliumweb",
-  "error": "manually excluded"
- },
- {
-  "font": "titilliumweb",
-  "error": "manually excluded"
- },
- {
-  "font": "titilliumweb",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
   "error": "manually excluded"
  },
  {
@@ -5059,14 +2575,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "vesperlibre",
-  "error": "manually excluded"
- },
- {
-  "font": "vollkornsc",
-  "error": "manually excluded"
- },
- {
   "font": "vollkornsc",
   "error": "manually excluded"
  },
@@ -5103,18 +2611,6 @@
   "error": "manually excluded"
  },
  {
-  "font": "yantramanav",
-  "error": "manually excluded"
- },
- {
-  "font": "yantramanav",
-  "error": "manually excluded"
- },
- {
-  "font": "yantramanav",
-  "error": "manually excluded"
- },
- {
   "font": "Yinmar",
   "error": "Failed canvas draw test\n"
  },
@@ -5140,26 +2636,6 @@
  },
  {
   "font": "zcoolxiaowei",
-  "error": "manually excluded"
- },
- {
-  "font": "zillaslab",
-  "error": "manually excluded"
- },
- {
-  "font": "zillaslab",
-  "error": "manually excluded"
- },
- {
-  "font": "zillaslab",
-  "error": "manually excluded"
- },
- {
-  "font": "zillaslab",
-  "error": "manually excluded"
- },
- {
-  "font": "zillaslab",
   "error": "manually excluded"
  },
  {
