@@ -76,7 +76,7 @@ async function main() {
 						console.log(font.full_name, '❌');
 						errors.push({
 							font: font.full_name,
-							error: err.stdout,
+							error: err.stdout || err.stderr,
 						});
 						return undefined;
 					}
