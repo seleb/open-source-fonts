@@ -201,12 +201,8 @@
   "error": "manually excluded"
  },
  {
-  "font": "Karla Tamil Upright",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Karla%20Tamil%20Upright\n"
- },
- {
-  "font": "Karla Tamil Upright Bold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Karla%20Tamil%20Upright\n"
+  "font": "karlatamilupright",
+  "error": "manually excluded"
  },
  {
   "font": "khyay",
@@ -276,8 +272,8 @@
   }
  },
  {
-  "font": "Lohit Bengali",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Lohit%20Bengali\n"
+  "font": "lohitbengali",
+  "error": "manually excluded"
  },
  {
   "font": "lohitdevanagari",
@@ -289,8 +285,8 @@
   }
  },
  {
-  "font": "Lohit Tamil",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Lohit%20Tamil\n"
+  "font": "lohittamil",
+  "error": "manually excluded"
  },
  {
   "font": "markazitextvfbeta",
@@ -403,196 +399,88 @@
   "error": "manually excluded"
  },
  {
-  "font": "Noto Naskh Arabic UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Naskh%20Arabic%20UI\n"
+  "font": "notonaskharabicui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Arabic UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Arabic%20UI\n"
+  "font": "notosansarabicui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Bengali UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Bengali%20UI\n"
+  "font": "notosansbengaliui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Devanagari UI Black",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
+  "font": "notosansdevanagariui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Devanagari UI Bold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
+  "font": "notosansethiopic",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Devanagari UI ExtraBold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
+  "font": "notosansgujaratiui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Devanagari UI ExtraLight",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
+  "font": "notosansgurmukhiui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Devanagari UI Light",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
+  "font": "notosanskannadaui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Devanagari UI Medium",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
+  "font": "notosanskhmerui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Devanagari UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
+  "font": "notosanslaoui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Devanagari UI SemiBold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
+  "font": "notosansmalayalamui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Devanagari UI Thin",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
+  "font": "notosansmeeteimayek",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Ethiopic Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Ethiopic\n"
+  "font": "notosansmendekikakui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Gujarati UI Black",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
+  "font": "notosansmyanmarui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Gujarati UI Bold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
+  "font": "notosansoriyaui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Gujarati UI ExtraBold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
+  "font": "notosanssinhalaui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Gujarati UI ExtraLight",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
+  "font": "notosanssymbols2",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Gujarati UI Light",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
+  "font": "notosanstamilsupplement",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Gujarati UI Medium",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
+  "font": "notosanstamilui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Gujarati UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
+  "font": "notosansteluguui",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans Gujarati UI SemiBold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
- },
- {
-  "font": "Noto Sans Gujarati UI Thin",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
- },
- {
-  "font": "Noto Sans Gurmukhi UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gurmukhi%20UI\n"
- },
- {
-  "font": "Noto Sans Kannada UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Kannada%20UI\n"
- },
- {
-  "font": "Noto Sans Khmer UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Khmer%20UI\n"
- },
- {
-  "font": "Noto Sans Lao UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Lao%20UI\n"
- },
- {
-  "font": "Noto Sans Malayalam UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Malayalam%20UI\n"
- },
- {
-  "font": "Noto Sans Meetei Mayek Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Meetei%20Mayek\n"
- },
- {
-  "font": "Noto Sans Mende Kikakui Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Mende%20Kikakui\n"
- },
- {
-  "font": "Noto Sans Myanmar UI Black",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
- },
- {
-  "font": "Noto Sans Myanmar UI Bold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
- },
- {
-  "font": "Noto Sans Myanmar UI ExtraBold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
- },
- {
-  "font": "Noto Sans Myanmar UI ExtraLight",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
- },
- {
-  "font": "Noto Sans Myanmar UI Light",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
- },
- {
-  "font": "Noto Sans Myanmar UI Medium",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
- },
- {
-  "font": "Noto Sans Myanmar UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
- },
- {
-  "font": "Noto Sans Myanmar UI SemiBold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
- },
- {
-  "font": "Noto Sans Myanmar UI Thin",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
- },
- {
-  "font": "Noto Sans Oriya UI Black",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Oriya%20UI\n"
- },
- {
-  "font": "Noto Sans Oriya UI Bold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Oriya%20UI\n"
- },
- {
-  "font": "Noto Sans Oriya UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Oriya%20UI\n"
- },
- {
-  "font": "Noto Sans Oriya UI Thin",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Oriya%20UI\n"
- },
- {
-  "font": "Noto Sans Sinhala UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Sinhala%20UI\n"
- },
- {
-  "font": "Noto Sans Symbols2 Regular",
-  "error": "Failed canvas draw test\n"
- },
- {
-  "font": "Noto Sans Tamil Supplement Regular",
-  "error": "Failed canvas draw test\n"
- },
- {
-  "font": "Noto Sans Tamil UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Tamil%20UI\n"
- },
- {
-  "font": "Noto Sans Telugu UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Telugu%20UI\n"
- },
- {
-  "font": "Noto Sans Thai UI Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Thai%20UI\n"
+  "font": "notosansthaiui",
+  "error": "manually excluded"
  },
  {
   "font": "oflsortsmillgoudytt",
@@ -615,12 +503,8 @@
   "error": "manually excluded"
  },
  {
-  "font": "Phetsarath Bold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Phetsarath\n"
- },
- {
-  "font": "Phetsarath Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Phetsarath\n"
+  "font": "phetsarath",
+  "error": "manually excluded"
  },
  {
   "font": "podkovavfbeta",
@@ -636,8 +520,8 @@
   "error": "manually excluded"
  },
  {
-  "font": "Ponnala",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ponnala\n"
+  "font": "ponnala",
+  "error": "manually excluded"
  },
  {
   "font": "portersansblock",
@@ -808,20 +692,8 @@
   "error": "manually excluded"
  },
  {
-  "font": "Sitara",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sitara\n"
- },
- {
-  "font": "Sitara Bold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sitara\n"
- },
- {
-  "font": "Sitara Bold Italic",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sitara\n"
- },
- {
-  "font": "Sitara Italic",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sitara\n"
+  "font": "sitara",
+  "error": "manually excluded"
  },
  {
   "font": "slacksideone",
@@ -882,8 +754,8 @@
   "error": "manually excluded"
  },
  {
-  "font": "Yinmar",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yinmar\n"
+  "font": "yinmar",
+  "error": "manually excluded"
  },
  {
   "font": "yujiboku",
