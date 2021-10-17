@@ -110,7 +110,7 @@ async function main() {
 				],
 				SVGend: ['</svg>}'],
 
-				SVGlayout: ['<image xlink:href="https://seans.site/stuff/open-source-fonts/#file#.png" width="1280" height="720"/>'],
+				SVGlayout: ['<image xlink:href="https://raw.githubusercontent.com/seleb/open-source-fonts/main/output/#file#.png" width="1280" height="720"/>'],
 
 				'list of directories in Google fonts': [],
 				setFont: validFonts.map(({ full_name, name }) => `[file:${full_name}][name:${name}]`),
