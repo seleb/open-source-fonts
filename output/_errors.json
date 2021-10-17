@@ -8,10 +8,6 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Adobe%20Blank\n"
  },
  {
-  "font": "adventpro",
-  "error": "manually excluded"
- },
- {
   "font": "aksarabaligalang",
   "error": {
    "errno": -2,
@@ -19,26 +15,6 @@
    "syscall": "open",
    "path": "./node_modules/fonts/ofl/aksarabaligalang/METADATA.pb"
   }
- },
- {
-  "font": "alegreyasans",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasanssc",
-  "error": "manually excluded"
- },
- {
-  "font": "alegreyasc",
-  "error": "manually excluded"
- },
- {
-  "font": "aleo",
-  "error": "manually excluded"
- },
- {
-  "font": "amiko",
-  "error": "manually excluded"
  },
  {
   "font": "amstelvaralpha",
@@ -50,24 +26,8 @@
   }
  },
  {
-  "font": "antonio",
-  "error": "manually excluded"
- },
- {
   "font": "Aoboshi One Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Aoboshi%20One\n"
- },
- {
-  "font": "archivo",
-  "error": "manually excluded"
- },
- {
-  "font": "arimamadurai",
-  "error": "manually excluded"
- },
- {
-  "font": "asapcondensed",
-  "error": "manually excluded"
  },
  {
   "font": "asapvfbeta",
@@ -79,84 +39,52 @@
   }
  },
  {
-  "font": "assistant",
-  "error": "manually excluded"
- },
- {
-  "font": "athiti",
-  "error": "manually excluded"
- },
- {
-  "font": "atma",
-  "error": "manually excluded"
- },
- {
-  "font": "averialibre",
-  "error": "manually excluded"
- },
- {
-  "font": "averiasanslibre",
-  "error": "manually excluded"
- },
- {
-  "font": "averiaseriflibre",
-  "error": "manually excluded"
- },
- {
-  "font": "baijamjuree",
-  "error": "manually excluded"
- },
- {
   "font": "Bakbak One Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bakbak%20One\n"
- },
- {
-  "font": "barlow",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowcondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "barlowsemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "benchnine",
-  "error": "manually excluded"
  },
  {
   "font": "Bhavuka Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bhavuka\n"
  },
  {
-  "font": "biorhyme",
-  "error": "manually excluded"
- },
- {
   "font": "BioRhyme Bold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
  },
  {
-  "font": "biorhymeexpanded",
-  "error": "manually excluded"
+  "font": "BioRhyme Expanded Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme%20Expanded\n"
+ },
+ {
+  "font": "BioRhyme Expanded ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme%20Expanded\n"
+ },
+ {
+  "font": "BioRhyme Expanded ExtraLight",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme%20Expanded\n"
+ },
+ {
+  "font": "BioRhyme Expanded Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme%20Expanded\n"
+ },
+ {
+  "font": "BioRhyme Expanded Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme%20Expanded\n"
+ },
+ {
+  "font": "BioRhyme ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
+ },
+ {
+  "font": "BioRhyme ExtraLight",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
+ },
+ {
+  "font": "BioRhyme Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
  },
  {
   "font": "BioRhyme Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
- },
- {
-  "font": "biryani",
-  "error": "manually excluded"
- },
- {
-  "font": "blackhansans",
-  "error": "manually excluded"
- },
- {
-  "font": "bowlbyonesc",
-  "error": "manually excluded"
  },
  {
   "font": "Bruno Ace",
@@ -167,26 +95,6 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bruno%20Ace%20SC\n"
  },
  {
-  "font": "buda",
-  "error": "manually excluded"
- },
- {
-  "font": "cabincondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "catamaran",
-  "error": "manually excluded"
- },
- {
-  "font": "chakrapetch",
-  "error": "manually excluded"
- },
- {
-  "font": "chathura",
-  "error": "manually excluded"
- },
- {
   "font": "Chenla",
   "error": "Failed canvas draw test\n"
  },
@@ -195,24 +103,8 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Cherry%20Bomb%20One\n"
  },
  {
-  "font": "chivo",
-  "error": "manually excluded"
- },
- {
   "font": "Chokokutai Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Chokokutai\n"
- },
- {
-  "font": "cinzeldecorative",
-  "error": "manually excluded"
- },
- {
-  "font": "coda",
-  "error": "manually excluded"
- },
- {
-  "font": "codacaption",
-  "error": "manually excluded"
  },
  {
   "font": "Comforter Brush Regular",
@@ -237,38 +129,6 @@
  {
   "font": "Corinthia Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Corinthia\n"
- },
- {
-  "font": "cormorant",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantgaramond",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantinfant",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantsc",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantunicase",
-  "error": "manually excluded"
- },
- {
-  "font": "cormorantupright",
-  "error": "manually excluded"
- },
- {
-  "font": "coustard",
-  "error": "manually excluded"
- },
- {
-  "font": "crimsontext",
-  "error": "manually excluded"
  },
  {
   "font": "Daruma Drop One Regular",
@@ -296,14 +156,6 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Digital%20Numbers\n"
  },
  {
-  "font": "diplomata",
-  "error": "manually excluded"
- },
- {
-  "font": "diplomatasc",
-  "error": "manually excluded"
- },
- {
   "font": "Dongle Bold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Dongle\n"
  },
@@ -316,15 +168,23 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Dongle\n"
  },
  {
-  "font": "eczar",
-  "error": "manually excluded"
- },
- {
-  "font": "ekmukta",
-  "error": "manually excluded"
- },
- {
   "font": "Ek Mukta Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
+ },
+ {
+  "font": "Ek Mukta ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
+ },
+ {
+  "font": "Ek Mukta ExtraLight",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
+ },
+ {
+  "font": "Ek Mukta Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
+ },
+ {
+  "font": "Ek Mukta Medium",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
  },
  {
@@ -332,68 +192,12 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
  },
  {
-  "font": "elsie",
-  "error": "manually excluded"
- },
- {
-  "font": "elsieswashcaps",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesans",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesansexpanded",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemicondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "encodesanssemiexpanded",
-  "error": "manually excluded"
+  "font": "Ek Mukta SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
  },
  {
   "font": "Estonia Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Estonia\n"
- },
- {
-  "font": "fahkwang",
-  "error": "manually excluded"
- },
- {
-  "font": "firamono",
-  "error": "manually excluded"
- },
- {
-  "font": "firasans",
-  "error": "manually excluded"
- },
- {
-  "font": "firasanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "firasansextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "flamenco",
-  "error": "manually excluded"
- },
- {
-  "font": "frankruhllibre",
-  "error": "manually excluded"
- },
- {
-  "font": "gaegu",
-  "error": "manually excluded"
  },
  {
   "font": "Genos Thin",
@@ -402,14 +206,6 @@
  {
   "font": "Genos Thin Italic",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Genos\n"
- },
- {
-  "font": "gothica1",
-  "error": "manually excluded"
- },
- {
-  "font": "halant",
-  "error": "manually excluded"
  },
  {
   "font": "Handjet Regular",
@@ -438,14 +234,6 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hermeneus%20One\n"
  },
  {
-  "font": "hind",
-  "error": "manually excluded"
- },
- {
-  "font": "hindcolombo",
-  "error": "manually excluded"
- },
- {
   "font": "Hind Colombo",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Colombo\n"
  },
@@ -454,12 +242,16 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Colombo\n"
  },
  {
-  "font": "hindguntur",
-  "error": "manually excluded"
+  "font": "Hind Colombo Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Colombo\n"
  },
  {
-  "font": "hindjalandhar",
-  "error": "manually excluded"
+  "font": "Hind Colombo Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Colombo\n"
+ },
+ {
+  "font": "Hind Colombo SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Colombo\n"
  },
  {
   "font": "Hind Jalandhar",
@@ -470,8 +262,16 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Jalandhar\n"
  },
  {
-  "font": "hindkochi",
-  "error": "manually excluded"
+  "font": "Hind Jalandhar Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Jalandhar\n"
+ },
+ {
+  "font": "Hind Jalandhar Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Jalandhar\n"
+ },
+ {
+  "font": "Hind Jalandhar SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Jalandhar\n"
  },
  {
   "font": "Hind Kochi",
@@ -482,52 +282,40 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Kochi\n"
  },
  {
-  "font": "hindmadurai",
-  "error": "manually excluded"
+  "font": "Hind Kochi Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Kochi\n"
+ },
+ {
+  "font": "Hind Kochi Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Kochi\n"
+ },
+ {
+  "font": "Hind Kochi SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Kochi\n"
  },
  {
   "font": "Hind Mysuru",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
  },
  {
-  "font": "hindmysuru",
-  "error": "manually excluded"
- },
- {
   "font": "Hind Mysuru Bold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
  },
  {
-  "font": "hindsiliguri",
-  "error": "manually excluded"
+  "font": "Hind Mysuru Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
  },
  {
-  "font": "hindvadodara",
-  "error": "manually excluded"
+  "font": "Hind Mysuru Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
+ },
+ {
+  "font": "Hind Mysuru SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
  },
  {
   "font": "Hurricane Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hurricane\n"
- },
- {
-  "font": "ibmplexmono",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsans",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexsanscondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "ibmplexserif",
-  "error": "manually excluded"
- },
- {
-  "font": "inknutantiqua",
-  "error": "manually excluded"
  },
  {
   "font": "jejugothic",
@@ -557,28 +345,16 @@
   }
  },
  {
-  "font": "josefinslab",
-  "error": "manually excluded"
+  "font": "Kantumruy",
+  "error": "Failed canvas draw test\n"
  },
  {
-  "font": "jura",
-  "error": "manually excluded"
+  "font": "Kantumruy Bold",
+  "error": "Failed canvas draw test\n"
  },
  {
-  "font": "k2d",
-  "error": "manually excluded"
- },
- {
-  "font": "kalam",
-  "error": "manually excluded"
- },
- {
-  "font": "kanit",
-  "error": "manually excluded"
- },
- {
-  "font": "kantumruy",
-  "error": "manually excluded"
+  "font": "Kantumruy Light",
+  "error": "Failed canvas draw test\n"
  },
  {
   "font": "Kapakana Regular",
@@ -601,24 +377,12 @@
   "error": "Failed canvas draw test\n"
  },
  {
-  "font": "karma",
-  "error": "manually excluded"
- },
- {
   "font": "Kdam Thmor",
   "error": "Failed canvas draw test\n"
  },
  {
-  "font": "khand",
-  "error": "manually excluded"
- },
- {
   "font": "Khmer",
   "error": "Failed canvas draw test\n"
- },
- {
-  "font": "khula",
-  "error": "manually excluded"
  },
  {
   "font": "khyay",
@@ -628,14 +392,6 @@
    "syscall": "open",
    "path": "./node_modules/fonts/ofl/khyay/METADATA.pb"
   }
- },
- {
-  "font": "kodchasan",
-  "error": "manually excluded"
- },
- {
-  "font": "koho",
-  "error": "manually excluded"
  },
  {
   "font": "kokoro",
@@ -654,18 +410,6 @@
    "syscall": "open",
    "path": "./node_modules/fonts/ofl/kopubbatang/METADATA.pb"
   }
- },
- {
-  "font": "kreon",
-  "error": "manually excluded"
- },
- {
-  "font": "krub",
-  "error": "manually excluded"
- },
- {
-  "font": "laila",
-  "error": "manually excluded"
  },
  {
   "font": "laomuangdon",
@@ -695,10 +439,6 @@
   }
  },
  {
-  "font": "lato",
-  "error": "manually excluded"
- },
- {
   "font": "League Gothic Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/League%20Gothic\n"
  },
@@ -710,10 +450,6 @@
    "syscall": "open",
    "path": "./node_modules/fonts/ofl/lemonadavfbeta/METADATA.pb"
   }
- },
- {
-  "font": "librefranklin",
-  "error": "manually excluded"
  },
  {
   "font": "Lohit Bengali",
@@ -733,22 +469,6 @@
   "error": "Failed canvas draw test\n"
  },
  {
-  "font": "londrinasolid",
-  "error": "manually excluded"
- },
- {
-  "font": "mada",
-  "error": "manually excluded"
- },
- {
-  "font": "maitree",
-  "error": "manually excluded"
- },
- {
-  "font": "mali",
-  "error": "manually excluded"
- },
- {
   "font": "markazitextvfbeta",
   "error": {
    "errno": -2,
@@ -756,14 +476,6 @@
    "syscall": "open",
    "path": "./node_modules/fonts/ofl/markazitextvfbeta/METADATA.pb"
   }
- },
- {
-  "font": "martel",
-  "error": "manually excluded"
- },
- {
-  "font": "martelsans",
-  "error": "manually excluded"
  },
  {
   "font": "mavenprovfbeta",
@@ -779,24 +491,12 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Merge%20One\n"
  },
  {
-  "font": "merriweather",
-  "error": "manually excluded"
- },
- {
   "font": "Mervale Script",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Mervale%20Script\n"
  },
  {
   "font": "Miama",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Miama\n"
- },
- {
-  "font": "mirza",
-  "error": "manually excluded"
- },
- {
-  "font": "mitr",
-  "error": "manually excluded"
  },
  {
   "font": "Mochiy Pop One Regular",
@@ -821,10 +521,6 @@
  {
   "font": "Montagu Slab Bold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Montagu%20Slab\n"
- },
- {
-  "font": "montserrat",
-  "error": "manually excluded"
  },
  {
   "font": "M PLUS 1 Code Regular",
@@ -852,22 +548,6 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/M%20PLUS%20Code%20Latin\n"
  },
  {
-  "font": "mukta",
-  "error": "manually excluded"
- },
- {
-  "font": "muktamahee",
-  "error": "manually excluded"
- },
- {
-  "font": "muktamalar",
-  "error": "manually excluded"
- },
- {
-  "font": "muktavaani",
-  "error": "manually excluded"
- },
- {
   "font": "myanmarsanspro",
   "error": {
    "errno": -2,
@@ -877,20 +557,8 @@
   }
  },
  {
-  "font": "nanumgothic",
-  "error": "manually excluded"
- },
- {
-  "font": "nanummyeongjo",
-  "error": "manually excluded"
- },
- {
   "font": "NATS",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/NATS\n"
- },
- {
-  "font": "neuton",
-  "error": "manually excluded"
  },
  {
   "font": "nicomoji",
@@ -909,14 +577,6 @@
    "syscall": "open",
    "path": "./node_modules/fonts/ofl/nikukyu/METADATA.pb"
   }
- },
- {
-  "font": "niramit",
-  "error": "manually excluded"
- },
- {
-  "font": "nobile",
-  "error": "manually excluded"
  },
  {
   "font": "Nosifer Caps Regular",
@@ -1964,14 +1624,6 @@
   "error": "Failed canvas draw test\n"
  },
  {
-  "font": "nunito",
-  "error": "manually excluded"
- },
- {
-  "font": "nunitosans",
-  "error": "manually excluded"
- },
- {
   "font": "OFL Sorts Mill Goudy TT",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/OFL%20Sorts%20Mill%20Goudy%20TT\n"
  },
@@ -1984,32 +1636,12 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Outfit\n"
  },
  {
-  "font": "overlock",
-  "error": "manually excluded"
- },
- {
-  "font": "overpassmono",
-  "error": "manually excluded"
- },
- {
-  "font": "palanquin",
-  "error": "manually excluded"
- },
- {
-  "font": "palanquindark",
-  "error": "manually excluded"
- },
- {
-  "font": "passionone",
-  "error": "manually excluded"
- },
- {
   "font": "Passions Conflict Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Passions%20Conflict\n"
  },
  {
-  "font": "pecita",
-  "error": "manually excluded"
+  "font": "Pecita",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Pecita\n"
  },
  {
   "font": "Petemoss Regular",
@@ -2022,10 +1654,6 @@
  {
   "font": "Phetsarath Regular",
   "error": "Failed canvas draw test\n"
- },
- {
-  "font": "playfairdisplaysc",
-  "error": "manually excluded"
  },
  {
   "font": "podkovavfbeta",
@@ -2043,10 +1671,6 @@
  {
   "font": "Ponnala",
   "error": "Failed canvas draw test\n"
- },
- {
-  "font": "poppins",
-  "error": "manually excluded"
  },
  {
   "font": "Porter Sans Block",
@@ -2105,40 +1729,12 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Praise\n"
  },
  {
-  "font": "pridi",
-  "error": "manually excluded"
- },
- {
-  "font": "prompt",
-  "error": "manually excluded"
- },
- {
-  "font": "prozalibre",
-  "error": "manually excluded"
- },
- {
-  "font": "ptsansnarrow",
-  "error": "manually excluded"
- },
- {
   "font": "Puppies Play Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Puppies%20Play\n"
  },
  {
   "font": "Pushster Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Pushster\n"
- },
- {
-  "font": "quicksand",
-  "error": "manually excluded"
- },
- {
-  "font": "rajdhani",
-  "error": "manually excluded"
- },
- {
-  "font": "raleway",
-  "error": "manually excluded"
  },
  {
   "font": "Readex Pro Regular",
@@ -2191,32 +1787,12 @@
   }
  },
  {
-  "font": "rubik",
-  "error": "manually excluded"
- },
- {
   "font": "Rubik One Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Rubik%20One\n"
  },
  {
   "font": "RU Serius Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/RU%20Serius\n"
- },
- {
-  "font": "saira",
-  "error": "manually excluded"
- },
- {
-  "font": "sairacondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairaextracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "sairasemicondensed",
-  "error": "manually excluded"
  },
  {
   "font": "Sansation Bold",
@@ -2243,20 +1819,8 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sansation\n"
  },
  {
-  "font": "sansita",
-  "error": "manually excluded"
- },
- {
   "font": "Sansita One Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sansita%20One\n"
- },
- {
-  "font": "sarabun",
-  "error": "manually excluded"
- },
- {
-  "font": "sarpanch",
-  "error": "manually excluded"
  },
  {
   "font": "Sassy Frass Regular",
@@ -2345,14 +1909,6 @@
   "error": "Failed canvas draw test\n"
  },
  {
-  "font": "signika",
-  "error": "manually excluded"
- },
- {
-  "font": "signikanegative",
-  "error": "manually excluded"
- },
- {
   "font": "Signika Negative SC Bold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Signika%20Negative%20SC\n"
  },
@@ -2371,10 +1927,6 @@
  {
   "font": "Signika SC",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Signika%20SC\n"
- },
- {
-  "font": "simonetta",
-  "error": "manually excluded"
  },
  {
   "font": "Sitara",
@@ -2438,10 +1990,6 @@
   }
  },
  {
-  "font": "sourcecodepro",
-  "error": "manually excluded"
- },
- {
   "font": "Source Sans 3",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Source%20Sans%203\n"
  },
@@ -2450,63 +1998,27 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Source%20Sans%203\n"
  },
  {
-  "font": "sourcesanspro",
-  "error": "manually excluded"
- },
- {
-  "font": "sourceserifpro",
-  "error": "manually excluded"
- },
- {
-  "font": "spectral",
-  "error": "manually excluded"
- },
- {
-  "font": "spectralsc",
-  "error": "manually excluded"
- },
- {
-  "font": "stintultracondensed",
-  "error": "manually excluded"
- },
- {
-  "font": "stintultraexpanded",
-  "error": "manually excluded"
- },
- {
   "font": "STIX Two Math Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/STIX%20Two%20Math\n"
- },
- {
-  "font": "strait",
-  "error": "manually excluded"
  },
  {
   "font": "Strong",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Strong\n"
  },
  {
-  "font": "sunflower",
-  "error": "manually excluded"
- },
- {
-  "font": "tajawal",
-  "error": "manually excluded"
- },
- {
-  "font": "taviraj",
-  "error": "manually excluded"
- },
- {
-  "font": "teko",
-  "error": "manually excluded"
- },
- {
-  "font": "thabit",
-  "error": "manually excluded"
- },
- {
   "font": "Thabit",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Thabit\n"
+ },
+ {
+  "font": "Thabit-Bold Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Thabit\n"
+ },
+ {
+  "font": "Thabit-Bold-Oblique Bold Oblique",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Thabit\n"
+ },
+ {
+  "font": "Thabit-Oblique Oblique",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Thabit\n"
  },
  {
@@ -2517,22 +2029,6 @@
    "syscall": "open",
    "path": "./node_modules/fonts/ofl/tharlon/METADATA.pb"
   }
- },
- {
-  "font": "tienne",
-  "error": "manually excluded"
- },
- {
-  "font": "tillana",
-  "error": "manually excluded"
- },
- {
-  "font": "titilliumweb",
-  "error": "manually excluded"
- },
- {
-  "font": "trirong",
-  "error": "manually excluded"
  },
  {
   "font": "Tsukimi Rounded Bold",
@@ -2571,14 +2067,6 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Tuffy\n"
  },
  {
-  "font": "vesperlibre",
-  "error": "manually excluded"
- },
- {
-  "font": "vollkornsc",
-  "error": "manually excluded"
- },
- {
   "font": "Yaldevi Colombo Bold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yaldevi%20Colombo\n"
  },
@@ -2603,14 +2091,6 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yaldevi%20Colombo\n"
  },
  {
-  "font": "yanonekaffeesatz",
-  "error": "manually excluded"
- },
- {
-  "font": "yantramanav",
-  "error": "manually excluded"
- },
- {
   "font": "Yinmar",
   "error": "Failed canvas draw test\n"
  },
@@ -2633,13 +2113,5 @@
  {
   "font": "Yuji Syuku Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yuji%20Syuku\n"
- },
- {
-  "font": "zcoolxiaowei",
-  "error": "manually excluded"
- },
- {
-  "font": "zillaslab",
-  "error": "manually excluded"
  }
 ]
