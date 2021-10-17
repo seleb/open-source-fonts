@@ -9,12 +9,6 @@ const { name, fontName, filename, full_name, copyright, weight, style, subsets }
 
 const { createCanvas, registerFont } = require('canvas');
 
-registerFont(`./node_modules/fonts/ofl/${fontName}/${filename}`, {
-	family: full_name,
-	weight,
-	style,
-});
-
 const canvas = createCanvas(w, h);
 const ctx = canvas.getContext('2d');
 ctx.fillStyle = 'black';
@@ -35,13 +29,19 @@ function drawText(text, startSize, maxWidth, height, forceSans = false) {
 }
 
 const testStr = subsets.replace(/ - /g,'\n');
-drawText(testStr, 25, 4 / 5, 1 / 2);
+drawText(testStr, 25, 4 / 5, 1 / 2, true);
 const a = canvas.toBuffer();
 
 ctx.fillStyle = 'black';
 ctx.fillRect(0, 0, w, h);
 ctx.fillStyle = 'white';
-drawText(testStr, 25, 4 / 5, 1 / 2, true);
+
+registerFont(`./node_modules/fonts/ofl/${fontName}/${filename}`, {
+	family: full_name,
+	weight,
+	style,
+});
+drawText(testStr, 25, 4 / 5, 1 / 2);
 const b = canvas.toBuffer();
 
 if (!a.compare(b)) {
