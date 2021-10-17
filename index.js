@@ -7,9 +7,9 @@ const exec = util.promisify(require('child_process').exec);
 let errors = [];
 
 const badFonts = fs
-	.readFileSync('./badFonts.txt', 'utf8')
+	.readFileSync('./badFonts.env', 'utf8')
 	.split(/\n/)
-	.map(f => f.trim())
+	.map(f => f.split('#')[0].trim())
 	.reduce(
 		(result, font) => ({
 			...result,
