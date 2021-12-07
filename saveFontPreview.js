@@ -21,7 +21,7 @@ const {
 	registerFont
 } = require('canvas');
 
-registerFont(`./node_modules/fonts/ofl/${fontName}/${filename}`, {
+registerFont(`.google-fonts/ofl/${fontName}/${filename}`, {
 	family: full_name,
 	weight,
 	style,

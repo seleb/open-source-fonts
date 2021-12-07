@@ -19,7 +19,7 @@ const badFonts = fs
 	);
 
 async function getVariants(fontName) {
-	const metadataFile = await fsp.readFile(`./node_modules/fonts/ofl/${fontName}/METADATA.pb`, 'utf8');
+	const metadataFile = await fsp.readFile(`.google-fonts/ofl/${fontName}/METADATA.pb`, 'utf8');
 	const { fonts, subsets } = parsePb(metadataFile);
 
 	const subsetsString = (await Promise.all(subsets.filter(s => s !== 'menu').map(s => fsp.readFile(`./subsets/${s}.txt`, 'utf8')))).map(s => s.trim()).join(' - ');
@@ -33,7 +33,7 @@ async function getVariants(fontName) {
 
 async function main() {
 	// get font list
-	const files = await fsp.readdir('./node_modules/fonts/ofl');
+	const files = await fsp.readdir('.google-fonts/ofl');
 	// read metadata from font list
 	const fontVariants = await Promise.all(
 		files.map(f =>

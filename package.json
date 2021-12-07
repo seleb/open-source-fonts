@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "install": "napa google/fonts",
+    "update-fonts": "git clone https://github.com/google/fonts.git -b main .google-fonts/",
     "bake-errors": "node bakeErrors.js"
   },
   "author": "Sean S. LeBlanc <sean.s.leblanc@gmail.com>",
@@ -14,8 +14,5 @@
     "canvas": "^2.8.0",
     "minimist": "^1.2.5",
     "node-fetch": "^2.0.0"
-  },
-  "devDependencies": {
-    "napa": "^3.0.0"
   }
 }

@@ -36,7 +36,7 @@ ctx.fillStyle = 'black';
 ctx.fillRect(0, 0, w, h);
 ctx.fillStyle = 'white';
 
-registerFont(`./node_modules/fonts/ofl/${fontName}/${filename}`, {
+registerFont(`.google-fonts/ofl/${fontName}/${filename}`, {
 	family: full_name,
 	weight,
 	style,
