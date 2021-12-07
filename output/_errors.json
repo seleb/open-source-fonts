@@ -13,8 +13,12 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/aksarabaligalang/METADATA.pb"
+   "path": ".google-fonts/ofl/aksarabaligalang/METADATA.pb"
   }
+ },
+ {
+  "font": "Amiri Quran Colored",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Amiri%20Quran%20Colored\n"
  },
  {
   "font": "amstelvaralpha",
@@ -22,7 +26,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/amstelvaralpha/METADATA.pb"
+   "path": ".google-fonts/ofl/amstelvaralpha/METADATA.pb"
   }
  },
  {
@@ -35,12 +39,68 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/asapvfbeta/METADATA.pb"
+   "path": ".google-fonts/ofl/asapvfbeta/METADATA.pb"
   }
  },
  {
   "font": "bakbakone",
   "error": "manually excluded"
+ },
+ {
+  "font": "Be Vietnam Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam Bold Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam ExtraBold Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam Light Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam Medium Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam SemiBold Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam Thin",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
+ },
+ {
+  "font": "Be Vietnam Thin Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
  },
  {
   "font": "bhavuka",
@@ -63,6 +123,10 @@
   "error": "manually excluded"
  },
  {
+  "font": "Bungee Color Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bungee%20Color\n"
+ },
+ {
   "font": "cherrybombone",
   "error": "manually excluded"
  },
@@ -83,6 +147,30 @@
   "error": "manually excluded"
  },
  {
+  "font": "Crimson Text Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Crimson%20Text\n"
+ },
+ {
+  "font": "Crimson Text Bold Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Crimson%20Text\n"
+ },
+ {
+  "font": "Crimson Text Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Crimson%20Text\n"
+ },
+ {
+  "font": "Crimson Text Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Crimson%20Text\n"
+ },
+ {
+  "font": "Crimson Text SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Crimson%20Text\n"
+ },
+ {
+  "font": "Crimson Text SemiBold Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Crimson%20Text\n"
+ },
+ {
   "font": "darumadropone",
   "error": "manually excluded"
  },
@@ -92,7 +180,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/decovaralpha/METADATA.pb"
+   "path": ".google-fonts/ofl/decovaralpha/METADATA.pb"
   }
  },
  {
@@ -129,7 +217,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/hanna/METADATA.pb"
+   "path": ".google-fonts/ofl/hanna/METADATA.pb"
   }
  },
  {
@@ -138,7 +226,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/hannari/METADATA.pb"
+   "path": ".google-fonts/ofl/hannari/METADATA.pb"
   }
  },
  {
@@ -166,12 +254,24 @@
   "error": "manually excluded"
  },
  {
+  "font": "Imperial Script Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Imperial%20Script\n"
+ },
+ {
+  "font": "Inspiration Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Inspiration\n"
+ },
+ {
+  "font": "Island Moments Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Island%20Moments\n"
+ },
+ {
   "font": "jejugothic",
   "error": {
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/jejugothic/METADATA.pb"
+   "path": ".google-fonts/ofl/jejugothic/METADATA.pb"
   }
  },
  {
@@ -180,7 +280,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/jejuhallasan/METADATA.pb"
+   "path": ".google-fonts/ofl/jejuhallasan/METADATA.pb"
   }
  },
  {
@@ -189,7 +289,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/jejumyeongjo/METADATA.pb"
+   "path": ".google-fonts/ofl/jejumyeongjo/METADATA.pb"
   }
  },
  {
@@ -210,7 +310,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/khyay/METADATA.pb"
+   "path": ".google-fonts/ofl/khyay/METADATA.pb"
   }
  },
  {
@@ -219,8 +319,12 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/kokoro/METADATA.pb"
+   "path": ".google-fonts/ofl/kokoro/METADATA.pb"
   }
+ },
+ {
+  "font": "Kolker Brush Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Kolker%20Brush\n"
  },
  {
   "font": "kopubbatang",
@@ -228,7 +332,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/kopubbatang/METADATA.pb"
+   "path": ".google-fonts/ofl/kopubbatang/METADATA.pb"
   }
  },
  {
@@ -237,7 +341,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/laomuangdon/METADATA.pb"
+   "path": ".google-fonts/ofl/laomuangdon/METADATA.pb"
   }
  },
  {
@@ -246,7 +350,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/laomuangkhong/METADATA.pb"
+   "path": ".google-fonts/ofl/laomuangkhong/METADATA.pb"
   }
  },
  {
@@ -255,7 +359,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/laosanspro/METADATA.pb"
+   "path": ".google-fonts/ofl/laosanspro/METADATA.pb"
   }
  },
  {
@@ -268,8 +372,12 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/lemonadavfbeta/METADATA.pb"
+   "path": ".google-fonts/ofl/lemonadavfbeta/METADATA.pb"
   }
+ },
+ {
+  "font": "Licorice Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Licorice\n"
  },
  {
   "font": "lohitbengali",
@@ -281,7 +389,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/lohitdevanagari/METADATA.pb"
+   "path": ".google-fonts/ofl/lohitdevanagari/METADATA.pb"
   }
  },
  {
@@ -289,12 +397,16 @@
   "error": "manually excluded"
  },
  {
+  "font": "Luxurious Roman Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Luxurious%20Roman\n"
+ },
+ {
   "font": "markazitextvfbeta",
   "error": {
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/markazitextvfbeta/METADATA.pb"
+   "path": ".google-fonts/ofl/markazitextvfbeta/METADATA.pb"
   }
  },
  {
@@ -303,7 +415,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/mavenprovfbeta/METADATA.pb"
+   "path": ".google-fonts/ofl/mavenprovfbeta/METADATA.pb"
   }
  },
  {
@@ -339,6 +451,14 @@
   "error": "manually excluded"
  },
  {
+  "font": "Moo Lah Lah Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Moo%20Lah%20Lah\n"
+ },
+ {
+  "font": "Moon Dance Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Moon%20Dance\n"
+ },
+ {
   "font": "mplus1",
   "error": "manually excluded"
  },
@@ -352,7 +472,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/mplus1p/METADATA.pb"
+   "path": ".google-fonts/ofl/mplus1p/METADATA.pb"
   }
  },
  {
@@ -369,7 +489,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/myanmarsanspro/METADATA.pb"
+   "path": ".google-fonts/ofl/myanmarsanspro/METADATA.pb"
   }
  },
  {
@@ -377,12 +497,16 @@
   "error": "manually excluded"
  },
  {
+  "font": "Neonderthaw Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Neonderthaw\n"
+ },
+ {
   "font": "nicomoji",
   "error": {
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/nicomoji/METADATA.pb"
+   "path": ".google-fonts/ofl/nicomoji/METADATA.pb"
   }
  },
  {
@@ -391,7 +515,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/nikukyu/METADATA.pb"
+   "path": ".google-fonts/ofl/nikukyu/METADATA.pb"
   }
  },
  {
@@ -487,8 +611,8 @@
   "error": "manually excluded"
  },
  {
-  "font": "outfit",
-  "error": "manually excluded"
+  "font": "Oooh Baby Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Oooh%20Baby\n"
  },
  {
   "font": "passionsconflict",
@@ -512,7 +636,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/podkovavfbeta/METADATA.pb"
+   "path": ".google-fonts/ofl/podkovavfbeta/METADATA.pb"
   }
  },
  {
@@ -548,6 +672,14 @@
   "error": "manually excluded"
  },
  {
+  "font": "Qwitcher Grypen Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Qwitcher%20Grypen\n"
+ },
+ {
+  "font": "Qwitcher Grypen Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Qwitcher%20Grypen\n"
+ },
+ {
   "font": "readexpro",
   "error": "manually excluded"
  },
@@ -564,6 +696,18 @@
   "error": "manually excluded"
  },
  {
+  "font": "Reem Kufi Fun Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Reem%20Kufi%20Fun\n"
+ },
+ {
+  "font": "Reem Kufi Ink Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Reem%20Kufi%20Ink\n"
+ },
+ {
+  "font": "Reem Kufi Ink Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Reem%20Kufi%20Ink\n"
+ },
+ {
   "font": "robotoflex",
   "error": "manually excluded"
  },
@@ -577,7 +721,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/rokkittvfbeta/METADATA.pb"
+   "path": ".google-fonts/ofl/rokkittvfbeta/METADATA.pb"
   }
  },
  {
@@ -586,7 +730,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/roundedmplus1c/METADATA.pb"
+   "path": ".google-fonts/ofl/roundedmplus1c/METADATA.pb"
   }
  },
  {
@@ -615,8 +759,16 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/sawarabigothic/METADATA.pb"
+   "path": ".google-fonts/ofl/sawarabigothic/METADATA.pb"
   }
+ },
+ {
+  "font": "Scheherazade",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Scheherazade\n"
+ },
+ {
+  "font": "Scheherazade Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Scheherazade\n"
  },
  {
   "font": "sedan",
@@ -632,7 +784,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/seoulhangang/METADATA.pb"
+   "path": ".google-fonts/ofl/seoulhangang/METADATA.pb"
   }
  },
  {
@@ -641,7 +793,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/seoulhangangcondensed/METADATA.pb"
+   "path": ".google-fonts/ofl/seoulhangangcondensed/METADATA.pb"
   }
  },
  {
@@ -650,7 +802,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/seoulnamsan/METADATA.pb"
+   "path": ".google-fonts/ofl/seoulnamsan/METADATA.pb"
   }
  },
  {
@@ -659,7 +811,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/seoulnamsancondensed/METADATA.pb"
+   "path": ".google-fonts/ofl/seoulnamsancondensed/METADATA.pb"
   }
  },
  {
@@ -668,7 +820,7 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/seoulnamsanvertical/METADATA.pb"
+   "path": ".google-fonts/ofl/seoulnamsanvertical/METADATA.pb"
   }
  },
  {
@@ -713,12 +865,20 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/souliyo/METADATA.pb"
+   "path": ".google-fonts/ofl/souliyo/METADATA.pb"
   }
  },
  {
   "font": "sourcesans3",
   "error": "manually excluded"
+ },
+ {
+  "font": "Source Serif 4 Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Source%20Serif%204\n"
+ },
+ {
+  "font": "Source Serif 4 Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Source%20Serif%204\n"
  },
  {
   "font": "stixtwomath",
@@ -738,8 +898,16 @@
    "errno": -2,
    "code": "ENOENT",
    "syscall": "open",
-   "path": "./node_modules/fonts/ofl/tharlon/METADATA.pb"
+   "path": ".google-fonts/ofl/tharlon/METADATA.pb"
   }
+ },
+ {
+  "font": "The Nautigal Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/The%20Nautigal\n"
+ },
+ {
+  "font": "The Nautigal Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/The%20Nautigal\n"
  },
  {
   "font": "tsukimirounded",
@@ -748,6 +916,18 @@
  {
   "font": "tuffy",
   "error": "manually excluded"
+ },
+ {
+  "font": "Twinkle Star Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Twinkle%20Star\n"
+ },
+ {
+  "font": "Vujahday Script Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Vujahday%20Script\n"
+ },
+ {
+  "font": "Waterfall Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Waterfall\n"
  },
  {
   "font": "yaldevicolombo",
