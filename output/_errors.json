@@ -1,11 +1,11 @@
 [
  {
-  "font": "abyssinicasil",
-  "error": "manually excluded"
+  "font": "Abyssinica SIL Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Abyssinica%20SIL\n"
  },
  {
-  "font": "adobeblank",
-  "error": "manually excluded"
+  "font": "Adobe Blank",
+  "error": "Failed canvas draw test\n"
  },
  {
   "font": "aksarabaligalang",
@@ -30,8 +30,8 @@
   }
  },
  {
-  "font": "aoboshione",
-  "error": "manually excluded"
+  "font": "Aoboshi One Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Aoboshi%20One\n"
  },
  {
   "font": "asapvfbeta",
@@ -43,8 +43,8 @@
   }
  },
  {
-  "font": "bakbakone",
-  "error": "manually excluded"
+  "font": "Bakbak One Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bakbak%20One\n"
  },
  {
   "font": "Be Vietnam Bold",
@@ -103,48 +103,68 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Be%20Vietnam\n"
  },
  {
-  "font": "bhavuka",
-  "error": "manually excluded"
+  "font": "Bhavuka Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bhavuka\n"
  },
  {
-  "font": "biorhyme",
-  "error": "manually excluded"
+  "font": "BioRhyme Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
  },
  {
-  "font": "biorhymeexpanded",
-  "error": "manually excluded"
+  "font": "BioRhyme Expanded Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme%20Expanded\n"
  },
  {
-  "font": "brunoace",
-  "error": "manually excluded"
+  "font": "BioRhyme Expanded ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme%20Expanded\n"
  },
  {
-  "font": "brunoacesc",
-  "error": "manually excluded"
+  "font": "BioRhyme Expanded ExtraLight",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme%20Expanded\n"
+ },
+ {
+  "font": "BioRhyme Expanded Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme%20Expanded\n"
+ },
+ {
+  "font": "BioRhyme Expanded Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme%20Expanded\n"
+ },
+ {
+  "font": "BioRhyme ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
+ },
+ {
+  "font": "BioRhyme ExtraLight",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
+ },
+ {
+  "font": "BioRhyme Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
+ },
+ {
+  "font": "BioRhyme Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
+ },
+ {
+  "font": "Bruno Ace",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bruno%20Ace\n"
+ },
+ {
+  "font": "Bruno Ace SC",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bruno%20Ace%20SC\n"
  },
  {
   "font": "Bungee Color Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bungee%20Color\n"
  },
  {
-  "font": "cherrybombone",
-  "error": "manually excluded"
+  "font": "Cherry Bomb One Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Cherry%20Bomb%20One\n"
  },
  {
-  "font": "chokokutai",
-  "error": "manually excluded"
- },
- {
-  "font": "comforter",
-  "error": "manually excluded"
- },
- {
-  "font": "comforterbrush",
-  "error": "manually excluded"
- },
- {
-  "font": "corinthia",
-  "error": "manually excluded"
+  "font": "Chokokutai Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Chokokutai\n"
  },
  {
   "font": "Crimson Text Bold",
@@ -171,8 +191,8 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Crimson%20Text\n"
  },
  {
-  "font": "darumadropone",
-  "error": "manually excluded"
+  "font": "Daruma Drop One Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Daruma%20Drop%20One\n"
  },
  {
   "font": "decovaralpha",
@@ -184,32 +204,48 @@
   }
  },
  {
-  "font": "dhyana",
-  "error": "manually excluded"
+  "font": "Dhyana",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Dhyana\n"
  },
  {
-  "font": "digitalnumbers",
-  "error": "manually excluded"
+  "font": "Dhyana Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Dhyana\n"
  },
  {
-  "font": "dongle",
-  "error": "manually excluded"
+  "font": "Digital Numbers",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Digital%20Numbers\n"
  },
  {
-  "font": "ekmukta",
-  "error": "manually excluded"
+  "font": "Ek Mukta Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
  },
  {
-  "font": "estonia",
-  "error": "manually excluded"
+  "font": "Ek Mukta ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
  },
  {
-  "font": "genos",
-  "error": "manually excluded"
+  "font": "Ek Mukta ExtraLight",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
  },
  {
-  "font": "handjet",
-  "error": "manually excluded"
+  "font": "Ek Mukta Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
+ },
+ {
+  "font": "Ek Mukta Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
+ },
+ {
+  "font": "Ek Mukta Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
+ },
+ {
+  "font": "Ek Mukta SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
+ },
+ {
+  "font": "Handjet Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Handjet\n"
  },
  {
   "font": "hanna",
@@ -230,28 +266,88 @@
   }
  },
  {
-  "font": "hermeneusone",
-  "error": "manually excluded"
+  "font": "Hermeneus One",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hermeneus%20One\n"
  },
  {
-  "font": "hindcolombo",
-  "error": "manually excluded"
+  "font": "Hind Colombo",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Colombo\n"
  },
  {
-  "font": "hindjalandhar",
-  "error": "manually excluded"
+  "font": "Hind Colombo Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Colombo\n"
  },
  {
-  "font": "hindkochi",
-  "error": "manually excluded"
+  "font": "Hind Colombo Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Colombo\n"
  },
  {
-  "font": "hindmysuru",
-  "error": "manually excluded"
+  "font": "Hind Colombo Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Colombo\n"
  },
  {
-  "font": "hurricane",
-  "error": "manually excluded"
+  "font": "Hind Colombo SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Colombo\n"
+ },
+ {
+  "font": "Hind Jalandhar",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Jalandhar\n"
+ },
+ {
+  "font": "Hind Jalandhar Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Jalandhar\n"
+ },
+ {
+  "font": "Hind Jalandhar Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Jalandhar\n"
+ },
+ {
+  "font": "Hind Jalandhar Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Jalandhar\n"
+ },
+ {
+  "font": "Hind Jalandhar SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Jalandhar\n"
+ },
+ {
+  "font": "Hind Kochi",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Kochi\n"
+ },
+ {
+  "font": "Hind Kochi Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Kochi\n"
+ },
+ {
+  "font": "Hind Kochi Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Kochi\n"
+ },
+ {
+  "font": "Hind Kochi Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Kochi\n"
+ },
+ {
+  "font": "Hind Kochi SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Kochi\n"
+ },
+ {
+  "font": "Hind Mysuru",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
+ },
+ {
+  "font": "Hind Mysuru Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
+ },
+ {
+  "font": "Hind Mysuru Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
+ },
+ {
+  "font": "Hind Mysuru Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
+ },
+ {
+  "font": "Hind Mysuru SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
  },
  {
   "font": "Imperial Script Regular",
@@ -293,16 +389,24 @@
   }
  },
  {
-  "font": "kapakana",
-  "error": "manually excluded"
+  "font": "Kapakana Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Kapakana\n"
  },
  {
-  "font": "karlatamilinclined",
-  "error": "manually excluded"
+  "font": "Karla Tamil Inclined",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Karla%20Tamil%20Inclined\n"
  },
  {
-  "font": "karlatamilupright",
-  "error": "manually excluded"
+  "font": "Karla Tamil Inclined Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Karla%20Tamil%20Inclined\n"
+ },
+ {
+  "font": "Karla Tamil Upright",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Karla%20Tamil%20Upright\n"
+ },
+ {
+  "font": "Karla Tamil Upright Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Karla%20Tamil%20Upright\n"
  },
  {
   "font": "khyay",
@@ -363,8 +467,8 @@
   }
  },
  {
-  "font": "leaguegothic",
-  "error": "manually excluded"
+  "font": "League Gothic Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/League%20Gothic\n"
  },
  {
   "font": "lemonadavfbeta",
@@ -380,8 +484,8 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Licorice\n"
  },
  {
-  "font": "lohitbengali",
-  "error": "manually excluded"
+  "font": "Lohit Bengali",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Lohit%20Bengali\n"
  },
  {
   "font": "lohitdevanagari",
@@ -393,8 +497,8 @@
   }
  },
  {
-  "font": "lohittamil",
-  "error": "manually excluded"
+  "font": "Lohit Tamil",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Lohit%20Tamil\n"
  },
  {
   "font": "Luxurious Roman Regular",
@@ -419,36 +523,20 @@
   }
  },
  {
-  "font": "mergeone",
-  "error": "manually excluded"
+  "font": "Merge One",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Merge%20One\n"
  },
  {
-  "font": "mervalescript",
-  "error": "manually excluded"
+  "font": "Mervale Script",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Mervale%20Script\n"
  },
  {
-  "font": "miama",
-  "error": "manually excluded"
+  "font": "Miama",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Miama\n"
  },
  {
-  "font": "mochiypopone",
-  "error": "manually excluded"
- },
- {
-  "font": "mochiypoppone",
-  "error": "manually excluded"
- },
- {
-  "font": "mohave",
-  "error": "manually excluded"
- },
- {
-  "font": "monomaniacone",
-  "error": "manually excluded"
- },
- {
-  "font": "montaguslab",
-  "error": "manually excluded"
+  "font": "Monomaniac One Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Monomaniac%20One\n"
  },
  {
   "font": "Moo Lah Lah Regular",
@@ -457,14 +545,6 @@
  {
   "font": "Moon Dance Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Moon%20Dance\n"
- },
- {
-  "font": "mplus1",
-  "error": "manually excluded"
- },
- {
-  "font": "mplus1code",
-  "error": "manually excluded"
  },
  {
   "font": "mplus1p",
@@ -476,14 +556,6 @@
   }
  },
  {
-  "font": "mplus2",
-  "error": "manually excluded"
- },
- {
-  "font": "mpluscodelatin",
-  "error": "manually excluded"
- },
- {
   "font": "myanmarsanspro",
   "error": {
    "errno": -2,
@@ -493,8 +565,8 @@
   }
  },
  {
-  "font": "nats",
-  "error": "manually excluded"
+  "font": "NATS",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/NATS\n"
  },
  {
   "font": "Neonderthaw Regular",
@@ -519,116 +591,220 @@
   }
  },
  {
-  "font": "nosifercaps",
-  "error": "manually excluded"
+  "font": "Nosifer Caps Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Nosifer%20Caps\n"
  },
  {
-  "font": "notonaskharabicui",
-  "error": "manually excluded"
+  "font": "Noto Naskh Arabic UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Naskh%20Arabic%20UI\n"
  },
  {
-  "font": "notosansarabicui",
-  "error": "manually excluded"
+  "font": "Noto Sans Arabic UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Arabic%20UI\n"
  },
  {
-  "font": "notosansbengaliui",
-  "error": "manually excluded"
+  "font": "Noto Sans Bengali UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Bengali%20UI\n"
  },
  {
-  "font": "notosansdevanagariui",
-  "error": "manually excluded"
+  "font": "Noto Sans Devanagari UI Black",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
  },
  {
-  "font": "notosansethiopic",
-  "error": "manually excluded"
+  "font": "Noto Sans Devanagari UI Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
  },
  {
-  "font": "notosansgujaratiui",
-  "error": "manually excluded"
+  "font": "Noto Sans Devanagari UI ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
  },
  {
-  "font": "notosansgurmukhiui",
-  "error": "manually excluded"
+  "font": "Noto Sans Devanagari UI ExtraLight",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
  },
  {
-  "font": "notosanskannadaui",
-  "error": "manually excluded"
+  "font": "Noto Sans Devanagari UI Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
  },
  {
-  "font": "notosanskhmerui",
-  "error": "manually excluded"
+  "font": "Noto Sans Devanagari UI Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
  },
  {
-  "font": "notosanslaoui",
-  "error": "manually excluded"
+  "font": "Noto Sans Devanagari UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
  },
  {
-  "font": "notosansmalayalamui",
-  "error": "manually excluded"
+  "font": "Noto Sans Devanagari UI SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
  },
  {
-  "font": "notosansmeeteimayek",
-  "error": "manually excluded"
+  "font": "Noto Sans Devanagari UI Thin",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Devanagari%20UI\n"
  },
  {
-  "font": "notosansmendekikakui",
-  "error": "manually excluded"
+  "font": "Noto Sans Ethiopic Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Ethiopic\n"
  },
  {
-  "font": "notosansmyanmarui",
-  "error": "manually excluded"
+  "font": "Noto Sans Gujarati UI Black",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
  },
  {
-  "font": "notosansoriyaui",
-  "error": "manually excluded"
+  "font": "Noto Sans Gujarati UI Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
  },
  {
-  "font": "notosanssinhalaui",
-  "error": "manually excluded"
+  "font": "Noto Sans Gujarati UI ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
  },
  {
-  "font": "notosanssymbols2",
-  "error": "manually excluded"
+  "font": "Noto Sans Gujarati UI ExtraLight",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
  },
  {
-  "font": "notosanstamilsupplement",
-  "error": "manually excluded"
+  "font": "Noto Sans Gujarati UI Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
  },
  {
-  "font": "notosanstamilui",
-  "error": "manually excluded"
+  "font": "Noto Sans Gujarati UI Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
  },
  {
-  "font": "notosansteluguui",
-  "error": "manually excluded"
+  "font": "Noto Sans Gujarati UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
  },
  {
-  "font": "notosansthaiui",
-  "error": "manually excluded"
+  "font": "Noto Sans Gujarati UI SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
  },
  {
-  "font": "oflsortsmillgoudytt",
-  "error": "manually excluded"
+  "font": "Noto Sans Gujarati UI Thin",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gujarati%20UI\n"
+ },
+ {
+  "font": "Noto Sans Gurmukhi UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Gurmukhi%20UI\n"
+ },
+ {
+  "font": "Noto Sans Kannada UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Kannada%20UI\n"
+ },
+ {
+  "font": "Noto Sans Khmer UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Khmer%20UI\n"
+ },
+ {
+  "font": "Noto Sans Lao UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Lao%20UI\n"
+ },
+ {
+  "font": "Noto Sans Malayalam UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Malayalam%20UI\n"
+ },
+ {
+  "font": "Noto Sans Mende Kikakui Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Mende%20Kikakui\n"
+ },
+ {
+  "font": "Noto Sans Myanmar UI Black",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
+ },
+ {
+  "font": "Noto Sans Myanmar UI Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
+ },
+ {
+  "font": "Noto Sans Myanmar UI ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
+ },
+ {
+  "font": "Noto Sans Myanmar UI ExtraLight",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
+ },
+ {
+  "font": "Noto Sans Myanmar UI Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
+ },
+ {
+  "font": "Noto Sans Myanmar UI Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
+ },
+ {
+  "font": "Noto Sans Myanmar UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
+ },
+ {
+  "font": "Noto Sans Myanmar UI SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
+ },
+ {
+  "font": "Noto Sans Myanmar UI Thin",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Myanmar%20UI\n"
+ },
+ {
+  "font": "Noto Sans Oriya UI Black",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Oriya%20UI\n"
+ },
+ {
+  "font": "Noto Sans Oriya UI Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Oriya%20UI\n"
+ },
+ {
+  "font": "Noto Sans Oriya UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Oriya%20UI\n"
+ },
+ {
+  "font": "Noto Sans Oriya UI Thin",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Oriya%20UI\n"
+ },
+ {
+  "font": "Noto Sans Sinhala UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Sinhala%20UI\n"
+ },
+ {
+  "font": "Noto Sans Symbols2 Regular",
+  "error": "Failed canvas draw test\n"
+ },
+ {
+  "font": "Noto Sans Tamil Supplement Regular",
+  "error": "Failed canvas draw test\n"
+ },
+ {
+  "font": "Noto Sans Tamil UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Tamil%20UI\n"
+ },
+ {
+  "font": "Noto Sans Telugu UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Telugu%20UI\n"
+ },
+ {
+  "font": "Noto Sans Thai UI Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Noto%20Sans%20Thai%20UI\n"
+ },
+ {
+  "font": "OFL Sorts Mill Goudy TT",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/OFL%20Sorts%20Mill%20Goudy%20TT\n"
+ },
+ {
+  "font": "OFL Sorts Mill Goudy TT Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/OFL%20Sorts%20Mill%20Goudy%20TT\n"
  },
  {
   "font": "Oooh Baby Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Oooh%20Baby\n"
  },
  {
-  "font": "passionsconflict",
-  "error": "manually excluded"
+  "font": "Pecita",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Pecita\n"
  },
  {
-  "font": "pecita",
-  "error": "manually excluded"
+  "font": "Phetsarath Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Phetsarath\n"
  },
  {
-  "font": "petemoss",
-  "error": "manually excluded"
- },
- {
-  "font": "phetsarath",
-  "error": "manually excluded"
+  "font": "Phetsarath Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Phetsarath\n"
  },
  {
   "font": "podkovavfbeta",
@@ -640,36 +816,68 @@
   }
  },
  {
-  "font": "poetsenone",
-  "error": "manually excluded"
+  "font": "Poetsen One",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Poetsen%20One\n"
  },
  {
-  "font": "ponnala",
-  "error": "manually excluded"
+  "font": "Ponnala",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ponnala\n"
  },
  {
-  "font": "portersansblock",
-  "error": "manually excluded"
+  "font": "Porter Sans Block",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Porter%20Sans%20Block\n"
  },
  {
-  "font": "postnobillscolombo",
-  "error": "manually excluded"
+  "font": "Post No Bills Colombo Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Colombo\n"
  },
  {
-  "font": "postnobillsjaffna",
-  "error": "manually excluded"
+  "font": "Post No Bills Colombo ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Colombo\n"
  },
  {
-  "font": "praise",
-  "error": "manually excluded"
+  "font": "Post No Bills Colombo Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Colombo\n"
  },
  {
-  "font": "puppiesplay",
-  "error": "manually excluded"
+  "font": "Post No Bills Colombo Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Colombo\n"
  },
  {
-  "font": "pushster",
-  "error": "manually excluded"
+  "font": "Post No Bills Colombo Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Colombo\n"
+ },
+ {
+  "font": "Post No Bills Colombo SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Colombo\n"
+ },
+ {
+  "font": "Post No Bills Jaffna Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Jaffna\n"
+ },
+ {
+  "font": "Post No Bills Jaffna ExtraBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Jaffna\n"
+ },
+ {
+  "font": "Post No Bills Jaffna Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Jaffna\n"
+ },
+ {
+  "font": "Post No Bills Jaffna Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Jaffna\n"
+ },
+ {
+  "font": "Post No Bills Jaffna Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Jaffna\n"
+ },
+ {
+  "font": "Post No Bills Jaffna SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Post%20No%20Bills%20Jaffna\n"
+ },
+ {
+  "font": "Pushster Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Pushster\n"
  },
  {
   "font": "Qwitcher Grypen Bold",
@@ -678,22 +886,6 @@
  {
   "font": "Qwitcher Grypen Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Qwitcher%20Grypen\n"
- },
- {
-  "font": "readexpro",
-  "error": "manually excluded"
- },
- {
-  "font": "redacted",
-  "error": "manually excluded"
- },
- {
-  "font": "redactedscript",
-  "error": "manually excluded"
- },
- {
-  "font": "redhatmono",
-  "error": "manually excluded"
  },
  {
   "font": "Reem Kufi Fun Regular",
@@ -708,12 +900,12 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Reem%20Kufi%20Ink\n"
  },
  {
-  "font": "robotoflex",
-  "error": "manually excluded"
+  "font": "RobotoFlex Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Roboto%20Flex\n"
  },
  {
-  "font": "rock3d",
-  "error": "manually excluded"
+  "font": "Rock 3D Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Rock%203D\n"
  },
  {
   "font": "rokkittvfbeta",
@@ -734,24 +926,40 @@
   }
  },
  {
-  "font": "rubikone",
-  "error": "manually excluded"
+  "font": "Rubik One Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Rubik%20One\n"
  },
  {
-  "font": "ruserius",
-  "error": "manually excluded"
+  "font": "RU Serius Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/RU%20Serius\n"
  },
  {
-  "font": "sansation",
-  "error": "manually excluded"
+  "font": "Sansation Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sansation\n"
  },
  {
-  "font": "sansitaone",
-  "error": "manually excluded"
+  "font": "Sansation Bold Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sansation\n"
  },
  {
-  "font": "sassyfrass",
-  "error": "manually excluded"
+  "font": "Sansation Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sansation\n"
+ },
+ {
+  "font": "Sansation Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sansation\n"
+ },
+ {
+  "font": "Sansation Light Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sansation\n"
+ },
+ {
+  "font": "Sansation Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sansation\n"
+ },
+ {
+  "font": "Sansita One Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sansita%20One\n"
  },
  {
   "font": "sawarabigothic",
@@ -771,12 +979,16 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Scheherazade\n"
  },
  {
-  "font": "sedan",
-  "error": "manually excluded"
+  "font": "Sedan",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sedan\n"
  },
  {
-  "font": "sedansc",
-  "error": "manually excluded"
+  "font": "Sedan Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sedan\n"
+ },
+ {
+  "font": "Sedan SC",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sedan%20SC\n"
  },
  {
   "font": "seoulhangang",
@@ -824,40 +1036,80 @@
   }
  },
  {
-  "font": "shipporiantique",
-  "error": "manually excluded"
+  "font": "Shizuru Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Shizuru\n"
  },
  {
-  "font": "shipporiantiqueb1",
-  "error": "manually excluded"
+  "font": "Signika Negative SC Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Signika%20Negative%20SC\n"
  },
  {
-  "font": "shizuru",
-  "error": "manually excluded"
+  "font": "Signika Negative SC Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Signika%20Negative%20SC\n"
  },
  {
-  "font": "signikanegativesc",
-  "error": "manually excluded"
+  "font": "Signika Negative SC Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Signika%20Negative%20SC\n"
  },
  {
-  "font": "signikasc",
-  "error": "manually excluded"
+  "font": "Signika Negative SC SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Signika%20Negative%20SC\n"
  },
  {
-  "font": "sitara",
-  "error": "manually excluded"
+  "font": "Signika SC",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Signika%20SC\n"
  },
  {
-  "font": "slacksideone",
-  "error": "manually excluded"
+  "font": "Sitara",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sitara\n"
  },
  {
-  "font": "sofiasans",
-  "error": "manually excluded"
+  "font": "Sitara Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sitara\n"
  },
  {
-  "font": "sometypemono",
-  "error": "manually excluded"
+  "font": "Sitara Bold Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sitara\n"
+ },
+ {
+  "font": "Sitara Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sitara\n"
+ },
+ {
+  "font": "Slackside One Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Slackside%20One\n"
+ },
+ {
+  "font": "Sofia Sans Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sofia%20Sans\n"
+ },
+ {
+  "font": "Sofia Sans Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sofia%20Sans\n"
+ },
+ {
+  "font": "Sometype Mono Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sometype%20Mono\n"
+ },
+ {
+  "font": "Sometype Mono Bold Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sometype%20Mono\n"
+ },
+ {
+  "font": "Sometype Mono Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sometype%20Mono\n"
+ },
+ {
+  "font": "Sometype Mono Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sometype%20Mono\n"
+ },
+ {
+  "font": "Sometype Mono Medium Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sometype%20Mono\n"
+ },
+ {
+  "font": "Sometype Mono Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Sometype%20Mono\n"
  },
  {
   "font": "souliyo",
@@ -869,10 +1121,6 @@
   }
  },
  {
-  "font": "sourcesans3",
-  "error": "manually excluded"
- },
- {
   "font": "Source Serif 4 Italic",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Source%20Serif%204\n"
  },
@@ -881,16 +1129,28 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Source%20Serif%204\n"
  },
  {
-  "font": "stixtwomath",
-  "error": "manually excluded"
+  "font": "STIX Two Math Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/STIX%20Two%20Math\n"
  },
  {
-  "font": "strong",
-  "error": "manually excluded"
+  "font": "Strong",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Strong\n"
  },
  {
-  "font": "thabit",
-  "error": "manually excluded"
+  "font": "Thabit",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Thabit\n"
+ },
+ {
+  "font": "Thabit-Bold Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Thabit\n"
+ },
+ {
+  "font": "Thabit-Bold-Oblique Bold Oblique",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Thabit\n"
+ },
+ {
+  "font": "Thabit-Oblique Oblique",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Thabit\n"
  },
  {
   "font": "tharlon",
@@ -910,12 +1170,40 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/The%20Nautigal\n"
  },
  {
-  "font": "tsukimirounded",
-  "error": "manually excluded"
+  "font": "Tsukimi Rounded Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Tsukimi%20Rounded\n"
  },
  {
-  "font": "tuffy",
-  "error": "manually excluded"
+  "font": "Tsukimi Rounded Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Tsukimi%20Rounded\n"
+ },
+ {
+  "font": "Tsukimi Rounded Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Tsukimi%20Rounded\n"
+ },
+ {
+  "font": "Tsukimi Rounded Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Tsukimi%20Rounded\n"
+ },
+ {
+  "font": "Tsukimi Rounded SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Tsukimi%20Rounded\n"
+ },
+ {
+  "font": "Tuffy Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Tuffy\n"
+ },
+ {
+  "font": "Tuffy Bold Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Tuffy\n"
+ },
+ {
+  "font": "Tuffy Italic",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Tuffy\n"
+ },
+ {
+  "font": "Tuffy Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Tuffy\n"
  },
  {
   "font": "Twinkle Star Regular",
@@ -930,31 +1218,39 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Waterfall\n"
  },
  {
-  "font": "yaldevicolombo",
-  "error": "manually excluded"
+  "font": "Yaldevi Colombo Bold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yaldevi%20Colombo\n"
  },
  {
-  "font": "yinmar",
-  "error": "manually excluded"
+  "font": "Yaldevi Colombo ExtraLight",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yaldevi%20Colombo\n"
  },
  {
-  "font": "yujiboku",
-  "error": "manually excluded"
+  "font": "Yaldevi Colombo Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yaldevi%20Colombo\n"
  },
  {
-  "font": "yujihentaiganaakari",
-  "error": "manually excluded"
+  "font": "Yaldevi Colombo Medium",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yaldevi%20Colombo\n"
  },
  {
-  "font": "yujihentaiganaakebono",
-  "error": "manually excluded"
+  "font": "Yaldevi Colombo Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yaldevi%20Colombo\n"
  },
  {
-  "font": "yujimai",
-  "error": "manually excluded"
+  "font": "Yaldevi Colombo SemiBold",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yaldevi%20Colombo\n"
  },
  {
-  "font": "yujisyuku",
-  "error": "manually excluded"
+  "font": "Yinmar",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yinmar\n"
+ },
+ {
+  "font": "Yuji Hentaigana Akari Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yuji%20Hentaigana%20Akari\n"
+ },
+ {
+  "font": "Yuji Hentaigana Akebono Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yuji%20Hentaigana%20Akebono\n"
  }
 ]
