@@ -1,8 +1,10 @@
-const fs = require('fs');
-const parsePb = require('./parsePb');
+import child_process from 'child_process';
+import fs from 'fs';
+import util from 'util';
+import parsePb from './parsePb.js';
 const fsp = fs.promises;
-const util = require('util');
-const exec = util.promisify(require('child_process').exec);
+
+const exec = util.promisify(child_process.exec);
 
 let errors = [];
 

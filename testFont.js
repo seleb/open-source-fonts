@@ -1,13 +1,15 @@
 const w = 100;
 const h = 50;
 
-const fs = require('fs');
-const fetch = require('node-fetch');
+import nodeCanvas from 'canvas';
+import fs from 'fs';
+import minimist from 'minimist';
+import fetch from 'node-fetch';
 
-const { file } = require('minimist')(process.argv.slice(2));
+const { createCanvas, registerFont } = nodeCanvas;
+const { file } = minimist(process.argv.slice(2));
 const { name, fontName, filename, full_name, copyright, weight, style, subsets } = JSON.parse(fs.readFileSync(file, 'utf8'));
 
-const { createCanvas, registerFont } = require('canvas');
 
 const canvas = createCanvas(w, h);
 const ctx = canvas.getContext('2d');
