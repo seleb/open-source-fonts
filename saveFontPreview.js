@@ -1,11 +1,14 @@
+import nodeCanvas from 'canvas';
+import fs from 'fs';
+import minimist from 'minimist';
+
+const { createCanvas, registerFont } = nodeCanvas;
+
 const w = 1280;
 const h = 720;
 
-const fs = require('fs');
 
-const {
-	file,
-} = require('minimist')(process.argv.slice(2));
+const { file } = minimist(process.argv.slice(2));
 const {
 	fontName,
 	filename,
@@ -16,10 +19,6 @@ const {
 	subsets,
 } = JSON.parse(fs.readFileSync(file, 'utf8'));
 
-const {
-	createCanvas,
-	registerFont
-} = require('canvas');
 
 registerFont(`.google-fonts/ofl/${fontName}/${filename}`, {
 	family: full_name,

@@ -2,7 +2,7 @@ function getVal(val) {
 	return val.replace(/^"(.*)"$/, '$1').replace(/\\("|')/g, '"');
 }
 
-function parsePb(string){
+export default function parsePb(string){
 	const result = {};
 	const stack = [];
 	let cur = result;
@@ -38,6 +38,4 @@ function parsePb(string){
 	}
 
 	return result;
-};
-
-module.exports = parsePb;
+}
