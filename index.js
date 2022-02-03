@@ -54,43 +54,43 @@ async function main() {
 	await Promise.all(fonts.map(font => fsp.writeFile(`./.temp/${font.full_name}.json`, JSON.stringify(font), 'utf8')));
 
 	// filter out bad fonts
-	const validFonts = (
-		await Promise.all(
-			fonts
-				.filter(({ fontName, full_name }) => {
-					if (badFonts[full_name]) {
-						errors.push({
-							font: fontName,
-							error: 'manually excluded',
-						});
-						return false;
-					} else {
-						return true;
-					}
-				})
-				.map(async font => {
-					console.log(font.full_name, '❓');
-					try {
-						await exec(`node "./testFont" --file="./.temp/${font.full_name}.json"`);
-						console.log(font.full_name, '✅');
-						return font;
-					} catch (err) {
-						console.log(font.full_name, '❌');
-						errors.push({
-							font: font.full_name,
-							error: err.stdout || err.stderr,
-						});
-						return undefined;
-					}
-				})
-		)
-	).filter(i => i);
+	let validFonts = fonts
+	.filter(({ fontName, full_name }) => {
+		if (badFonts[full_name]) {
+			errors.push({
+				font: fontName,
+				error: 'manually excluded',
+			});
+			return false;
+		} else {
+			return true;
+		}
+	});
+	validFonts = await validFonts.reduce(async (acc, font) => {
+		const arr = await acc;
+		console.log(font.full_name, '❓');
+		try {
+			await exec(`node "./testFont" --file="./.temp/${font.full_name}.json"`);
+			console.log(font.full_name, '✅');
+			arr.push(font);
+		} catch (err) {
+			console.log(font.full_name, '❌');
+			errors.push({
+				font: font.full_name,
+				error: err.stdout || err.stderr || err.message,
+			});
+		} finally {
+			return arr;
+		}
+	}, Promise.resolve([]));
+	validFonts = validFonts.filter(i => i);
 
 	// save previews
-	await Promise.all(validFonts.map(async font => {
+	await validFonts.reduce(async (acc, font) => {
+		await acc;
 		await exec(`node "./saveFontPreview" --file="./.temp/${font.full_name}.json"`);
 		console.log(font.full_name, '💾');
-	}));
+	}, Promise.resolve());
 
 	// finalize output
 	errors = Array.from(new Set(errors.map(i => JSON.stringify(i)))).map(i => JSON.parse(i));
