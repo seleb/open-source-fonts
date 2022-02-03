@@ -1,5 +1,5 @@
-const fs = require('fs');
-const errors = require('./output/_errors.json');
+import fs from 'fs';
+const errors = JSON.parse(fs.readFileSync('./output/_errors.json', { encoding: 'utf-8' }));
 let badFonts = fs.readFileSync('./badFonts.env', { encoding: 'utf-8' }).trim();
 badFonts = badFonts
 	.split('\n')
