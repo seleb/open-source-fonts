@@ -10,7 +10,6 @@ const { createCanvas, registerFont } = nodeCanvas;
 const { file } = minimist(process.argv.slice(2));
 const { name, fontName, filename, full_name, copyright, weight, style, subsets } = JSON.parse(fs.readFileSync(file, 'utf8'));
 
-
 const canvas = createCanvas(w, h);
 const ctx = canvas.getContext('2d');
 ctx.fillStyle = 'black';
@@ -31,23 +30,35 @@ function drawText(text, startSize, maxWidth, height, forceSans = false) {
 }
 
 const testStr = subsets.replace(/ - /g,'\n');
-drawText(testStr, 25, 4 / 5, 1 / 2, true);
-const a = canvas.toBuffer();
+drawText(testStr, h/2, 4 / 5, 1 / 2, true);
+const defaultFont = canvas.toBuffer();
 
 ctx.fillStyle = 'black';
 ctx.fillRect(0, 0, w, h);
-ctx.fillStyle = 'white';
+
+const allBlack = canvas.toBuffer();
 
 registerFont(`.google-fonts/ofl/${fontName}/${filename}`, {
 	family: full_name,
 	weight,
 	style,
 });
-drawText(testStr, 25, 4 / 5, 1 / 2);
-const b = canvas.toBuffer();
+ctx.fillStyle = 'white';
+drawText(testStr, h/2, 4 / 5, 1 / 2);
+const customFont = canvas.toBuffer();
 
-if (!a.compare(b)) {
-	console.log('Failed canvas draw test');
+// save image
+// fs.writeFileSync(`./.temp/${full_name}_a.png`, defaultFont);
+// fs.writeFileSync(`./.temp/${full_name}_b.png`, allBlack);
+// fs.writeFileSync(`./.temp/${full_name}_c.png`, customFont);
+
+if (customFont.compare(defaultFont) === 0) {
+	console.log('Failed canvas draw test (matched default)');
+	process.exit(1);
+}
+
+if (customFont.compare(allBlack) === 0) {
+	console.log('Failed canvas draw test (all black)');
 	process.exit(1);
 }
 
