@@ -5,7 +5,7 @@
  },
  {
   "font": "Adobe Blank",
-  "error": "Failed canvas draw test\n"
+  "error": "Failed canvas draw test (matched default)\n"
  },
  {
   "font": "aksarabaligalang",
@@ -41,10 +41,6 @@
    "syscall": "open",
    "path": ".google-fonts/ofl/asapvfbeta/METADATA.pb"
   }
- },
- {
-  "font": "Bakbak One Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bakbak%20One\n"
  },
  {
   "font": "Be Vietnam Bold",
@@ -107,6 +103,10 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bhavuka\n"
  },
  {
+  "font": "BhuTuka Expanded One Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/BhuTuka%20Expanded%20One\n"
+ },
+ {
   "font": "BioRhyme Bold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bio%20Rhyme\n"
  },
@@ -159,6 +159,10 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bungee%20Color\n"
  },
  {
+  "font": "Bungee Spice Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Bungee%20Spice\n"
+ },
+ {
   "font": "Cherry Bomb One Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Cherry%20Bomb%20One\n"
  },
@@ -191,8 +195,8 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Crimson%20Text\n"
  },
  {
-  "font": "Daruma Drop One Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Daruma%20Drop%20One\n"
+  "font": "Darumadrop One Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Darumadrop%20One\n"
  },
  {
   "font": "decovaralpha",
@@ -242,6 +246,14 @@
  {
   "font": "Ek Mukta SemiBold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Ek%20Mukta\n"
+ },
+ {
+  "font": "Encode Sans Condensed Thin",
+  "error": "file:///mnt/d/Archive/2021/open-source-fonts/testFont.js:11\nconst { name, fontName, filename, full_name, copyright, weight, style, subsets } = JSON.parse(fs.readFileSync(file, 'utf8'));\n                                                                                        ^\n\nSyntaxError: Unexpected string in JSON at position 389\n    at JSON.parse (<anonymous>)\n    at file:///mnt/d/Archive/2021/open-source-fonts/testFont.js:11:89\n    at ModuleJob.run (internal/modules/esm/module_job.js:183:25)\n    at async Loader.import (internal/modules/esm/loader.js:178:24)\n    at async Object.loadESM (internal/process/esm_loader.js:68:5)\n"
+ },
+ {
+  "font": "Fredoka Light",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Fredoka\n"
  },
  {
   "font": "Handjet Regular",
@@ -350,16 +362,8 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hind%20Mysuru\n"
  },
  {
-  "font": "Imperial Script Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Imperial%20Script\n"
- },
- {
-  "font": "Inspiration Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Inspiration\n"
- },
- {
-  "font": "Island Moments Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Island%20Moments\n"
+  "font": "Hubballi Regular",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Hubballi\n"
  },
  {
   "font": "jejugothic",
@@ -427,10 +431,6 @@
   }
  },
  {
-  "font": "Kolker Brush Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Kolker%20Brush\n"
- },
- {
   "font": "kopubbatang",
   "error": {
    "errno": -2,
@@ -471,6 +471,10 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/League%20Gothic\n"
  },
  {
+  "font": "League Spartan Thin",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/League%20Spartan\n"
+ },
+ {
   "font": "lemonadavfbeta",
   "error": {
    "errno": -2,
@@ -478,10 +482,6 @@
    "syscall": "open",
    "path": ".google-fonts/ofl/lemonadavfbeta/METADATA.pb"
   }
- },
- {
-  "font": "Licorice Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Licorice\n"
  },
  {
   "font": "Lohit Bengali",
@@ -499,10 +499,6 @@
  {
   "font": "Lohit Tamil",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Lohit%20Tamil\n"
- },
- {
-  "font": "Luxurious Roman Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Luxurious%20Roman\n"
  },
  {
   "font": "markazitextvfbeta",
@@ -539,14 +535,6 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Monomaniac%20One\n"
  },
  {
-  "font": "Moo Lah Lah Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Moo%20Lah%20Lah\n"
- },
- {
-  "font": "Moon Dance Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Moon%20Dance\n"
- },
- {
   "font": "mplus1p",
   "error": {
    "errno": -2,
@@ -569,10 +557,6 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/NATS\n"
  },
  {
-  "font": "Neonderthaw Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Neonderthaw\n"
- },
- {
   "font": "nicomoji",
   "error": {
    "errno": -2,
@@ -593,6 +577,15 @@
  {
   "font": "Nosifer Caps Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Nosifer%20Caps\n"
+ },
+ {
+  "font": "notocoloremojicompattest",
+  "error": {
+   "errno": -2,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "./subsets/emoji.txt"
+  }
  },
  {
   "font": "Noto Naskh Arabic UI Regular",
@@ -764,11 +757,11 @@
  },
  {
   "font": "Noto Sans Symbols2 Regular",
-  "error": "Failed canvas draw test\n"
+  "error": "Failed canvas draw test (matched default)\n"
  },
  {
   "font": "Noto Sans Tamil Supplement Regular",
-  "error": "Failed canvas draw test\n"
+  "error": "Failed canvas draw test (matched default)\n"
  },
  {
   "font": "Noto Sans Tamil UI Regular",
@@ -789,10 +782,6 @@
  {
   "font": "OFL Sorts Mill Goudy TT Italic",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/OFL%20Sorts%20Mill%20Goudy%20TT\n"
- },
- {
-  "font": "Oooh Baby Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Oooh%20Baby\n"
  },
  {
   "font": "Pecita",
@@ -880,14 +869,6 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Pushster\n"
  },
  {
-  "font": "Qwitcher Grypen Bold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Qwitcher%20Grypen\n"
- },
- {
-  "font": "Qwitcher Grypen Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Qwitcher%20Grypen\n"
- },
- {
   "font": "Reem Kufi Fun Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Reem%20Kufi%20Fun\n"
  },
@@ -902,10 +883,6 @@
  {
   "font": "RobotoFlex Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Roboto%20Flex\n"
- },
- {
-  "font": "Rock 3D Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Rock%203D\n"
  },
  {
   "font": "rokkittvfbeta",
@@ -1036,10 +1013,6 @@
   }
  },
  {
-  "font": "Shizuru Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Shizuru\n"
- },
- {
   "font": "Signika Negative SC Bold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Signika%20Negative%20SC\n"
  },
@@ -1078,6 +1051,10 @@
  {
   "font": "Slackside One Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Slackside%20One\n"
+ },
+ {
+  "font": "Smooch Sans Thin",
+  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Smooch%20Sans\n"
  },
  {
   "font": "Sofia Sans Italic",
@@ -1121,14 +1098,6 @@
   }
  },
  {
-  "font": "Source Serif 4 Italic",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Source%20Serif%204\n"
- },
- {
-  "font": "Source Serif 4 Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Source%20Serif%204\n"
- },
- {
   "font": "STIX Two Math Regular",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/STIX%20Two%20Math\n"
  },
@@ -1160,14 +1129,6 @@
    "syscall": "open",
    "path": ".google-fonts/ofl/tharlon/METADATA.pb"
   }
- },
- {
-  "font": "The Nautigal Bold",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/The%20Nautigal\n"
- },
- {
-  "font": "The Nautigal Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/The%20Nautigal\n"
  },
  {
   "font": "Tsukimi Rounded Bold",
@@ -1206,18 +1167,6 @@
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Tuffy\n"
  },
  {
-  "font": "Twinkle Star Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Twinkle%20Star\n"
- },
- {
-  "font": "Vujahday Script Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Vujahday%20Script\n"
- },
- {
-  "font": "Waterfall Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Waterfall\n"
- },
- {
   "font": "Yaldevi Colombo Bold",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yaldevi%20Colombo\n"
  },
@@ -1244,13 +1193,5 @@
  {
   "font": "Yinmar",
   "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yinmar\n"
- },
- {
-  "font": "Yuji Hentaigana Akari Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yuji%20Hentaigana%20Akari\n"
- },
- {
-  "font": "Yuji Hentaigana Akebono Regular",
-  "error": "Failed to load specimen metadata from https://fonts.google.com/metadata/fonts/Yuji%20Hentaigana%20Akebono\n"
  }
 ]
