@@ -33,7 +33,7 @@ async function getVariants(fontName) {
 				.map(async s => {
 					try {
 						const sample = (await fsp.readFile(`./subsets/${s}.txt`, 'utf8')).trim();
-						return ['latin', 'latin-ext', 'math'].includes(s) ? sample : `${sample} (${s})`;
+						return ['latin', 'latin-ext', 'math', 'emoji'].includes(s) ? sample : `${sample} (${s})`;
 					} catch (err) {
 						throw new Error(`no sample gylphs for subset: "${s}"`);
 					}
