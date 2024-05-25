@@ -12,6 +12,7 @@ const badFonts = fs
 	.readFileSync('./badFonts.env', 'utf8')
 	.split(/\n/)
 	.map(f => f.split('#')[0].trim())
+	.filter(i => i)
 	.reduce(
 		(result, font) => ({
 			...result,
