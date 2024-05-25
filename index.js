@@ -1,10 +1,8 @@
-import child_process from 'child_process';
 import fs from 'fs';
-import util from 'util';
+import path from 'path';
+import puppeteer from 'puppeteer';
 import parsePb from './parsePb.js';
 const fsp = fs.promises;
-
-const exec = util.promisify(child_process.exec);
 
 let errors = [];
 
@@ -22,8 +20,14 @@ const badFonts = fs
 	);
 
 async function getVariants(fontName) {
-	const metadataFile = await fsp.readFile(`.google-fonts/ofl/${fontName}/METADATA.pb`, 'utf8');
-	const { fonts, subsets, source: [{ repository_url: url }] } = parsePb(metadataFile);
+	let metadataFile = '';
+	try {
+		metadataFile = await fsp.readFile(`.google-fonts/ofl/${fontName}/METADATA.pb`, 'utf8');
+	} catch (err) {
+		throw new Error('no METADATA.pb');
+	}
+	const { fonts, subsets, source } = parsePb(metadataFile);
+	const url = source?.[0]?.repository_url || (await fsp.readFile(`.google-fonts/ofl/${fontName}/DESCRIPTION.en_us.html`, 'utf-8')).match(/href="(.*?)"/)?.[1] || `https://github.com/google/fonts/tree/main/ofl/${fontName}`;
 
 	const subsetsString = (
 		await Promise.all(
@@ -42,7 +46,7 @@ async function getVariants(fontName) {
 	)
 		.join(' - ');
 
-	if(!url) throw new Error("no repository source");
+	if (!url) throw new Error('no repository source');
 	return fonts.map(font => ({
 		...font,
 		fontName,
@@ -53,14 +57,14 @@ async function getVariants(fontName) {
 
 async function main() {
 	// get font list
-	const files = await fsp.readdir('.google-fonts/ofl');
+	const files = (await fsp.readdir('.google-fonts/ofl'));
 	// read metadata from font list
 	const fontVariants = await Promise.all(
 		files.map(f =>
-			getVariants(f).catch(error => {
+			getVariants(f).catch(err => {
 				errors.push({
 					font: f,
-					error,
+					error: err.message,
 				});
 			})
 		)
@@ -68,12 +72,8 @@ async function main() {
 	// flatten sets
 	const fonts = fontVariants.filter(f => f).reduce((result, sets) => result.concat(sets), []);
 
-	// create descriptor files
-	await Promise.all(fonts.map(font => fsp.writeFile(`./.temp/${font.full_name}.json`, JSON.stringify(font), 'utf8')));
-
 	// filter out bad fonts
-	let validFonts = fonts
-	.filter(({ fontName, full_name }) => {
+	let validFonts = fonts.filter(({ fontName, full_name }) => {
 		if (badFonts[full_name]) {
 			errors.push({
 				font: fontName,
@@ -84,12 +84,39 @@ async function main() {
 			return true;
 		}
 	});
+	const browser = await puppeteer.launch({
+		defaultViewport: {
+			width: 1280,
+			height: 720,
+		},
+	});
+	const template = await fsp.readFile('./font.html', { encoding: 'utf-8' });
+	const tmpPath = `./font-temp.html`;
 	validFonts = await validFonts.reduce(async (acc, font) => {
 		const arr = await acc;
+
 		process.stdout.write(`${font.full_name} `);
+
+		const page = await browser.newPage();
 		try {
-			const output = await exec(`node "./testFont-canvas" --file="./.temp/${font.full_name}.json"`);
-			if (output.stderr.includes("couldn't load font")) throw new Error("canvas couldn't load font");
+			await fsp.writeFile(
+				tmpPath,
+				template
+					.replace(/%fontName%/g, font.fontName)
+					.replace(/%filename%/g, font.filename)
+					.replace(/%font%/g, font.full_name)
+					.replace(/%weight%/g, font.weight)
+					.replace(/%style%/g, font.style)
+					.replace(/%subsets%/g, font.subsets)
+					.replace(/%copyright%/g, font.copyright)
+					.replace(/%teststring%/g, `${font.full_name} ${font.subsets} ${font.copyright}`)
+			);
+			await page.goto(path.resolve(tmpPath));
+			const html = await page.waitForSelector('html:not(.wf-loading)');
+			const fontLoaded = await html.evaluate(i => i.classList.contains('wf-active'));
+			if (!fontLoaded) throw new Error('could not load font');
+			await page.screenshot({ type: 'png', path: `./output/${font.full_name}.png` });
+
 			console.log('✅');
 			arr.push(font);
 		} catch (err) {
@@ -99,18 +126,11 @@ async function main() {
 				error: err.stdout || err.stderr || err.message,
 			});
 		} finally {
+			await page.close();
 			return arr;
 		}
 	}, Promise.resolve([]));
-	validFonts = validFonts.filter(i => i);
-
-	// save previews
-	await validFonts.reduce(async (acc, font) => {
-		await acc;
-		process.stdout.write(`${font.full_name} `);
-		await exec(`node "./saveFontPreview" --file="./.temp/${font.full_name}.json"`);
-		console.log('💾');
-	}, Promise.resolve());
+	await browser.close();
 
 	// finalize output
 	errors = Array.from(new Set(errors.map(i => JSON.stringify(i)))).map(i => JSON.parse(i));

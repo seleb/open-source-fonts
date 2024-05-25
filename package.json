@@ -11,9 +11,11 @@
   },
   "author": "Sean S. LeBlanc <sean.s.leblanc@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "canvas": "^2.11.2",
+  "devDependencies": {
     "minimist": "^1.2.8",
-    "node-fetch": "^3.2.10"
+    "node-fetch": "^3.2.10",
+    "puppeteer": "^22.10.0",
+    "textfit": "^2.4.0",
+    "webfontloader": "^1.6.28"
   }
 }
