@@ -25,7 +25,21 @@ async function getVariants(fontName) {
 	const metadataFile = await fsp.readFile(`.google-fonts/ofl/${fontName}/METADATA.pb`, 'utf8');
 	const { fonts, subsets, source: [{ repository_url: url }] } = parsePb(metadataFile);
 
-	const subsetsString = (await Promise.all(subsets.filter(s => s !== 'menu').map(s => fsp.readFile(`./subsets/${s}.txt`, 'utf8')))).map(s => s.trim()).join(' - ');
+	const subsetsString = (
+		await Promise.all(
+			subsets
+				.filter(s => s !== 'menu')
+				.map(async s => {
+					try {
+						const sample = await fsp.readFile(`./subsets/${s}.txt`, 'utf8');
+						return s.includes('latin') ? sample.trim() : `${sample.trim()} (${s.trim()})`;
+					} catch (err) {
+						throw new Error(`no sample gylphs for subset: "${s}"`);
+					}
+				})
+		)
+	)
+		.join(' - ');
 
 	if(!url) throw new Error("no repository source");
 	return fonts.map(font => ({
