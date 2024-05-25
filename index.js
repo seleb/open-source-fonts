@@ -70,7 +70,9 @@ async function main() {
 		const arr = await acc;
 		process.stdout.write(`${font.full_name} `);
 		try {
-			await exec(`node "./testFont" --file="./.temp/${font.full_name}.json"`);
+			const output = await exec(`node "./testFont-canvas" --file="./.temp/${font.full_name}.json"`);
+			if (output.stderr.includes("couldn't load font")) throw new Error("canvas couldn't load font");
+			await exec(`node "./testFont-metadata" --file="./.temp/${font.full_name}.json"`);
 			console.log('✅');
 			arr.push(font);
 		} catch (err) {
