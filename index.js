@@ -22,14 +22,16 @@ const badFonts = fs
 
 async function getVariants(fontName) {
 	const metadataFile = await fsp.readFile(`.google-fonts/ofl/${fontName}/METADATA.pb`, 'utf8');
-	const { fonts, subsets } = parsePb(metadataFile);
+	const { fonts, subsets, source: [{ repository_url: url }] } = parsePb(metadataFile);
 
 	const subsetsString = (await Promise.all(subsets.filter(s => s !== 'menu').map(s => fsp.readFile(`./subsets/${s}.txt`, 'utf8')))).map(s => s.trim()).join(' - ');
 
+	if(!url) throw new Error("no repository source");
 	return fonts.map(font => ({
 		...font,
 		fontName,
 		subsets: subsetsString,
+		url,
 	}));
 }
 
@@ -72,7 +74,6 @@ async function main() {
 		try {
 			const output = await exec(`node "./testFont-canvas" --file="./.temp/${font.full_name}.json"`);
 			if (output.stderr.includes("couldn't load font")) throw new Error("canvas couldn't load font");
-			await exec(`node "./testFont-metadata" --file="./.temp/${font.full_name}.json"`);
 			console.log('✅');
 			arr.push(font);
 		} catch (err) {
@@ -107,7 +108,7 @@ async function main() {
 		JSON.stringify(
 			{
 				origin: ['#[#setFont#]main#'],
-				main: ['#name# - https://fonts.google.com/specimen/#name.replace( ,%20)##SVGstart##SVGlayout##SVGend#'],
+				main: ['#name# - #url##SVGstart##SVGlayout##SVGend#'],
 
 				'wrapper for SVG (image) section': [],
 				SVGstart: [
@@ -118,7 +119,7 @@ async function main() {
 				SVGlayout: ['<image xlink:href="https://raw.githubusercontent.com/seleb/open-source-fonts/main/output/#file#.png" width="1280" height="720"/>'],
 
 				'list of directories in Google fonts': [],
-				setFont: validFonts.map(({ full_name, name }) => `[file:${full_name}][name:${name}]`),
+				setFont: validFonts.map(({ full_name, name, url }) => `[file:${full_name}][name:${name}][url:${url}]`),
 			},
 			undefined,
 			1
