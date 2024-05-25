@@ -68,13 +68,13 @@ async function main() {
 	});
 	validFonts = await validFonts.reduce(async (acc, font) => {
 		const arr = await acc;
-		console.log(font.full_name, '❓');
+		process.stdout.write(`${font.full_name} `);
 		try {
 			await exec(`node "./testFont" --file="./.temp/${font.full_name}.json"`);
-			console.log(font.full_name, '✅');
+			console.log('✅');
 			arr.push(font);
 		} catch (err) {
-			console.log(font.full_name, '❌');
+			console.log('❌');
 			errors.push({
 				font: font.full_name,
 				error: err.stdout || err.stderr || err.message,
