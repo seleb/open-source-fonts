@@ -29,10 +29,11 @@ async function getVariants(fontName) {
 		await Promise.all(
 			subsets
 				.filter(s => s !== 'menu')
+				.map(s => s.trim())
 				.map(async s => {
 					try {
-						const sample = await fsp.readFile(`./subsets/${s}.txt`, 'utf8');
-						return s.includes('latin') ? sample.trim() : `${sample.trim()} (${s.trim()})`;
+						const sample = (await fsp.readFile(`./subsets/${s}.txt`, 'utf8')).trim();
+						return ['latin', 'latin-ext', 'math'].includes(s) ? sample : `${sample} (${s})`;
 					} catch (err) {
 						throw new Error(`no sample gylphs for subset: "${s}"`);
 					}
