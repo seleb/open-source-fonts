@@ -88,8 +88,9 @@ async function main() {
 	// save previews
 	await validFonts.reduce(async (acc, font) => {
 		await acc;
+		process.stdout.write(`${font.full_name} `);
 		await exec(`node "./saveFontPreview" --file="./.temp/${font.full_name}.json"`);
-		console.log(font.full_name, '💾');
+		console.log('💾');
 	}, Promise.resolve());
 
 	// finalize output
