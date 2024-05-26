@@ -144,7 +144,7 @@ async function main() {
 		JSON.stringify(
 			{
 				origin: ['#[#setFont#]main#'],
-				main: ['#name# - #url##SVGstart##SVGlayout##SVGend#'],
+				main: ['#name# - https://#url##SVGstart##SVGlayout##SVGend#'],
 
 				'wrapper for SVG (image) section': [],
 				SVGstart: [
@@ -155,7 +155,7 @@ async function main() {
 				SVGlayout: ['<image xlink:href="https://raw.githubusercontent.com/seleb/open-source-fonts/main/output/#file#.png" width="1280" height="720"/>'],
 
 				'list of directories in Google fonts': [],
-				setFont: validFonts.map(({ full_name, name, url }) => `[file:${full_name}][name:${name}][url:${url}]`),
+				setFont: validFonts.map(({ full_name, name, url }) => `[file:${full_name}][name:${name}][url:${url.replace(/https?:\/\//, '')}]`),
 			},
 			undefined,
 			1
