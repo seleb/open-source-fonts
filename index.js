@@ -74,7 +74,7 @@ async function getVariants(fontName) {
 
 async function main() {
 	// get font list
-	const files = (await fsp.readdir('.google-fonts/ofl'));
+	const files = await fsp.readdir('.google-fonts/ofl');
 	// read metadata from font list
 	const fontVariants = await Promise.all(
 		files.map(f =>
