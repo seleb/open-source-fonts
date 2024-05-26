@@ -72,24 +72,24 @@
   "error": "no METADATA.pb"
  },
  {
-  "font": "Noto Sans HK Thin",
-  "error": "could not load font"
+  "font": "notosanshk",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans JP Thin",
-  "error": "could not load font"
+  "font": "notosansjp",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans KR Thin",
-  "error": "could not load font"
+  "font": "notosanskr",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans SC Thin",
-  "error": "could not load font"
+  "font": "notosanssc",
+  "error": "manually excluded"
  },
  {
-  "font": "Noto Sans TC Thin",
-  "error": "could not load font"
+  "font": "notosanstc",
+  "error": "manually excluded"
  },
  {
   "font": "podkovavfbeta",
@@ -104,8 +104,8 @@
   "error": "no METADATA.pb"
  },
  {
-  "font": "Rubik Pixels Regular",
-  "error": "Waiting for selector `html:not(.wf-loading)` failed: Waiting failed: 30000ms exceeded"
+  "font": "rubikpixels",
+  "error": "manually excluded"
  },
  {
   "font": "sawarabigothic",
