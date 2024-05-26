@@ -19,6 +19,19 @@ const badFonts = fs
 		{}
 	);
 
+
+function simplestr(str = '') {
+	return str.toLowerCase()
+		// remove modifiers that often aren't included in short names
+		.replace(/\b(bold|semibold|regular|italic)\b/g,' ')
+		// convert to just alphanumeric
+		.replace(/[^a-z0-9]/g, '');
+}
+
+function fuzzyMatch(a = '', b = '') {
+	return simplestr(a).includes(simplestr(b));
+}
+
 async function getVariants(fontName) {
 	let metadataFile = '';
 	try {
@@ -27,7 +40,12 @@ async function getVariants(fontName) {
 		throw new Error('no METADATA.pb');
 	}
 	const { fonts, subsets, source } = parsePb(metadataFile);
-	const url = source?.[0]?.repository_url || (await fsp.readFile(`.google-fonts/ofl/${fontName}/DESCRIPTION.en_us.html`, 'utf-8')).match(/href="(.*?)"/)?.[1] || `https://github.com/google/fonts/tree/main/ofl/${fontName}`;
+	const url =
+		source?.[0]?.repository_url ||
+		Array.from((await fsp.readFile(`.google-fonts/ofl/${fontName}/DESCRIPTION.en_us.html`, 'utf-8')).matchAll(/href="(.*?)"/g)).find(
+			([, i]) => [fontName].concat(fonts.flatMap(f => [f.full_name, f.name])).filter(i => i).some(j => fuzzyMatch(i, j))
+		)?.[1] ||
+		`https://github.com/google/fonts/tree/main/ofl/${fontName}`;
 
 	const subsetsString = (
 		await Promise.all(
@@ -43,8 +61,7 @@ async function getVariants(fontName) {
 					}
 				})
 		)
-	)
-		.join(' - ');
+	).join(' - ');
 
 	if (!url) throw new Error('no repository source');
 	return fonts.map(font => ({
