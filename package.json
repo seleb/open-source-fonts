@@ -14,7 +14,7 @@
   "devDependencies": {
     "minimist": "^1.2.8",
     "node-fetch": "^3.2.10",
-    "puppeteer": "^22.11.2",
+    "puppeteer": "^22.15.0",
     "textfit": "^2.4.0",
     "webfontloader": "^1.6.28"
   }
